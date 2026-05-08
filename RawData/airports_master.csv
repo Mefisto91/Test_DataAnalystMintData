@@ -1,0 +1,194 @@
+iata_code,icao_code,airport_name,city,country,country_code,latitude,longitude,timezone
+ACA,MMAA,General Juan N. Alvarez International Airport,Acapulco,Mexico,MX,16.7571,-99.754,America/Mexico_City
+AGU,MMAS,Lic. Jesus Teran Peredo International Airport,Aguascalientes,Mexico,MX,21.7056,-102.3178,America/Mexico_City
+AKL,NZAA,Auckland Airport,Auckland,New Zealand,NZ,-37.0082,174.785,Pacific/Auckland
+AMD,VAAH,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,IN,23.0772,72.6347,Asia/Kolkata
+AMQ,WAPP,Pattimura International Airport,Ambon,Indonesia,ID,-3.71,128.0893,Asia/Jayapura
+AOR,WMKA,Sultan Abdul Halim Airport,Alor Setar,Malaysia,MY,6.1897,100.3983,Asia/Kuala_Lumpur
+ATQ,VIAR,Sri Guru Ram Dass Jee International Airport,Amritsar,India,IN,31.7096,74.7973,Asia/Kolkata
+BDJ,WAOO,Syamsudin Noor International Airport,Banjarmasin,Indonesia,ID,-3.4424,114.7539,Asia/Makassar
+BIK,WABB,Frans Kaisiepo International Airport,Biak,Indonesia,ID,-1.19,136.1082,Asia/Jayapura
+BJX,MMLO,Del Bajio International Airport,Leon/Guanajuato,Mexico,MX,20.9935,-101.4808,America/Mexico_City
+BKI,WBKK,Kota Kinabalu International Airport,Kota Kinabalu,Malaysia,MY,5.9372,116.0509,Asia/Kuala_Lumpur
+BKS,WIPL,Fatmawati Soekarno Airport,Bengkulu,Indonesia,ID,-3.8637,102.3391,Asia/Jakarta
+BLR,VOBL,Kempegowda International Airport,Bangalore,India,IN,13.1979,77.7063,Asia/Kolkata
+BOG,SKBO,El Dorado International Airport,Bogota,Colombia,CO,4.7016,-74.1469,America/Bogota
+BPN,WALL,Sultan Aji Muhammad Sulaiman Airport,Balikpapan,Indonesia,ID,-1.2674,116.8927,Asia/Makassar
+BTH,WIDD,Hang Nadim International Airport,Batam,Indonesia,ID,1.121,104.1188,Asia/Jakarta
+BTJ,WITT,Sultan Iskandar Muda International Airport,Banda Aceh,Indonesia,ID,5.5236,95.4203,Asia/Jakarta
+BTU,WBGB,Bintulu Airport,Bintulu,Malaysia,MY,3.1239,113.0194,Asia/Kuala_Lumpur
+BWN,WBSB,Brunei International Airport,Bandar Seri Begawan,Brunei,BN,4.9442,114.9283,Asia/Brunei
+CAN,ZGGG,Guangzhou Baiyun International Airport,Guangzhou,China,CN,23.3924,113.2988,Asia/Shanghai
+CCJ,VOCL,Calicut International Airport,Kozhikode,India,IN,11.1367,75.9553,Asia/Kolkata
+CCU,VECC,Netaji Subhas Chandra Bose International Airport,Kolkata,India,IN,22.6547,88.4467,Asia/Kolkata
+CDG,LFPG,Charles de Gaulle Airport,Paris,France,FR,49.0097,2.5479,Europe/Paris
+CEN,MMCN,Ciudad Obregon International Airport,Ciudad Obregon,Mexico,MX,27.3926,-109.8331,America/Mexico_City
+CGK,WIII,Soekarno-Hatta International Airport,Jakarta,Indonesia,ID,-6.1256,106.6559,Asia/Jakarta
+CJS,MMCS,Abraham Gonzalez International Airport,Ciudad Juarez,Mexico,MX,31.6361,-106.4289,America/Mexico_City
+CLQ,MMIA,Licenciado Miguel de la Madrid Airport,Colima,Mexico,MX,19.277,-103.5774,America/Mexico_City
+CLT,KCLT,Charlotte Douglas International Airport,Charlotte,United States,US,35.214,-80.9431,America/New_York
+CMB,VCBI,Bandaranaike International Airport,Colombo,Sri Lanka,LK,7.1808,79.8842,Asia/Colombo
+CNX,VTCC,Chiang Mai International Airport,Chiang Mai,Thailand,TH,18.7669,98.9627,Asia/Bangkok
+COK,VOCI,Cochin International Airport,Kochi,India,IN,10.152,76.4019,Asia/Kolkata
+CTM,MMCM,Chetumal International Airport,Chetumal,Mexico,MX,18.5047,-88.3267,America/Cancun
+CUL,MMCL,Federal de Bachigualato International Airport,Culiacan,Mexico,MX,24.7645,-107.4745,America/Mazatlan
+CUN,MMUN,Cancun International Airport,Cancun,Mexico,MX,21.0366,-86.877,America/Cancun
+CUU,MMCU,General Roberto Fierro Villalobos International Airport,Chihuahua,Mexico,MX,28.7028,-105.9644,America/Mexico_City
+CXR,VVCR,Cam Ranh International Airport,Nha Trang,Vietnam,VN,11.9982,109.2194,Asia/Ho_Chi_Minh
+CZM,MMCZ,Cozumel International Airport,Cozumel,Mexico,MX,20.5224,-86.9256,America/Cancun
+DAC,VGHS,Hazrat Shahjalal International Airport,Dhaka,Bangladesh,BD,23.8433,90.3978,Asia/Dhaka
+DAD,VVDN,Da Nang International Airport,Da Nang,Vietnam,VN,16.0439,108.1994,Asia/Ho_Chi_Minh
+DEN,KDEN,Denver International Airport,Denver,United States,US,39.8561,-104.6737,America/Denver
+DFW,KDFW,Dallas/Fort Worth International Airport,Dallas,United States,US,32.8998,-97.0403,America/Chicago
+DGO,MMDO,General Guadalupe Victoria International Airport,Durango,Mexico,MX,24.1242,-104.5283,America/Mexico_City
+DJB,WIPA,Sultan Thaha Syarifuddin Airport,Jambi,Indonesia,ID,-1.638,103.6446,Asia/Jakarta
+DJJ,WAJJ,Sentani International Airport,Jayapura,Indonesia,ID,-2.5769,140.5163,Asia/Jayapura
+DLI,VVDL,Lien Khuong Airport,Da Lat,Vietnam,VN,11.75,108.3667,Asia/Ho_Chi_Minh
+DMK,VTBD,Don Mueang International Airport,Bangkok,Thailand,TH,13.9125,100.6067,Asia/Bangkok
+DOH,OTHH,Hamad International Airport,Doha,Qatar,QA,25.2731,51.608,Asia/Qatar
+DPS,WADD,Ngurah Rai International Airport,Denpasar,Indonesia,ID,-8.7483,115.1672,Asia/Makassar
+DRW,YPDN,Darwin International Airport,Darwin,Australia,AU,-12.4147,130.8769,Australia/Darwin
+DXB,OMDB,Dubai International Airport,Dubai,United Arab Emirates,AE,25.2532,55.3657,Asia/Dubai
+EWR,KEWR,Newark Liberty International Airport,Newark,United States,US,40.6895,-74.1745,America/New_York
+EZE,SAEZ,Ministro Pistarini International Airport,Buenos Aires,Argentina,AR,-34.8222,-58.5358,America/Argentina/Buenos_Aires
+FAT,KFAT,Fresno Yosemite International Airport,Fresno,United States,US,36.7762,-119.7181,America/Los_Angeles
+FOC,ZSFZ,Fuzhou Changle International Airport,Fuzhou,China,CN,25.9351,119.6633,Asia/Shanghai
+FRA,EDDF,Frankfurt Airport,Frankfurt,Germany,DE,50.0379,8.5622,Europe/Berlin
+GDL,MMGL,Miguel Hidalgo y Costilla Guadalajara International Airport,Guadalajara,Mexico,MX,20.5218,-103.3111,America/Mexico_City
+GRU,SBGR,Sao Paulo Guarulhos International Airport,Sao Paulo,Brazil,BR,-23.4356,-46.4731,America/Sao_Paulo
+GTO,WAMG,Jalaluddin Airport,Gorontalo,Indonesia,ID,0.6373,122.8498,Asia/Makassar
+GUA,MGGT,La Aurora International Airport,Guatemala City,Guatemala,GT,14.5833,-90.5275,America/Guatemala
+HAN,VVNB,Noi Bai International Airport,Hanoi,Vietnam,VN,21.2214,105.8072,Asia/Ho_Chi_Minh
+HGH,ZSHC,Hangzhou Xiaoshan International Airport,Hangzhou,China,CN,30.2294,120.4344,Asia/Shanghai
+HKG,VHHH,Hong Kong International Airport,Hong Kong,Hong Kong,HK,22.308,113.9185,Asia/Hong_Kong
+HKT,VTSP,Phuket International Airport,Phuket,Thailand,TH,8.1132,98.3167,Asia/Bangkok
+HMO,MMHO,General Ignacio Pesqueira Garcia International Airport,Hermosillo,Mexico,MX,29.0959,-111.0478,America/Hermosillo
+HND,RJTT,Haneda Airport,Tokyo,Japan,JP,35.5494,139.7798,Asia/Tokyo
+HUX,MMBT,Bahias de Huatulco International Airport,Huatulco,Mexico,MX,15.7753,-96.2625,America/Mexico_City
+HYD,VOHS,Rajiv Gandhi International Airport,Hyderabad,India,IN,17.2403,78.4294,Asia/Kolkata
+IAH,KIAH,George Bush Intercontinental Airport,Houston,United States,US,29.9844,-95.3414,America/Chicago
+ICN,RKSI,Incheon International Airport,Seoul,South Korea,KR,37.4602,126.4407,Asia/Seoul
+IPH,WMKI,Sultan Azlan Shah Airport,Ipoh,Malaysia,MY,4.5679,101.0922,Asia/Kuala_Lumpur
+JAI,VIJP,Jaipur International Airport,Jaipur,India,IN,26.8242,75.8122,Asia/Kolkata
+JED,OEJN,King Abdulaziz International Airport,Jeddah,Saudi Arabia,SA,21.6796,39.1565,Asia/Riyadh
+JFK,KJFK,John F. Kennedy International Airport,New York,United States,US,40.6413,-73.7781,America/New_York
+JHB,WMKJ,Senai International Airport,Johor Bahru,Malaysia,MY,1.6413,103.67,Asia/Kuala_Lumpur
+JJN,ZSQZ,Quanzhou Jinjiang International Airport,Quanzhou,China,CN,24.7964,118.5897,Asia/Shanghai
+JNB,FAOR,O. R. Tambo International Airport,Johannesburg,South Africa,ZA,-26.1392,28.246,Africa/Johannesburg
+KBR,WMKC,Sultan Ismail Petra Airport,Kota Bharu,Malaysia,MY,6.1697,102.2933,Asia/Kuala_Lumpur
+KBV,VTSG,Krabi International Airport,Krabi,Thailand,TH,8.0992,98.9862,Asia/Bangkok
+KCH,WBGG,Kuching International Airport,Kuching,Malaysia,MY,1.4847,110.3467,Asia/Kuala_Lumpur
+KDI,WAWW,Haluoleo Airport,Kendari,Indonesia,ID,-4.081,122.4182,Asia/Makassar
+KHH,RCKH,Kaohsiung International Airport,Kaohsiung,Taiwan,TW,22.5771,120.3499,Asia/Taipei
+KMG,ZPPP,Kunming Changshui International Airport,Kunming,China,CN,25.1019,102.9292,Asia/Shanghai
+KNO,WIMM,Kualanamu International Airport,Medan,Indonesia,ID,3.6422,98.8853,Asia/Jakarta
+KOE,WATT,El Tari International Airport,Kupang,Indonesia,ID,-10.1716,123.6707,Asia/Makassar
+KOS,VDSV,Sihanoukville International Airport,Sihanoukville,Cambodia,KH,10.5797,103.6366,Asia/Phnom_Penh
+KUL,WMKK,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,MY,2.7456,101.7099,Asia/Kuala_Lumpur
+KWL,ZGKL,Guilin Liangjiang International Airport,Guilin,China,CN,25.2181,110.0392,Asia/Shanghai
+LAP,MMLP,Manuel Marquez de Leon International Airport,La Paz,Mexico,MX,24.0727,-110.3625,America/Mazatlan
+LAS,KLAS,Harry Reid International Airport,Las Vegas,United States,US,36.084,-115.1537,America/Los_Angeles
+LAX,KLAX,Los Angeles International Airport,Los Angeles,United States,US,33.9416,-118.4085,America/Los_Angeles
+LBJ,WATO,Komodo Airport,Labuan Bajo,Indonesia,ID,-8.4866,119.8891,Asia/Makassar
+LBU,WBKL,Labuan Airport,Labuan,Malaysia,MY,5.3008,115.25,Asia/Kuala_Lumpur
+LGK,WMKL,Langkawi International Airport,Langkawi,Malaysia,MY,6.3298,99.7287,Asia/Kuala_Lumpur
+LHR,EGLL,London Heathrow Airport,London,United Kingdom,GB,51.47,-0.4543,Europe/London
+LIM,SPJC,Jorge Chavez International Airport,Lima,Peru,PE,-12.0219,-77.1143,America/Lima
+LKO,VILK,Chaudhary Charan Singh International Airport,Lucknow,India,IN,26.7606,80.8893,Asia/Kolkata
+LMM,MMLM,Valle del Fuerte International Airport,Los Mochis,Mexico,MX,25.6852,-109.0814,America/Mazatlan
+LOP,WADL,Lombok International Airport,Praya,Indonesia,ID,-8.7574,116.2766,Asia/Makassar
+LTO,MMLT,Loreto International Airport,Loreto,Mexico,MX,25.9893,-111.3484,America/Mazatlan
+LUV,WAPL,Dumatubun Airport,Langgur,Indonesia,ID,-5.6616,132.7314,Asia/Jayapura
+MAA,VOMM,Chennai International Airport,Chennai,India,IN,12.9941,80.1709,Asia/Kolkata
+MCO,KMCO,Orlando International Airport,Orlando,United States,US,28.4312,-81.3081,America/New_York
+MDC,WAMM,Sam Ratulangi International Airport,Manado,Indonesia,ID,1.5493,124.9256,Asia/Makassar
+MDW,KMDW,Chicago Midway International Airport,Chicago,United States,US,41.7868,-87.7522,America/Chicago
+MEX,MMMX,Mexico City International Airport,Mexico City,Mexico,MX,19.4361,-99.0719,America/Mexico_City
+MFM,VMMC,Macau International Airport,Macau,Macau,MO,22.1496,113.5915,Asia/Macau
+MIA,KMIA,Miami International Airport,Miami,United States,US,25.7933,-80.2906,America/New_York
+MID,MMMD,Manuel Crescencio Rejon International Airport,Merida,Mexico,MX,20.937,-89.6577,America/Merida
+MKQ,WAKK,Mopah International Airport,Merauke,Indonesia,ID,-8.5203,140.4182,Asia/Jayapura
+MKW,WASR,Rendani Airport,Manokwari,Indonesia,ID,-0.8918,134.049,Asia/Jayapura
+MLE,VRMM,Velana International Airport,Male,Maldives,MV,4.1919,73.5289,Indian/Maldives
+MLM,MMMM,General Francisco J. Mujica International Airport,Morelia,Mexico,MX,19.85,-101.025,America/Mexico_City
+MNL,RPLL,Ninoy Aquino International Airport,Manila,Philippines,PH,14.5086,121.0197,Asia/Manila
+MTY,MMMY,General Mariano Escobedo International Airport,Monterrey,Mexico,MX,25.7785,-100.1068,America/Monterrey
+MXL,MMML,General Rodolfo Sanchez Taboada International Airport,Mexicali,Mexico,MX,32.6306,-115.2414,America/Tijuana
+MYY,WBGR,Miri Airport,Miri,Malaysia,MY,4.3222,113.9869,Asia/Kuala_Lumpur
+MZT,MMMZ,General Rafael Buelna International Airport,Mazatlan,Mexico,MX,23.1614,-106.2656,America/Mazatlan
+NGB,ZSNB,Ningbo Lishe International Airport,Ningbo,China,CN,29.8267,121.4617,Asia/Shanghai
+NLU,MMSM,Felipe Angeles International Airport,Mexico City,Mexico,MX,19.7348,-99.0149,America/Mexico_City
+NNG,ZGNN,Nanning Wuxu International Airport,Nanning,China,CN,22.6083,108.1717,Asia/Shanghai
+NRT,RJAA,Narita International Airport,Tokyo,Japan,JP,35.7647,140.3864,Asia/Tokyo
+OAK,KOAK,Oakland International Airport,Oakland,United States,US,37.7213,-122.2211,America/Los_Angeles
+OAX,MMOX,Xoxocotlan International Airport,Oaxaca,Mexico,MX,16.9998,-96.7266,America/Mexico_City
+ONT,KONT,Ontario International Airport,Ontario,United States,US,34.056,-117.6012,America/Los_Angeles
+ORD,KORD,OHare International Airport,Chicago,United States,US,41.9786,-87.9048,America/Chicago
+PBC,MMPB,Hermanos Serdan International Airport,Puebla,Mexico,MX,19.1581,-98.3714,America/Mexico_City
+PDG,WIPT,Minangkabau International Airport,Padang,Indonesia,ID,-0.7869,100.2806,Asia/Jakarta
+PDX,KPDX,Portland International Airport,Portland,United States,US,45.5898,-122.5951,America/Los_Angeles
+PEN,WMKP,Penang International Airport,Penang,Malaysia,MY,5.2972,100.2769,Asia/Kuala_Lumpur
+PER,YPPH,Perth Airport,Perth,Australia,AU,-31.9404,115.9672,Australia/Perth
+PGK,WIPK,Depati Amir Airport,Pangkal Pinang,Indonesia,ID,-2.1622,106.1397,Asia/Jakarta
+PHX,KPHX,Phoenix Sky Harbor International Airport,Phoenix,United States,US,33.4343,-112.0116,America/Phoenix
+PKU,WIBB,Sultan Syarif Kasim II International Airport,Pekanbaru,Indonesia,ID,0.4608,101.4472,Asia/Jakarta
+PKX,ZBAD,Beijing Daxing International Airport,Beijing,China,CN,39.5098,116.4106,Asia/Shanghai
+PKY,WAOP,Tjilik Riwut Airport,Palangka Raya,Indonesia,ID,-2.2251,113.9427,Asia/Jakarta
+PLM,WIPP,Sultan Mahmud Badaruddin II Airport,Palembang,Indonesia,ID,-2.8983,104.6989,Asia/Jakarta
+PLW,WAML,Mutiara SIS Al-Jufrie Airport,Palu,Indonesia,ID,-0.9185,119.9097,Asia/Makassar
+PNK,WIOO,Supadio Airport,Pontianak,Indonesia,ID,-0.1507,109.4039,Asia/Jakarta
+PQC,VVPQ,Phu Quoc International Airport,Phu Quoc,Vietnam,VN,10.1669,103.9911,Asia/Ho_Chi_Minh
+PVG,ZSPD,Shanghai Pudong International Airport,Shanghai,China,CN,31.1443,121.8083,Asia/Shanghai
+PVR,MMPR,Licenciado Gustavo Diaz Ordaz International Airport,Puerto Vallarta,Mexico,MX,20.68,-105.2544,America/Mexico_City
+PXM,MMPS,Puerto Escondido International Airport,Puerto Escondido,Mexico,MX,15.8769,-97.0892,America/Mexico_City
+QRO,MMQT,Queretaro Intercontinental Airport,Queretaro,Mexico,MX,20.6173,-100.1856,America/Mexico_City
+RNO,KRNO,Reno-Tahoe International Airport,Reno,United States,US,39.4991,-119.7681,America/Los_Angeles
+SAI,ZJSY,Sanya Phoenix International Airport,Sanya,China,CN,18.3029,109.4125,Asia/Shanghai
+SAT,KSAT,San Antonio International Airport,San Antonio,United States,US,29.5337,-98.4698,America/Chicago
+SBW,WBGS,Sibu Airport,Sibu,Malaysia,MY,2.2614,111.9853,Asia/Kuala_Lumpur
+SCL,SCEL,Arturo Merino Benitez International Airport,Santiago,Chile,CL,-33.393,-70.7858,America/Santiago
+SDK,WBKS,Sandakan Airport,Sandakan,Malaysia,MY,5.9009,118.0597,Asia/Kuala_Lumpur
+SEA,KSEA,Seattle-Tacoma International Airport,Seattle,United States,US,47.4502,-122.3088,America/Los_Angeles
+SGN,VVTS,Tan Son Nhat International Airport,Ho Chi Minh City,Vietnam,VN,10.8189,106.6519,Asia/Ho_Chi_Minh
+SIN,WSSS,Singapore Changi Airport,Singapore,Singapore,SG,1.3644,103.9915,Asia/Singapore
+SJC,KSJC,Norman Y. Mineta San Jose International Airport,San Jose,United States,US,37.3626,-121.929,America/Los_Angeles
+SJD,MMSD,Los Cabos International Airport,San Jose del Cabo,Mexico,MX,23.1518,-109.7211,America/Mazatlan
+SJO,MROC,Juan Santamaria International Airport,San Jose,Costa Rica,CR,9.9937,-84.2088,America/Costa_Rica
+SLP,MMSP,Ponciano Arriaga International Airport,San Luis Potosi,Mexico,MX,22.2543,-100.9308,America/Mexico_City
+SMF,KSMF,Sacramento International Airport,Sacramento,United States,US,38.6954,-121.5908,America/Los_Angeles
+SOC,WARQ,Adisumarmo International Airport,Solo,Indonesia,ID,-7.516,110.7577,Asia/Jakarta
+SOQ,WASS,Domine Eduard Osok Airport,Sorong,Indonesia,ID,-0.8941,131.2875,Asia/Jayapura
+SRG,WAHS,Jenderal Ahmad Yani International Airport,Semarang,Indonesia,ID,-6.971,110.375,Asia/Jakarta
+SUB,WARR,Juanda International Airport,Surabaya,Indonesia,ID,-7.3796,112.787,Asia/Jakarta
+SWA,ZGOW,Jieyang Chaoshan International Airport,Jieyang,China,CN,23.5525,116.5025,Asia/Shanghai
+SYD,YSSY,Sydney Kingsford Smith Airport,Sydney,Australia,AU,-33.9399,151.1753,Australia/Sydney
+SZB,WMSA,Sultan Abdul Aziz Shah Airport,Subang,Malaysia,MY,3.1306,101.5492,Asia/Kuala_Lumpur
+SZX,ZGSZ,Shenzhen Baoan International Airport,Shenzhen,China,CN,22.6393,113.8108,Asia/Shanghai
+TAP,MMTP,Tapachula International Airport,Tapachula,Mexico,MX,14.7944,-92.37,America/Mexico_City
+TGG,WMKN,Sultan Mahmud Airport,Kuala Terengganu,Malaysia,MY,5.3826,103.1026,Asia/Kuala_Lumpur
+TGZ,MMTG,Angel Albino Corzo International Airport,Tuxtla Gutierrez,Mexico,MX,16.5638,-93.0226,America/Mexico_City
+TIJ,MMTJ,Tijuana International Airport,Tijuana,Mexico,MX,32.5411,-116.9703,America/Tijuana
+TIM,WAYY,Mozes Kilangin International Airport,Timika,Indonesia,ID,-4.5283,136.8869,Asia/Jayapura
+TJQ,WIOD,H.A.S. Hanandjoeddin International Airport,Tanjung Pandan,Indonesia,ID,-2.7458,107.7546,Asia/Jakarta
+TKG,WIAR,Radin Inten II Airport,Bandar Lampung,Indonesia,ID,-5.2425,105.1789,Asia/Jakarta
+TLC,MMTO,Licenciado Adolfo Lopez Mateos International Airport,Toluca,Mexico,MX,19.337,-99.566,America/Mexico_City
+TPE,RCTP,Taoyuan International Airport,Taipei,Taiwan,TW,25.0797,121.2342,Asia/Taipei
+TPQ,MMPA,El Tajin National Airport,Poza Rica,Mexico,MX,20.6027,-97.4608,America/Mexico_City
+TQO,MMEP,Tepic International Airport,Tepic,Mexico,MX,21.4195,-104.8425,America/Mexico_City
+TRC,MMTC,Francisco Sarabia International Airport,Torreon,Mexico,MX,25.5683,-103.4116,America/Monterrey
+TRK,WALR,Juwata International Airport,Tarakan,Indonesia,ID,3.3267,117.5659,Asia/Makassar
+TRV,VOTV,Trivandrum International Airport,Thiruvananthapuram,India,IN,8.4821,76.92,Asia/Kolkata
+TRZ,VOTR,Tiruchirappalli International Airport,Tiruchirappalli,India,IN,10.7654,78.7097,Asia/Kolkata
+TTE,WAMT,Sultan Babullah Airport,Ternate,Indonesia,ID,0.8314,127.3814,Asia/Jayapura
+TWU,WBKW,Tawau Airport,Tawau,Malaysia,MY,4.3204,118.1278,Asia/Kuala_Lumpur
+UPG,WAAA,Sultan Hasanuddin International Airport,Makassar,Indonesia,ID,-5.0616,119.554,Asia/Makassar
+UPN,MMPN,Ingeniero Juan Guillermo Villasana Airport,Uruapan,Mexico,MX,19.3967,-102.039,America/Mexico_City
+UTP,VTBU,U-Tapao International Airport,Rayong,Thailand,TH,12.6799,101.005,Asia/Bangkok
+VER,MMVR,General Heriberto Jara International Airport,Veracruz,Mexico,MX,19.1459,-96.1874,America/Mexico_City
+VSA,MMVA,Carlos Rovirosa Perez International Airport,Villahermosa,Mexico,MX,17.997,-92.8173,America/Mexico_City
+WUH,ZHHH,Wuhan Tianhe International Airport,Wuhan,China,CN,30.7838,114.2081,Asia/Shanghai
+YIA,WAHI,Yogyakarta International Airport,Yogyakarta,Indonesia,ID,-7.9055,110.0574,Asia/Jakarta
+YVR,CYVR,Vancouver International Airport,Vancouver,Canada,CA,49.1967,-123.1815,America/Vancouver
+YYZ,CYYZ,Toronto Pearson International Airport,Toronto,Canada,CA,43.6777,-79.6248,America/Toronto
+ZCL,MMZC,General Leobardo C. Ruiz International Airport,Zacatecas,Mexico,MX,22.8971,-102.6867,America/Mexico_City
+ZIH,MMZH,Ixtapa-Zihuatanejo International Airport,Ixtapa,Mexico,MX,17.6019,-101.4606,America/Mexico_City

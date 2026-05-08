@@ -1,0 +1,1107 @@
+flight_id,aircraftFamily,aircraftStatus,arrivalDate,arrivalTerminal,carrier,delayDuration,departure,departureDate,departureGate,departureTerminal,destination,duration,estimatedArrival,estimatedDeparture,flightNumber,flightStatus,irop,isBlacklisted,isCodeShare,operatedBy,scheduledArrival,scheduledDeparture,thruFlights
+Y4282_2025-06-01_MEX_PVR,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,21,1,PVR,01:25,19:36,18:05,282,On Time,false,false,False,Operated by Volaris Mexico,19:35,18:05,0
+Y47965_2025-06-02_LAX_TPQ,A320,Landed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201A,B,TPQ,02:51,13:32,10:52,7965,On Time,false,false,False,Operated by Volaris Mexico,13:42,10:52,0
+Y43142_2025-06-01_TIJ_OAX,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,12,1,OAX,03:46,20:49,15:57,3142,On Time,false,false,False,Operated by Volaris Mexico,20:36,15:47,0
+Y43257_2025-06-01_LMM_TIJ,,Programmed,2025-06-01,1,Y4,,LMM,2025-06-01,3,1,TIJ,01:55,15:57,15:02,3257,Canceled,false,false,False,Operated by Volaris Mexico,15:57,15:02,0
+Y43503_2025-06-02_BJX_CUN,A320,Landed,2025-06-02,2,Y4,00:00,BJX,2025-06-02,4,1,CUN,02:32,13:54,10:31,3503,On Time,false,false,False,Operated by Volaris Mexico,14:00,10:31,0
+Y47944_2025-06-02_MLM_SMF,,Programmed,2025-06-02,B,Y4,,MLM,2025-06-02,1,1,SMF,04:20,22:08,19:48,7944,Cancelled,false,false,False,Operated by Volaris Mexico,22:30,19:48,0
+Y42796_2025-08-01_SEA_LAS,,,2025-08-01,,,,,2025-08-01,,,,,,,,,,,True,,,,
+Y43324_2025-06-02_TIJ_TLC,A320,Landed,2025-06-02,,Y4,00:00,TIJ,2025-06-02,4,1,TLC,03:06,00:17,18:55,3324,On Time,false,false,False,Operated by Volaris Mexico,23:58,18:55,0
+Y4470_2025-06-02_MEX_ZIH,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,23,1,ZIH,00:59,15:06,14:10,470,On Time,false,false,False,Operated by Volaris Mexico,14:57,13:55,0
+Y41862_2025-06-01_GDL_ONT,A320,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,C37,1,ONT,03:06,19:09,17:12,1862,On Time,false,false,False,Operated by Volaris Mexico,19:21,17:12,0
+Y42377_2025-06-11_PHX_SAT,,,2025-06-11,,,,,2025-06-11,,,,,,,,,,,True,,,,
+Y41145_2025-06-01_SJD_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SJD,06/01/2025,2,1,GDL,01:20,14:20,12:01,1145,On Time,false,false,False,Operated by Volaris Mexico,14:32,12:01,0
+Y4304_2025-06-01_MEX_SJD,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,04,1,SJD,02:10,19:53,18:45,304,On Time,false,false,False,Operated by Volaris Mexico,19:54,18:45,0
+Y43223_2025-06-01_PBC_TIJ,A319,Landed,2025-06-01,1,Y4,00:00,PBC,2025-06-01,3,1,TIJ,03:09,13:24,11:17,3223,On Time,false,false,False,Operated by Volaris Mexico,13:44,11:17,0
+Y43351_2025-06-03_QRO_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,QRO,2025-06-03,B-1,1,TIJ,03:04,23:19,21:23,3351,On Time,false,false,False,Operated by Volaris Mexico,23:31,21:23,0
+Y41054_2025-06-01_GDL_CUN,A320,Landed,2025-06-01,2,Y4,00:00,GDL,2025-06-01,C34,1,CUN,02:42,10:59,07:25,1054,On Time,false,false,False,Operated by Volaris Mexico,11:03,07:25,0
+Y43275_2025-06-02_UPN_TIJ,A320,Programmed,2025-06-02,1,Y4,00:00,UPN,2025-06-02,2,1,TIJ,03:16,20:12,18:56,3275,On Time,false,false,False,Operated by Volaris Mexico,20:09,18:56,0
+Y42488_2025-08-06_DFW_MDW,,,2025-08-06,,,,,2025-08-06,,,,,,,,,,,True,,,,
+Y43081_2025-06-01_CUN_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A1,2,TIJ,04:31,17:11,14:37,3081,On Time,false,false,False,Operated by Volaris Mexico,17:13,14:37,0
+Y43003_2025-06-01_CUL_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,1,1,TIJ,02:02,14:22,12:19,3003,On Time,false,false,False,Operated by Volaris Mexico,14:22,12:19,0
+Y42344_2025-06-06_LAS_ONT,,,2025-06-06,,,,,2025-06-06,,,,,,,,,,,True,,,,
+Y43938_2025-06-01_CUN_SJO,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A2,2,SJO,02:38,12:50,11:22,3938,On Time,false,false,False,Operated by Volaris Mexico,12:29,11:22,0
+Y41851_2025-06-01_SEA_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SEA,2025-06-01,S8,1,GDL,05:11,04:10,22:00,1851,On Time,false,false,False,Operated by Volaris Mexico,04:00,22:00,0
+Y4102_2025-06-01_MEX_CUN,A321,Landed,2025-06-01,2,Y4,00:00,MEX,2025-06-01,15,1,CUN,02:27,14:59,11:40,102,On Time,false,false,False,Operated by Volaris Mexico,14:58,11:40,0
+Y4561_2025-06-01_PVR_TLC,A320,Landed,2025-06-01,,Y4,00:00,PVR,2025-06-01,1,1,TLC,01:13,18:23,17:28,561,On Time,false,false,False,Operated by Volaris Mexico,18:48,17:28,0
+Y41047_2025-06-01_CUN_GDL,A321,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B19,2,GDL,02:53,17:27,15:34,1047,On Time,false,false,False,Operated by Volaris Mexico,17:04,15:21,0
+Y41730_2025-06-02_GDL_IAH,A320,Programmed,2025-06-02,D,Y4,00:00,GDL,2025-06-02,,1,IAH,02:13,09:17,07:04,1730,On Time,false,false,False,Operated by Volaris Mexico,09:17,07:04,0
+Y4711_2025-06-02_LAX_MEX,A321,Programmed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201A,B,MEX,03:45,05:36,23:51,711,On Time,false,false,False,Operated by Volaris Mexico,05:25,23:51,0
+Y43296_2025-06-01_TIJ_NLU,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,NLU,03:22,01:03,20:50,3296,On Time,false,false,False,Operated by Volaris Mexico,00:56,20:50,0
+Y43553_2025-06-02_PBC_CUN,A320,Landed,2025-06-02,2,Y4,00:00,PBC,2025-06-02,3,1,CUN,01:55,11:23,08:23,3553,On Time,false,false,False,Operated by Volaris Mexico,11:18,08:02,0
+Y41053_2025-06-04_CUN_GDL,A321,Landed,2025-06-04,1,Y4,0:37,CUN,2025-06-04,B1,2,GDL,02:54,23:52,22:16,1053,Delayed,false,false,False,Operated by Volaris Mexico,23:22,21:39,0
+Y41381_2025-06-01_HUX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,HUX,2025-06-01,4,1,GDL,01:39,10:19,08:53,1381,On Time,false,false,False,Operated by Volaris Mexico,10:36,08:53,0
+Y41052_2025-06-03_GDL_CUN,A321,Landed,2025-06-03,2,Y4,00:40,GDL,2025-06-03,A7,1,CUN,02:35,10:28,06:40,1052,Delayed,false,false,False,Operated by Volaris Mexico,09:48,06:00,0
+Y41007_2025-06-03_TIJ_GDL,A321,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,12,1,GDL,02:38,16:05,12:13,1007,On Time,false,false,False,Operated by Volaris Mexico,15:51,11:56,0
+Y4430_2025-06-05_MEX_TAP,A320,Programmed,2025-06-05,,Y4,00:00,MEX,2025-06-05,03,,TAP,01:42,22:22,20:40,430,On Time,false,false,False,Operated by Volaris Mexico,22:25,20:40,0
+Y43044_2025-06-01_TIJ_BJX,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,3,1,BJX,02:50,13:51,08:58,3044,On Time,false,false,False,Operated by Volaris Mexico,13:46,08:58,0
+Y42778_2025-06-15_DEN_PHX,,,2025-06-15,,,,,2025-06-15,,,,,,,,,,,True,,,,
+Y4470_2025-06-04_MEX_ZIH,A320,Landed,2025-06-04,1,Y4,00:00,MEX,2025-06-04,9,1,ZIH,00:52,09:51,09:10,470,On Time,false,false,False,Operated by Volaris Mexico,10:13,09:10,0
+Y43234_2025-06-01_TIJ_LAP,A320,Take Off,2025-06-01,1,Y4,02:21,TIJ,2025-06-01,9,1,LAP,02:01,22:07,19:51,3234,delayed,false,false,False,Operated by Volaris Mexico,19:27,17:30,0
+Y45595_2025-06-01_BJX_MTY,A320,Landed,2025-06-01,A,Y4,00:00,BJX,2025-06-01,5,1,MTY,01:30,09:20,07:51,5595,On Time,false,false,False,Operated by Volaris Mexico,09:14,07:51,0
+Y42068_2025-06-19_MCO_PHX,,,2025-06-19,,,,,2025-06-19,,,,,,,,,,,True,,,,
+Y4142_2025-06-01_MEX_GDL,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,36,1,GDL,01:18,07:21,06:00,142,On Time,false,false,False,Operated by Volaris Mexico,07:18,06:00,0
+Y43004_2025-06-01_TIJ_CUL,A320,Landed,2025-06-01,1,Y4,02:05,TIJ,2025-06-01,5,1,CUL,02:04,16:10,14:09,3004,Delayed,false,false,False,Operated by Volaris Mexico,14:09,12:04,0
+Y41089_2025-06-02_MTY_GDL,A320,Programmed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,5,A,GDL,01:33,16:57,15:24,1089,On Time,false,false,False,Operated by Volaris Mexico,16:25,14:55,0
+Y42643_2025-07-23_DEN_SFO,,,2025-07-23,,,,,2025-07-23,,,,,,,,,,,True,,,,
+Y42807_2025-08-11_DFW_ONT,,,2025-08-11,,,,,2025-08-11,,,,,,,,,,,True,,,,
+Y4380_2025-06-03_MEX_HMO,A321,Landed,2025-06-03,1,Y4,00:00,MEX,2025-06-03,6,1,HMO,03:08,19:50,17:45,380,On Time,true,false,False,Operated by Volaris Mexico,19:33,17:45,0
+Y41780_2025-06-01_GDL_MCO,A320,Landed,2025-06-01,B,Y4,00:00,GDL,2025-06-01,C31,1,MCO,03:39,13:52,08:00,1780,On Time,false,false,False,Operated by Volaris Mexico,13:39,08:00,0
+Y43322_2025-06-01_TIJ_TLC,A320,Landed,2025-06-01,,Y4,00:00,TIJ,2025-06-01,14,1,TLC,03:12,08:09,04:04,3322,On Time,false,false,False,Operated by Volaris Mexico,08:19,04:04,0
+Y43388_2025-06-01_TIJ_LTO,A320,Landed,2025-06-01,1,Y4,02:59,TIJ,2025-06-01,5,1,LTO,01:40,17:11,15:17,3388,Delayed,false,false,False,Operated by Volaris Mexico,14:03,12:18,0
+Y43323_2025-06-03_TLC_TIJ,A320,Programmed,2025-06-03,1,Y4,00:00,TLC,2025-06-03,14,,TIJ,03:23,17:58,16:35,3323,On Time,false,false,False,Operated by Volaris Mexico,18:05,16:35,0
+Y43502_2025-06-01_CUN_BJX,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A8,2,BJX,02:21,16:40,15:19,3502,On Time,false,false,False,Operated by Volaris Mexico,16:47,15:19,0
+Y45553_2025-06-01_QRO_MTY,A320,Landed,2025-06-01,A,Y4,00:00,QRO,2025-06-01,B-1,1,MTY,01:31,10:50,09:18,5553,On Time,false,false,False,Operated by Volaris Mexico,10:40,09:18,0
+Y42277_2025-06-20_PHX_ORD,,,2025-06-20,,,,,2025-06-20,,,,,,,,,,,True,,,,
+Y43918_2025-06-01_MEX_LIM,A320,Programmed,2025-06-01,2,Y4,00:00,MEX,2025-06-01,,1,LIM,06:01,05:06,22:05,3918,On Time,false,false,False,Operated by Volaris Mexico,05:06,22:05,0
+Y4450_2025-06-02_MEX_CZM,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,5,1,CZM,02:03,16:41,13:45,450,On Time,false,false,False,Operated by Volaris Mexico,16:52,13:45,0
+Y43253_2025-06-03_DGO_TIJ,A320,Take Off,2025-06-03,1,Y4,00:00,DGO,2025-06-03,2,1,TIJ,02:26,21:33,21:34,3253,On Time,false,false,False,Operated by Volaris Mexico,22:05,21:34,0
+Y42400_2025-07-02_DEN_LAS,,,2025-07-02,,,,,2025-07-02,,,,,,,,,,,True,,,,
+Y47513_2025-06-01_ZIH_QRO,A320,Landed,2025-06-01,1,Y4,00:00,ZIH,2025-06-01,4,1,QRO,00:48,13:24,12:31,7513,On Time,false,false,False,Operated by Volaris Mexico,13:29,12:31,0
+Y4740_2025-06-01_MEX_LAS,A321,Take Off,2025-06-01,3,Y4,02:49,MEX,2025-06-01,18,1,LAS,04:18,16:51,14:44,740,Delayed,false,false,False,Operated by Volaris Mexico,13:56,11:55,0
+Y43482_2025-06-01_CUN_TLC,A320,Landed,2025-06-01,,Y4,00:00,CUN,2025-06-01,A3,2,TLC,02:14,18:05,16:41,3482,On Time,false,false,False,Operated by Volaris Mexico,18:04,16:41,0
+Y42626_2025-06-27_LAX_SMF,,,2025-06-27,,,,,2025-06-27,,,,,,,,,,,True,,,,
+Y4281_2025-06-01_PVR_MEX,A321,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,14,1,MEX,01:38,13:59,12:26,281,On Time,false,false,False,Operated by Volaris Mexico,14:00,12:26,0
+Y43204_2025-06-01_TIJ_AGU,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,17,1,AGU,02:42,10:54,07:12,3204,On Time,false,false,False,Operated by Volaris Mexico,10:58,07:12,0
+Y41221_2025-06-01_CUU_GDL,A321,Landed,2025-06-01,1,Y4,01:57,CUU,2025-06-01,2,1,GDL,01:34,13:09,11:34,1221,Delayed,false,false,False,Operated by Volaris Mexico,11:24,09:37,0
+Y43142_2025-06-02_TIJ_OAX,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,2,1,OAX,03:41,05:32,23:59,3142,On Time,false,false,False,Operated by Volaris Mexico,05:39,23:59,0
+Y43482_2025-06-03_CUN_TLC,A320,Programmed,2025-06-03,,Y4,00:00,CUN,2025-06-03,,2,TLC,02:28,16:34,15:06,3482,On Time,false,false,False,Operated by Volaris Mexico,16:29,15:06,0
+Y41047_2025-06-02_CUN_GDL,A321,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,B1,2,GDL,03:00,17:52,16:18,1047,On Time,false,false,False,Operated by Volaris Mexico,18:11,16:18,0
+Y42277_2025-07-27_DTW_MIA,,,2025-07-27,,,,,2025-07-27,,,,,,,,,,,True,,,,
+Y41873_2025-06-01_PDX_GDL,A320,Programmed,2025-06-01,1,Y4,00:00,PDX,2025-06-01,D10,,GDL,04:33,00:09,17:36,1873,On Time,false,false,False,Operated by Volaris Mexico,00:09,17:36,0
+Y43353_2025-06-02_TIJ_QRO,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,5,1,QRO,03:20,13:41,08:26,3353,On Time,false,false,False,Operated by Volaris Mexico,13:24,08:26,0
+Y43589_2025-06-02_SLP_CUN,A320,Landed,2025-06-02,2,Y4,00:00,SLP,2025-06-02,2,1,CUN,02:25,19:42,16:27,3589,On Time,false,false,False,Operated by Volaris Mexico,19:49,16:27,0
+Y4901_2025-06-01_GUA_MEX,A321,Programmed,2025-06-01,1,Y4,00:00,GUA,2025-06-01,,1,MEX,02:02,17:55,15:53,901,On Time,false,false,False,Operated by Volaris Mexico,17:55,15:53,0
+Y41087_2025-06-04_MTY_GDL,A320,Landed,2025-06-04,1,Y4,00:31,MTY,2025-06-04,4,A,GDL,01:25,19:57,18:32,1087,Delayed,false,false,False,Operated by Volaris Mexico,19:31,18:01,0
+Y4411_2025-06-02_CUU_MEX,A320,Landed,2025-06-02,1,Y4,00:00,CUU,2025-06-02,2,1,MEX,02:00,22:48,20:55,411,On Time,false,false,False,Operated by Volaris Mexico,23:05,20:55,0
+Y41007_2025-06-04_TIJ_GDL,A321,Take Off,2025-06-04,1,Y4,00:00,TIJ,2025-06-04,10,1,GDL,02:57,16:42,11:34,1007,On Time,false,false,False,Operated by Volaris Mexico,16:24,11:34,0
+Y41401_2025-06-03_TQO_GDL,A320,Landed,2025-06-03,1,Y4,00:00,TQO,2025-06-03,D1B,,GDL,02:31,17:28,15:57,1401,On Time,false,false,False,Operated by Volaris Mexico,17:31,15:50,0
+Y4145_2025-06-01_GDL_MEX,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C34,1,MEX,01:22,15:42,14:22,145,On Time,false,false,False,Operated by Volaris Mexico,15:45,14:22,0
+Y43184_2025-06-01_TIJ_HMO,A320,Programmed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,14,1,HMO,01:22,18:59,16:37,3184,On Time,false,false,False,Operated by Volaris Mexico,18:59,16:37,0
+Y41313_2025-06-01_PVR_GDL,A320,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,4,1,GDL,01:00,13:53,13:05,1313,On Time,false,false,False,Operated by Volaris Mexico,14:02,13:05,0
+Y47507_2025-06-01_PVR_QRO,A320,Programmed,2025-06-01,1,Y4,00:37,PVR,2025-06-01,6,1,QRO,01:09,17:40,16:31,7507,Delayed,false,false,False,Operated by Volaris Mexico,17:05,15:54,0
+Y41052_2025-06-02_GDL_CUN,A321,Landed,2025-06-02,2,Y4,00:00,GDL,2025-06-02,B12,1,CUN,02:54,09:54,06:00,1052,On Time,false,false,False,Operated by Volaris Mexico,09:48,06:00,0
+Y41222_2025-06-01_GDL_CUU,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A4,1,CUU,01:40,12:52,11:16,1222,On Time,false,false,False,Operated by Volaris Mexico,13:07,11:16,0
+Y43269_2025-06-03_ACA_TIJ,A321,Take Off,2025-06-03,1,Y4,00:00,ACA,2025-06-03,2,1,TIJ,03:35,11:18,10:00,3269,On Time,false,false,False,Operated by Volaris Mexico,11:45,10:00,0
+Y4104_2025-06-01_MEX_CUN,A321,Programmed,2025-06-01,2,Y4,00:00,MEX,2025-06-01,,1,CUN,02:18,21:03,17:45,104,On Time,false,false,False,Operated by Volaris Mexico,21:03,17:45,0
+Y4180_2025-06-04_MEX_TIJ,A320,Programmed,2025-06-04,1,Y4,00:00,MEX,2025-06-04,,1,TIJ,03:45,07:15,05:30,180,On Time,false,false,False,Operated by Volaris Mexico,07:15,05:30,0
+Y41180_2025-06-04_GDL_HMO,A321,Programmed,2025-06-04,1,Y4,00:00,GDL,2025-06-04,,1,HMO,02:10,07:45,06:35,1180,On Time,false,false,False,Operated by Volaris Mexico,07:45,06:35,0
+Y43203_2025-06-01_AGU_TIJ,A320,Programmed,2025-06-01,1,Y4,03:40,AGU,2025-06-01,4,1,TIJ,02:50,03:00,02:10,3203,Delayed,false,false,False,Operated by Volaris Mexico,23:28,22:30,0
+Y43931_2025-06-01_GUA_CUN,A320,Landed,2025-06-01,2,Y4,00:00,GUA,2025-06-01,7,1,CUN,02:00,13:03,10:11,3931,On Time,false,false,False,Operated by Volaris Mexico,13:03,10:11,0
+Y41083_2025-06-01_MTY_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,8,A,GDL,01:22,13:50,12:38,1083,On Time,false,false,False,Operated by Volaris Mexico,14:08,12:38,0
+Y47305_2025-06-03_PVR_BJX,A320,Programmed,2025-06-03,1,Y4,00:00,PVR,2025-06-03,2,1,BJX,01:01,16:17,15:16,7305,On Time,false,false,False,Operated by Volaris Mexico,16:18,15:16,0
+Y4221_2025-06-02_MID_MEX,A321,Landed,2025-06-02,1,Y4,00:00,MID,2025-06-02,C3,1,MEX,01:50,11:56,10:03,221,On Time,false,false,False,Operated by Volaris Mexico,12:00,10:03,0
+Y41011_2025-06-01_TIJ_GDL,A321,Landed,2025-06-01,1,Y4,00:36,TIJ,2025-06-01,11,1,GDL,02:56,23:40,18:47,1011,Delayed,false,false,False,Operated by Volaris Mexico,23:01,18:11,0
+Y47791_2025-06-01_OAK_MLM,A320,Landed,2025-06-01,1,Y4,00:00,OAK,2025-06-01,3,1,MLM,03:47,19:33,14:51,7791,On Time,false,false,False,Operated by Volaris Mexico,19:46,14:51,0
+Y41340_2025-06-02_GDL_TAP,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A5,1,TAP,02:14,13:58,11:46,1340,On Time,false,false,False,Operated by Volaris Mexico,13:59,11:46,0
+Y4901_2025-06-02_GUA_MEX,A321,Landed,2025-06-02,1,Y4,00:00,GUA,2025-06-02,7,1,MEX,02:00,17:53,15:53,901,On Time,false,false,False,Operated by Volaris Mexico,17:55,15:53,0
+Y47506_2025-06-02_QRO_PVR,A320,Programmed,2025-06-02,1,Y4,00:00,QRO,2025-06-02,,1,PVR,01:18,15:19,14:01,7506,On Time,false,false,False,Operated by Volaris Mexico,15:19,14:01,0
+Y41860_2025-06-02_GDL_ONT,A321,Landed,2025-06-02,,Y4,00:00,GDL,2025-06-02,B11,1,ONT,02:59,23:14,21:10,1860,On Time,false,false,False,Operated by Volaris Mexico,23:13,21:10,0
+Y41049_2025-06-02_CUN_GDL,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,B15,2,GDL,02:41,12:35,10:39,1049,On Time,false,false,False,Operated by Volaris Mexico,12:32,10:39,0
+Y47416_2025-06-01_LMM_MXL,A320,Landed,2025-06-01,1,Y4,01:11,LMM,2025-06-01,3,1,MXL,01:43,18:17,16:34,7416,Delayed,false,false,False,Operated by Volaris Mexico,17:04,15:23,0
+Y45554_2025-06-01_MTY_QRO,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,2,A,QRO,01:18,13:08,12:00,5554,On Time,false,false,False,Operated by Volaris Mexico,13:13,12:00,0
+Y43180_2025-06-03_TIJ_HMO,A321,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,7,1,HMO,01:18,08:52,06:33,3180,On Time,false,false,False,Operated by Volaris Mexico,08:55,06:33,0
+Y43264_2025-06-01_TIJ_CLQ,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,9,1,CLQ,03:03,20:48,16:00,3264,On Time,false,false,False,Operated by Volaris Mexico,20:55,16:00,0
+Y4430_2025-06-04_MEX_TAP,A321,Programmed,2025-06-04,,Y4,00:00,MEX,2025-06-04,,,TAP,01:45,22:25,20:40,430,On Time,false,false,False,Operated by Volaris Mexico,22:25,20:40,0
+Y41008_2025-06-02_GDL_TIJ,A320,Landed,2025-06-02,1,Y4,01:00,GDL,2025-06-02,A2,1,TIJ,03:27,21:22,20:05,1008,Delayed,false,false,False,Operated by Volaris Mexico,20:07,19:05,0
+Y43102_2025-06-03_TIJ_SJD,A321,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,13,1,SJD,02:07,16:06,14:03,3102,On Time,false,false,False,Operated by Volaris Mexico,16:10,14:03,0
+Y47860_2025-06-01_CUU_DEN,A320,Landed,2025-06-01,1,Y4,00:00,CUU,2025-06-01,2,1,DEN,02:12,15:53,13:36,7860,On Time,false,false,False,Operated by Volaris Mexico,15:30,13:21,0
+Y47702_2025-06-01_BJX_MDW,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,4,1,MDW,03:45,20:32,15:56,7702,On Time,false,false,False,Operated by Volaris Mexico,20:41,15:56,0
+Y43042_2025-06-01_TIJ_BJX,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,5,1,BJX,02:59,16:40,12:55,3042,On Time,false,false,False,Operated by Volaris Mexico,16:43,12:55,0
+Y41052_2025-06-01_GDL_CUN,A320,Landed,2025-06-01,2,Y4,00:00,GDL,2025-06-01,A4,1,CUN,02:38,09:34,06:00,1052,On Time,false,false,False,Operated by Volaris Mexico,09:48,06:00,0
+Y4147_2025-06-01_GDL_MEX,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C33,1,MEX,01:16,00:25,22:42,147,On Time,false,false,False,Operated by Volaris Mexico,23:35,22:14,0
+Y4140_2025-06-01_MEX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,5,1,GDL,01:05,07:13,06:00,140,On Time,false,false,False,Operated by Volaris Mexico,07:18,06:00,0
+Y41712_2025-06-01_GDL_LAX,A321,Programmed,2025-06-01,B,Y4,00:47,GDL,2025-06-01,C36,1,LAX,03:10,10:00,08:50,1712,delayed,false,false,False,Operated by Volaris Mexico,09:30,08:03,0
+Y41870_2025-06-02_GDL_PDX,A320,Programmed,2025-06-02,,Y4,00:00,GDL,2025-06-02,A6,1,PDX,05:01,20:50,17:49,1870,On Time,false,false,False,Operated by Volaris Mexico,20:55,17:49,0
+Y43223_2025-06-03_PBC_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,PBC,2025-06-03,3,1,TIJ,03:19,13:48,11:17,3223,On Time,false,false,False,Operated by Volaris Mexico,13:44,11:17,0
+Y41181_2025-06-01_HMO_GDL,A320,Landed,2025-06-01,1,Y4,00:00,HMO,2025-06-01,7,1,GDL,02:13,10:56,07:57,1181,On Time,false,false,False,Operated by Volaris Mexico,11:03,07:57,0
+Y41009_2025-06-01_TIJ_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,4,1,GDL,02:51,18:28,14:45,1009,On Time,false,false,False,Operated by Volaris Mexico,18:43,14:45,0
+Y41003_2025-06-02_TIJ_GDL,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,1,1,GDL,03:00,07:51,04:02,1003,On Time,false,false,False,Operated by Volaris Mexico,08:00,04:02,0
+Y41162_2025-06-02_GDL_CJS,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,D43,1,CJS,02:12,08:11,06:02,1162,On Time,false,false,False,Operated by Volaris Mexico,08:16,06:02,0
+Y42009_2025-07-25_CUN_DEN,,,2025-07-25,,,,,2025-07-25,,,,,,,,,,,True,,,,
+Y45613_2025-06-02_PVR_MTY,A320,Landed,2025-06-02,A,Y4,00:00,PVR,2025-06-02,5,1,MTY,01:39,15:00,13:28,5613,On Time,false,false,False,Operated by Volaris Mexico,15:05,13:28,0
+Y43324_2025-06-01_TIJ_TLC,A320,Take Off,2025-06-01,,Y4,01:29,TIJ,2025-06-01,14,1,TLC,02:38,01:38,20:24,3324,delayed,false,false,False,Operated by Volaris Mexico,23:58,18:55,0
+Y47721_2025-06-03_LAX_BJX,A320,Landed,2025-06-03,1,Y4,00:00,LAX,2025-06-03,207,B,BJX,03:07,05:10,00:09,7721,On Time,false,false,False,Operated by Volaris Mexico,05:16,00:09,0
+Y41781_2025-06-01_MCO_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MCO,2025-06-01,*92*,B,GDL,03:45,17:00,15:15,1781,On Time,false,false,False,Operated by Volaris Mexico,17:17,15:19,0
+Y47770_2025-06-04_MLM_MDW,A320,Take Off,2025-06-04,1,Y4,01:14,MLM,2025-06-04,2,1,MDW,03:54,14:26,10:29,7770,Delayed,false,false,False,Operated by Volaris Mexico,13:04,09:15,0
+Y47849_2025-06-01_LAX_OAX,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,206,B,OAX,04:01,18:30,13:23,7849,On Time,false,false,False,Operated by Volaris Mexico,18:32,13:23,0
+Y45566_2025-06-01_MTY_OAX,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,3,A,OAX,01:51,13:18,11:30,5566,On Time,false,false,False,Operated by Volaris Mexico,13:16,11:30,0
+Y41043_2025-06-01_CUN_GDL,A320,Landed,2025-06-01,1,Y4,0:31,CUN,2025-06-01,B11,2,GDL,02:45,21:56,20:24,1043,Delayed,false,false,False,Operated by Volaris Mexico,21:36,19:53,0
+Y41122_2025-06-01_GDL_CUL,A321,Landed,2025-06-01,1,Y4,00:30,GDL,2025-06-01,C37,1,CUL,01:17,19:50,19:20,1122,Delayed,false,false,False,Operated by Volaris Mexico,19:14,18:50,0
+Y45609_2025-06-01_TIJ_MTY,A320,Landed,2025-06-01,A,Y4,00:00,TIJ,2025-06-01,3,1,MTY,02:46,16:24,11:44,5609,On Time,false,false,False,Operated by Volaris Mexico,16:24,11:44,0
+Y41860_2025-06-03_GDL_ONT,A321,Landed,2025-06-03,,Y4,00:00,GDL,2025-06-03,B11,1,ONT,03:12,23:16,21:04,1860,On Time,false,false,False,Operated by Volaris Mexico,23:13,21:04,0
+Y41841_2025-06-01_MDW_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MDW,2025-06-01,A2,1,GDL,04:15,23:05,18:54,1841,On Time,false,false,False,Operated by Volaris Mexico,23:24,18:54,0
+Y43365_2025-06-01_ZIH_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,ZIH,2025-06-01,02,1,TIJ,03:08,16:28,14:20,3365,On Time,false,false,False,Operated by Volaris Mexico,16:42,14:29,0
+Y43269_2025-06-02_ACA_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,ACA,2025-06-02,2,1,TIJ,03:32,11:48,10:00,3269,On Time,false,false,False,Operated by Volaris Mexico,11:45,10:00,0
+Y41391_2025-06-01_DGO_GDL,A320,Programmed,2025-06-01,1,Y4,02:33,DGO,2025-06-01,2,1,GDL,01:16,22:47,21:31,1391,Delayed,false,false,False,Operated by Volaris Mexico,20:07,18:58,0
+Y43599_2025-06-01_OAX_CUN,A320,Landed,2025-06-01,2,Y4,00:00,OAX,2025-06-01,1-2,1,CUN,02:04,14:08,11:18,3599,On Time,false,false,False,Operated by Volaris Mexico,14:25,11:18,0
+Y41163_2025-06-02_CJS_GDL,A320,Landed,2025-06-02,1,Y4,01:52,CJS,2025-06-02,7,1,GDL,01:52,12:45,10:49,1163,Delayed,false,false,False,Operated by Volaris Mexico,11:04,08:57,0
+Y42137_2025-07-16_PHX_DEN,,,2025-07-16,,,,,2025-07-16,,,,,,,,,,,True,,,,
+Y41751_2025-06-02_SAT_GDL,A320,Landed,2025-06-02,1,Y4,00:00,SAT,2025-06-02,A7,A,GDL,01:53,12:05,11:17,1751,On Time,false,false,False,Operated by Volaris Mexico,12:14,11:17,0
+Y4105_2025-06-02_CUN_MEX,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,A8,2,MEX,02:10,23:40,22:13,105,On Time,false,false,False,Operated by Volaris Mexico,23:40,22:13,0
+Y45610_2025-06-04_MTY_TIJ,A320,Landed,2025-06-04,1,Y4,1:46,MTY,2025-06-04,2,A,TIJ,02:45,01:06,23:42,5610,Delayed,false,false,False,Operated by Volaris Mexico,22:58,21:56,0
+Y43141_2025-06-03_OAX_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,OAX,2025-06-03,1-2,1,TIJ,04:09,09:03,07:00,3141,On Time,false,false,False,Operated by Volaris Mexico,09:01,07:00,0
+Y4183_2025-06-01_TIJ_MEX,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,18,1,MEX,03:26,21:15,15:49,183,On Time,false,false,False,Operated by Volaris Mexico,21:00,15:45,0
+Y41751_2025-06-04_SAT_GDL,A320,Landed,2025-06-04,1,Y4,00:00,SAT,2025-06-04,A9,A,GDL,01:51,11:59,11:18,1751,On Time,false,false,False,Operated by Volaris Mexico,12:15,11:18,0
+Y4305_2025-06-01_SJD_MEX,A321,Landed,2025-06-01,1,Y4,00:00,SJD,2025-06-01,6,1,MEX,02:04,23:53,20:49,305,On Time,false,false,False,Operated by Volaris Mexico,23:45,20:37,0
+Y4421_2025-06-01_LAP_MEX,A320,Landed,2025-06-01,1,Y4,00:00,LAP,2025-06-01,4,1,MEX,02:11,21:37,18:36,421,On Time,false,false,False,Operated by Volaris Mexico,21:45,18:36,0
+Y45596_2025-06-03_MTY_BJX,A320,Landed,2025-06-03,1,Y4,00:45,MTY,2025-06-03,4,A,BJX,01:13,19:09,17:58,5596,delayed,false,false,False,Operated by Volaris Mexico,18:29,17:13,0
+Y4184_2025-06-03_MEX_TIJ,A321,Programmed,2025-06-03,1,Y4,00:00,MEX,2025-06-03,,1,TIJ,03:45,20:45,19:00,184,On Time,false,false,False,Operated by Volaris Mexico,20:45,19:00,0
+Y47435_2025-06-01_PVR_MXL,A320,Landed,2025-06-01,1,Y4,00:38,PVR,2025-06-01,4,1,MXL,02:41,19:09,18:27,7435,Delayed,false,false,False,Operated by Volaris Mexico,18:32,17:49,0
+Y41271_2025-06-01_TGZ_GDL,A320,Landed,2025-06-01,1,Y4,00:46,TGZ,2025-06-01,B8,1,GDL,02:03,20:55,18:50,1271,Delayed,false,false,False,Operated by Volaris Mexico,20:02,18:04,0
+Y4713_2025-06-02_LAX_MEX,A320,Landed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201A,B,MEX,03:36,00:05,18:31,713,On Time,false,false,False,Operated by Volaris Mexico,00:05,18:31,0
+Y43293_2025-06-01_CUU_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CUU,2025-06-01,2,1,TIJ,01:55,20:23,19:25,3293,On Time,false,false,False,Operated by Volaris Mexico,20:19,19:25,0
+Y47750_2025-06-01_BJX_SMF,A320,Landed,2025-06-01,B,Y4,00:00,BJX,2025-06-01,3,1,SMF,04:03,21:44,18:25,7750,On Time,false,false,False,Operated by Volaris Mexico,21:32,18:21,0
+Y43182_2025-06-01_TIJ_HMO,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,12,1,HMO,01:23,11:05,09:50,3182,On Time,false,false,False,Operated by Volaris Mexico,11:12,09:50,0
+Y47506_2025-06-03_QRO_PVR,A320,Landed,2025-06-03,1,Y4,00:00,QRO,2025-06-03,B-1,1,PVR,01:26,15:19,14:01,7506,On Time,false,false,False,Operated by Volaris Mexico,15:19,14:01,0
+Y41220_2025-06-02_GDL_CUU,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,D47,1,CUU,01:44,08:13,06:35,1220,On Time,false,false,False,Operated by Volaris Mexico,08:26,06:35,0
+Y4220_2025-06-02_MEX_MID,A320,Programmed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,9,1,MID,01:46,07:46,06:00,220,On Time,false,false,False,Operated by Volaris Mexico,07:46,06:00,0
+Y43210_2025-06-02_TIJ_ZCL,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,15,1,ZCL,02:37,09:11,05:34,3210,On Time,false,false,False,Operated by Volaris Mexico,09:12,05:34,0
+Y4371_2025-06-02_ACA_MEX,A321,Landed,2025-06-02,1,Y4,00:00,ACA,2025-06-02,2,1,MEX,01:07,20:09,19:02,371,On Time,false,false,False,Operated by Volaris Mexico,19:45,18:37,0
+Y43517_2025-06-02_QRO_CUN,A320,Landed,2025-06-02,2,Y4,00:00,QRO,2025-06-02,A-5,1,CUN,02:09,09:20,06:18,3517,On Time,false,false,False,Operated by Volaris Mexico,09:36,06:18,0
+Y43939_2025-06-02_SJO_CUN,A321,Landed,2025-06-02,2,Y4,00:00,SJO,2025-06-02,4,1,CUN,02:13,16:27,13:29,3939,On Time,false,false,False,Operated by Volaris Mexico,16:45,13:29,0
+Y47304_2025-06-03_BJX_PVR,A320,Programmed,2025-06-03,1,Y4,04:29,BJX,2025-06-03,6,1,PVR,01:02,19:09,18:07,7304,Delayed,false,false,False,Operated by Volaris Mexico,14:41,13:38,0
+Y45584_2025-06-03_MTY_CUN,A320,Landed,2025-06-03,2,Y4,00:00,MTY,2025-06-03,8,A,CUN,02:27,09:29,06:09,5584,On Time,false,false,False,Operated by Volaris Mexico,09:28,06:09,0
+Y41144_2025-06-01_GDL_SJD,A321,Landed,2025-06-01,1,Y4,00:30,GDL,2025-06-01,A2,1,SJD,01:36,11:43,11:10,1144,Delayed,false,false,False,Operated by Volaris Mexico,11:11,10:40,0
+Y43183_2025-06-02_HMO_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,HMO,2025-06-02,1,1,TIJ,01:15,13:18,12:11,3183,On Time,false,false,False,Operated by Volaris Mexico,13:13,11:53,0
+Y43913_2025-06-01_BOG_MEX,A320,Take Off,2025-06-01,1,Y4,00:00,BOG,2025-06-01,B3,1,MEX,04:33,10:54,07:26,3913,On Time,false,false,False,Operated by Volaris Mexico,11:10,07:26,0
+Y41850_2025-06-01_GDL_SEA,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A7,1,SEA,05:09,19:50,15:54,1850,On Time,false,false,False,Operated by Volaris Mexico,20:00,15:54,0
+Y47711_2025-06-01_OAK_BJX,A320,Landed,2025-06-01,1,Y4,00:00,OAK,2025-06-01,7,1,BJX,03:51,04:58,23:30,7711,On Time,false,false,False,Operated by Volaris Mexico,05:11,23:30,0
+Y41007_2025-06-02_TIJ_GDL,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,18,1,GDL,02:50,16:04,12:11,1007,On Time,false,false,False,Operated by Volaris Mexico,15:51,11:56,0
+Y41821_2025-06-02_SJC_GDL,A320,Landed,2025-06-02,1,Y4,00:00,SJC,2025-06-02,16,A,GDL,03:48,16:04,11:30,1821,On Time,false,false,False,Operated by Volaris Mexico,16:15,11:30,0
+Y41791_2025-06-01_MIA_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MIA,2025-06-01,H10,G,GDL,03:51,15:54,14:12,1791,On Time,false,false,False,Operated by Volaris Mexico,16:05,14:12,0
+Y41290_2025-06-02_GDL_NLU,A320,Landed,2025-06-02,1,Y4,01:59,GDL,2025-06-02,A8,1,NLU,01:04,09:46,08:42,1290,Delayed,false,false,False,Operated by Volaris Mexico,08:03,06:43,0
+Y47400_2025-06-01_MXL_CUL,A320,Programmed,2025-06-01,1,Y4,00:00,MXL,2025-06-01,1,1,CUL,01:49,08:09,06:20,7400,On Time,false,false,False,Operated by Volaris Mexico,08:09,06:20,0
+Y47901_2025-06-01_ONT_BJX,A320,Landed,2025-06-01,1,Y4,00:00,ONT,2025-06-01,207,2,BJX,03:04,03:49,23:59,7901,On Time,false,false,False,Operated by Volaris Mexico,04:00,23:59,0
+Y42855_2025-08-08_BNA_DEN,,,2025-08-08,,,,,2025-08-08,,,,,,,,,,,True,,,,
+Y43044_2025-06-02_TIJ_BJX,A320,Landed,2025-06-02,1,Y4,00:44,TIJ,2025-06-02,12,1,BJX,02:48,14:30,09:42,3044,Delayed,false,false,False,Operated by Volaris Mexico,13:46,08:58,0
+Y4143_2025-06-01_GDL_MEX,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C30,1,MEX,01:09,15:47,14:22,143,On Time,false,false,False,Operated by Volaris Mexico,15:45,14:22,0
+Y47821_2025-06-01_ORD_MLM,A320,Landed,2025-06-01,1,Y4,00:00,ORD,2025-06-01,M19,5,MLM,03:56,08:36,05:42,7821,On Time,false,false,False,Operated by Volaris Mexico,08:55,05:42,0
+Y43501_2025-06-01_BJX_CUN,A320,Landed,2025-06-01,2,Y4,00:00,BJX,2025-06-01,4,1,CUN,02:24,10:14,06:56,3501,On Time,false,false,False,Operated by Volaris Mexico,10:25,06:56,0
+Y43103_2025-06-01_SJD_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,SJD,2025-06-01,8,1,TIJ,02:04,19:01,16:50,3103,On Time,false,false,False,Operated by Volaris Mexico,18:53,16:50,0
+Y42770_2025-07-24_LAS_PHX,,,2025-07-24,,,,,2025-07-24,,,,,,,,,,,True,,,,
+Y45589_2025-06-01_CUN_MTY,A320,Landed,2025-06-01,A,Y4,00:00,CUN,2025-06-01,A2,2,MTY,02:27,21:07,19:40,5589,On Time,false,false,False,Operated by Volaris Mexico,21:06,19:40,0
+Y41000_2025-06-03_GDL_TIJ,A321,Programmed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,C36,1,TIJ,03:00,08:30,07:30,1000,On Time,false,false,False,Operated by Volaris Mexico,08:32,07:30,0
+Y4900_2025-06-01_MEX_GUA,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,25,1,GUA,01:51,12:54,10:35,900,On Time,false,false,False,Operated by Volaris Mexico,12:29,10:35,0
+Y47710_2025-06-02_BJX_OAK,A320,Landed,2025-06-02,1,Y4,00:00,BJX,2025-06-02,4,1,OAK,04:10,11:14,08:42,7710,On Time,false,false,False,Operated by Volaris Mexico,11:00,08:42,0
+Y47885_2025-06-02_PHX_CUL,A320,Landed,2025-06-02,1,Y4,00:00,PHX,2025-06-02,B26,4,CUL,01:50,12:54,11:18,7885,On Time,false,false,False,Operated by Volaris Mexico,13:12,11:18,0
+Y47720_2025-06-01_BJX_LAX,A320,Take Off,2025-06-01,B,Y4,00:00,BJX,2025-06-01,4,1,LAX,03:21,21:53,20:44,7720,On Time,false,false,False,Operated by Volaris Mexico,22:19,20:44,0
+Y41018_2025-06-01_GDL_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B10,1,TIJ,03:03,23:08,21:25,1018,On Time,false,false,False,Operated by Volaris Mexico,23:21,21:25,0
+Y43192_2025-06-01_TIJ_MZT,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,MZT,02:18,09:08,07:02,3192,On Time,false,false,False,Operated by Volaris Mexico,09:21,07:02,0
+Y43388_2025-06-02_TIJ_LTO,A320,Take Off,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,17,1,LTO,01:43,12:12,09:40,3388,On Time,false,false,False,Operated by Volaris Mexico,12:18,09:40,0
+Y4305_2025-06-02_SJD_MEX,A320,Landed,2025-06-02,1,Y4,00:00,SJD,2025-06-02,7,1,MEX,02:05,23:38,20:37,305,On Time,false,false,False,Operated by Volaris Mexico,23:45,20:37,0
+Y43282_2025-06-01_TIJ_CJS,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,CJS,01:43,22:29,19:44,3282,On Time,false,false,False,Operated by Volaris Mexico,22:31,19:44,0
+Y43359_2025-06-01_TAP_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,TAP,2025-06-01,A2,1,TIJ,04:09,08:05,04:57,3359,On Time,false,false,False,Operated by Volaris Mexico,08:16,04:57,0
+Y47912_2025-06-01_DFW_SLP,A320,Landed,2025-06-01,,Y4,00:00,DFW,2025-06-01,D6,,SLP,02:20,13:42,12:34,7912,On Time,false,false,False,Operated by Volaris Mexico,14:01,12:34,0
+Y41716_2025-06-01_GDL_LAX,A320,Landed,2025-06-01,B,Y4,00:00,GDL,2025-06-01,A2,1,LAX,03:06,16:29,14:17,1716,On Time,false,false,False,Operated by Volaris Mexico,16:36,14:17,0
+Y4471_2025-06-02_ZIH_MEX,A321,Landed,2025-06-02,,Y4,00:00,ZIH,2025-06-02,2,,MEX,00:59,19:48,18:48,471,On Time,false,false,False,Operated by Volaris Mexico,19:55,18:48,0
+Y41742_2025-06-01_GDL_LAS,A321,Landed,2025-06-01,3,Y4,00:00,GDL,2025-06-01,C30,1,LAS,03:10,11:06,08:54,1742,On Time,false,false,False,Operated by Volaris Mexico,11:10,08:54,0
+Y43323_2025-06-01_TLC_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,TLC,2025-06-01,16,,TIJ,03:27,23:12,21:02,3323,On Time,false,false,False,Operated by Volaris Mexico,23:19,21:02,0
+Y45833_2025-06-01_CEN_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CEN,2025-06-01,3,1,TIJ,01:56,00:24,23:30,5833,On Time,false,false,False,Operated by Volaris Mexico,00:08,23:30,0
+Y47861_2025-06-01_DEN_CUU,A320,Landed,2025-06-01,1,Y4,00:00,DEN,2025-06-01,A39,1,CUU,02:10,19:16,17:10,7861,On Time,false,false,False,Operated by Volaris Mexico,19:23,17:10,0
+Y43269_2025-06-01_ACA_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,ACA,2025-06-01,2,1,TIJ,03:34,09:19,07:11,3269,On Time,false,false,False,Operated by Volaris Mexico,09:38,07:11,0
+Y47703_2025-06-01_MDW_BJX,A320,Take Off,2025-06-01,1,Y4,00:00,MDW,2025-06-01,A1,1,BJX,04:04,17:44,13:42,7703,On Time,false,false,False,Operated by Volaris Mexico,17:55,13:42,0
+Y43350_2025-06-01_TIJ_QRO,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,13,1,QRO,02:46,04:39,00:55,3350,On Time,false,false,False,Operated by Volaris Mexico,05:04,00:55,0
+Y4461_2025-06-02_VSA_MEX,A320,Landed,2025-06-02,1,Y4,00:00,VSA,2025-06-02,5,1,MEX,01:29,09:36,08:12,461,On Time,false,false,False,Operated by Volaris Mexico,09:45,08:12,0
+Y47900_2025-06-01_BJX_ONT,A320,Landed,2025-06-01,,Y4,00:00,BJX,2025-06-01,5,1,ONT,03:20,10:35,09:27,7900,On Time,false,false,False,Operated by Volaris Mexico,11:00,09:27,0
+Y43534_2025-06-01_CUN_NLU,A319,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A5,2,NLU,02:09,22:55,21:35,3534,On Time,false,false,False,Operated by Volaris Mexico,22:48,21:35,0
+Y41763_2025-06-01_DEN_GDL,,Programmed,2025-06-01,1,Y4,,DEN,2025-06-01,A42,1,GDL,03:25,20:40,16:15,1763,Cancelled,false,false,False,Operated by Volaris Mexico,20:40,16:15,0
+Y43275_2025-06-01_UPN_TIJ,A320,Take Off,2025-06-01,1,Y4,00:00,UPN,2025-06-01,2,1,TIJ,03:10,19:58,18:56,3275,On Time,false,false,False,Operated by Volaris Mexico,20:09,18:56,0
+Y41181_2025-06-03_HMO_GDL,A321,Landed,2025-06-03,1,Y4,00:00,HMO,2025-06-03,4,1,GDL,02:03,11:38,08:26,1181,On Time,false,false,False,Operated by Volaris Mexico,11:29,08:26,0
+Y41127_2025-06-01_CUL_GDL,A321,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,1,1,GDL,01:29,22:26,19:59,1127,On Time,false,false,False,Operated by Volaris Mexico,22:22,19:59,0
+Y43202_2025-06-03_TIJ_AGU,A320,Programmed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,13,1,AGU,02:51,22:36,17:45,3202,On Time,false,false,False,Operated by Volaris Mexico,22:27,17:45,0
+Y45579_2025-06-01_MLM_MTY,A320,Landed,2025-06-01,A,Y4,00:00,MLM,2025-06-01,2,1,MTY,01:35,20:23,19:06,5579,On Time,false,false,False,Operated by Volaris Mexico,20:37,19:06,0
+Y43194_2025-06-02_TIJ_MZT,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,13,1,MZT,02:21,21:41,19:30,3194,On Time,false,false,False,Operated by Volaris Mexico,21:53,19:30,0
+Y4421_2025-06-02_LAP_MEX,A321,Landed,2025-06-02,1,Y4,00:00,LAP,2025-06-02,5,1,MEX,02:09,21:28,18:36,421,On Time,false,false,False,Operated by Volaris Mexico,21:45,18:36,0
+Y41202_2025-06-03_GDL_LAP,A320,Programmed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,D41,1,LAP,01:42,14:39,13:57,1202,On Time,false,false,False,Operated by Volaris Mexico,14:39,13:57,0
+Y41009_2025-06-03_TIJ_GDL,A320,Take Off,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,11,1,GDL,02:59,20:12,15:15,1009,On Time,false,false,False,Operated by Volaris Mexico,20:05,15:15,0
+Y41397_2025-06-01_PBC_GDL,A320,Landed,2025-06-01,1,Y4,00:00,PBC,2025-06-01,3,1,GDL,01:22,22:19,20:40,1397,On Time,false,false,False,Operated by Volaris Mexico,22:10,20:40,0
+Y43046_2025-06-02_TIJ_BJX,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,2,1,BJX,03:09,19:35,15:25,3046,On Time,false,false,False,Operated by Volaris Mexico,19:12,15:16,0
+Y43192_2025-06-02_TIJ_MZT,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,7,1,MZT,02:08,09:16,07:08,3192,On Time,false,false,False,Operated by Volaris Mexico,09:21,07:02,0
+Y43222_2025-06-01_TIJ_PBC,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,5,1,PBC,03:19,11:27,06:17,3222,On Time,false,false,False,Operated by Volaris Mexico,11:39,06:17,0
+Y41087_2025-06-01_MTY_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,5,A,GDL,01:22,19:11,18:01,1087,On Time,false,false,False,Operated by Volaris Mexico,19:31,18:01,0
+Y41773_2025-06-02_OAK_GDL,A320,Landed,2025-06-02,1,Y4,00:00,OAK,2025-06-02,9,1,GDL,03:43,04:56,23:17,1773,On Time,false,false,False,Operated by Volaris Mexico,05:00,23:17,0
+Y41703_2025-06-01_ORD_GDL,A320,Landed,2025-06-01,,Y4,00:00,ORD,2025-06-01,M17,,GDL,03:51,05:42,02:25,1703,On Time,false,false,False,Operated by Volaris Mexico,05:39,02:25,0
+Y43044_2025-06-03_TIJ_BJX,A320,Take Off,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,2,1,BJX,02:48,14:14,09:26,3044,On Time,false,false,False,Operated by Volaris Mexico,13:46,08:58,0
+Y47921_2025-06-02_IAH_MLM,A320,Landed,2025-06-02,1,Y4,00:00,IAH,2025-06-02,D14,D,MLM,02:16,20:16,18:55,7921,On Time,false,false,False,Operated by Volaris Mexico,20:07,18:55,0
+Y41321_2025-06-01_LMM_GDL,A320,Take Off,2025-06-01,1,Y4,00:00,LMM,2025-06-01,3,1,GDL,01:35,23:15,20:37,1321,On Time,false,false,False,Operated by Volaris Mexico,22:56,20:22,0
+Y43268_2025-06-01_TIJ_ACA,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,19,1,ACA,03:30,06:22,01:54,3268,On Time,false,false,False,Operated by Volaris Mexico,06:20,01:54,0
+Y43343_2025-06-01_TGZ_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,TGZ,2025-06-01,A-6,1,TIJ,04:35,00:29,21:10,3343,On Time,false,false,False,Operated by Volaris Mexico,00:20,21:10,0
+Y4391_2025-06-03_CUL_MEX,A320,Take Off,2025-06-03,1,Y4,00:00,CUL,2025-06-03,1,1,MEX,01:41,22:16,19:55,391,On Time,false,false,False,Operated by Volaris Mexico,22:45,19:55,0
+Y43297_2025-06-01_NLU_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,NLU,2025-06-01,108B,1,TIJ,03:13,04:06,01:45,3297,On Time,false,false,False,Operated by Volaris Mexico,04:01,01:45,0
+Y43376_2025-06-02_TIJ_SLP,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,12,1,SLP,02:46,22:40,18:49,3376,On Time,false,false,False,Operated by Volaris Mexico,22:45,18:49,0
+Y41213_2025-06-02_TLC_GDL,A320,Landed,2025-06-02,1,Y4,00:00,TLC,2025-06-02,14,,GDL,00:59,20:25,19:22,1213,On Time,false,false,False,Operated by Volaris Mexico,20:29,19:22,0
+Y41280_2025-06-02_GDL_TRC,A320,Programmed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,,1,TRC,01:19,20:21,19:02,1280,On Time,false,false,False,Operated by Volaris Mexico,20:21,19:02,0
+Y43185_2025-06-01_HMO_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,HMO,2025-06-01,6,1,TIJ,01:31,20:00,19:39,3185,On Time,false,false,False,Operated by Volaris Mexico,20:05,19:39,0
+Y4461_2025-06-03_VSA_MEX,A321,Landed,2025-06-03,1,Y4,00:00,VSA,2025-06-03,5,1,MEX,01:37,09:35,08:12,461,On Time,false,false,False,Operated by Volaris Mexico,09:45,08:12,0
+Y43253_2025-06-02_DGO_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,DGO,2025-06-02,2,1,TIJ,02:23,22:44,21:28,3253,On Time,false,false,False,Operated by Volaris Mexico,22:52,21:28,0
+Y43262_2025-06-02_TIJ_CLQ,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,5,1,CLQ,02:45,10:48,06:15,3262,On Time,false,false,False,Operated by Volaris Mexico,11:10,06:15,0
+Y42061_2025-06-02_LAX_PHX,,,2025-06-02,,,,,2025-06-02,,,,,,,,,,,True,,,,
+Y42768_2025-07-20_PHX_LAS,,,2025-07-20,,,,,2025-07-20,,,,,,,,,,,True,,,,
+Y43919_2025-06-01_LIM_MEX,A320,Landed,2025-06-01,1,Y4,00:00,LIM,2025-06-01,D7,2,MEX,06:06,11:06,05:54,3919,On Time,false,false,False,Operated by Volaris Mexico,11:20,06:14,0
+Y42535_2025-07-11_DEN_MIA,,,2025-07-11,,,,,2025-07-11,,,,,,,,,,,True,,,,
+Y4381_2025-06-01_HMO_MEX,A320,Landed,2025-06-01,1,Y4,00:00,HMO,2025-06-01,6,1,MEX,02:34,21:34,18:16,381,On Time,false,false,False,Operated by Volaris Mexico,21:50,18:16,0
+Y43365_2025-06-02_ZIH_TIJ,A320,Programmed,2025-06-02,1,Y4,00:00,ZIH,2025-06-02,2,1,TIJ,03:14,16:43,14:29,3365,On Time,false,false,False,Operated by Volaris Mexico,16:42,14:29,0
+Y41705_2025-06-01_ORD_GDL,A320,Landed,2025-06-01,1,Y4,00:00,ORD,2025-06-01,M33,5,GDL,04:47,17:30,12:59,1705,On Time,false,false,False,Operated by Volaris Mexico,17:27,12:59,0
+Y41398_2025-06-02_GDL_PBC,A320,Landed,2025-06-02,1,Y4,00:45,GDL,2025-06-02,B10,1,PBC,01:14,08:54,07:45,1398,DELAYED,false,false,False,Operated by Volaris Mexico,08:24,07:00,0
+Y41400_2025-06-03_GDL_TQO,A320,Landed,2025-06-03,,Y4,00:00,GDL,2025-06-03,A6,1,TQO,02:23,15:22,11:41,1400,On Time,false,false,False,Operated by Volaris Mexico,15:10,11:41,0
+Y4701_2025-06-03_ORD_MEX,A320,Landed,2025-06-03,1,Y4,00:00,ORD,2025-06-03,M-21,5,MEX,03:59,04:29,01:40,701,On Time,false,false,False,Operated by Volaris Mexico,04:50,01:40,0
+Y41213_2025-06-03_TLC_GDL,A320,Landed,2025-06-03,1,Y4,00:00,TLC,2025-06-03,14,,GDL,01:08,21:02,19:57,1213,On Time,false,false,False,Operated by Volaris Mexico,21:04,19:57,0
+Y41010_2025-06-03_GDL_TIJ,A321,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,C35,1,TIJ,03:03,00:44,23:46,1010,On Time,false,false,False,Operated by Volaris Mexico,00:48,23:46,0
+Y4341_2025-06-02_HUX_MEX,A321,Landed,2025-06-02,1,Y4,00:00,HUX,2025-06-02,4,1,MEX,01:37,11:09,09:43,341,On Time,false,false,False,Operated by Volaris Mexico,11:10,09:43,0
+Y41145_2025-06-03_SJD_GDL,A321,Landed,2025-06-03,1,Y4,01:42,SJD,2025-06-03,6,1,GDL,01:31,16:07,13:35,1145,Delayed,false,false,False,Operated by Volaris Mexico,14:24,11:53,0
+Y4761_2025-06-01_DEN_MEX,A320,Landed,2025-06-01,1,Y4,00:00,DEN,2025-06-01,A47,1,MEX,03:27,17:18,13:53,761,On Time,false,false,False,Operated by Volaris Mexico,17:30,13:53,0
+Y47861_2025-06-02_DEN_CUU,A320,Landed,2025-06-02,1,Y4,00:00,DEN,2025-06-02,A47,1,CUU,02:25,20:04,17:53,7861,On Time,false,false,False,Operated by Volaris Mexico,20:07,17:53,0
+Y41320_2025-06-03_GDL_LMM,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,C34,1,LMM,01:25,19:45,19:08,1320,On Time,false,false,False,Operated by Volaris Mexico,19:45,19:08,0
+Y45587_2025-06-05_CUN_MTY,A320,Landed,2025-06-05,A,Y4,00:00,CUN,2025-06-05,A2,2,MTY,02:43,16:04,14:40,5587,On Time,false,false,False,Operated by Volaris Mexico,16:16,14:40,0
+Y47800_2025-06-02_MLM_SJC,A320,Landed,2025-06-02,A,Y4,00:00,MLM,2025-06-02,3,1,SJC,04:15,11:19,09:13,7800,On Time,false,false,False,Operated by Volaris Mexico,11:32,09:13,0
+Y43140_2025-06-01_TIJ_OAX,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,20,1,OAX,03:23,15:19,10:04,3140,On Time,false,false,False,Operated by Volaris Mexico,15:44,10:04,0
+Y41773_2025-06-01_OAK_GDL,A320,Landed,2025-06-01,1,Y4,00:00,OAK,2025-06-01,3,1,GDL,03:38,03:46,23:20,1773,On Time,false,false,False,Operated by Volaris Mexico,04:09,23:20,0
+Y41398_2025-06-01_GDL_PBC,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B12,1,PBC,01:07,08:05,07:00,1398,On Time,false,false,False,Operated by Volaris Mexico,08:24,07:00,0
+Y47770_2025-06-01_MLM_MDW,A320,Landed,2025-06-01,1,Y4,00:00,MLM,2025-06-01,2,1,MDW,03:40,20:59,16:29,7770,On Time,false,false,False,Operated by Volaris Mexico,21:23,16:29,0
+Y43317_2025-06-02_CEN_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,CEN,2025-06-02,3,1,TIJ,01:40,21:55,21:19,3317,On Time,false,false,False,Operated by Volaris Mexico,21:57,21:19,0
+Y42297_2025-08-09_DEN_LAS,,,2025-08-09,,,,,2025-08-09,,,,,,,,,,,True,,,,
+Y4108_2025-06-01_MEX_CUN,A321,Landed,2025-06-01,2,Y4,00:00,MEX,2025-06-01,22,1,CUN,02:17,09:57,06:45,108,On Time,false,false,False,Operated by Volaris Mexico,10:03,06:45,0
+Y41772_2025-06-02_GDL_OAK,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,,1,OAK,03:52,21:15,18:28,1772,On Time,false,false,False,Operated by Volaris Mexico,21:20,18:28,0
+Y42329_2025-06-03_DFW_DEN,,,2025-06-03,,,,,2025-06-03,,,,,,,,,,,True,,,,
+Y43040_2025-06-01_TIJ_BJX,A321,Landed,2025-06-01,1,Y4,01:58,TIJ,2025-06-01,19,1,BJX,02:41,07:36,02:55,3040,Delayed,false,false,False,Operated by Volaris Mexico,05:45,00:57,0
+Y45610_2025-06-02_MTY_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,9,A,TIJ,02:38,00:02,22:31,5610,On Time,false,false,False,Operated by Volaris Mexico,00:23,22:31,0
+Y41401_2025-06-01_TQO_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TQO,2025-06-01,D2B,,GDL,02:57,17:59,16:02,1401,On Time,false,false,False,Operated by Volaris Mexico,17:31,15:50,0
+Y42060_2025-06-05_PHX_LAX,,,2025-06-05,,,,,2025-06-05,,,,,,,,,,,True,,,,
+Y4461_2025-06-01_VSA_MEX,A321,Landed,2025-06-01,1,Y4,00:00,VSA,2025-06-01,5,1,MEX,01:30,10:29,09:12,461,On Time,false,false,False,Operated by Volaris Mexico,10:45,09:12,0
+Y4302_2025-06-01_MEX_SJD,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,15,1,SJD,02:12,10:15,09:00,302,On Time,false,false,False,Operated by Volaris Mexico,10:09,09:00,0
+Y47771_2025-06-01_MDW_MLM,A320,Landed,2025-06-01,1,Y4,00:00,MDW,2025-06-01,A2,1,MLM,03:40,18:45,14:32,7771,On Time,false,false,False,Operated by Volaris Mexico,18:48,14:32,0
+Y43062_2025-06-01_TIJ_MLM,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,19,1,MLM,03:00,09:51,06:00,3062,On Time,false,false,False,Operated by Volaris Mexico,10:04,06:00,0
+Y45543_2025-06-02_CJS_MTY,A320,Landed,2025-06-02,A,Y4,00:00,CJS,2025-06-02,7,1,MTY,01:50,00:00,22:10,5543,On Time,false,false,False,Operated by Volaris Mexico,23:55,22:10,0
+Y49581_2025-06-01_OAK_GDL,A320,Landed,2025-06-01,,Y4,01:00,OAK,2025-06-01,,,GDL,03:48,14:44,10:00,9581,Delayed,false,false,False,Operated by Volaris Mexico,13:54,09:00,0
+Y43263_2025-06-02_CLQ_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,CLQ,2025-06-02,UNO,1,TIJ,03:00,15:56,13:50,3263,On Time,false,false,False,Operated by Volaris Mexico,15:43,13:50,0
+Y41182_2025-06-01_GDL_HMO,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A8,1,HMO,02:01,19:47,18:53,1182,On Time,false,false,False,Operated by Volaris Mexico,20:03,18:53,0
+Y41005_2025-06-03_TIJ_GDL,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,14,1,GDL,03:08,18:28,13:30,1005,On Time,false,false,False,Operated by Volaris Mexico,18:20,13:30,0
+Y41293_2025-06-03_NLU_GDL,A320,Landed,2025-06-03,1,Y4,00:00,NLU,2025-06-03,109A,1,GDL,01:16,18:20,17:15,1293,On Time,false,false,False,Operated by Volaris Mexico,18:35,17:15,0
+Y43043_2025-06-01_BJX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,4,1,TIJ,03:06,19:40,17:20,3043,On Time,false,false,False,Operated by Volaris Mexico,19:21,17:20,0
+Y43040_2025-06-04_TIJ_BJX,A320,Landed,2025-06-04,1,Y4,00:00,TIJ,2025-06-04,1,1,BJX,02:50,05:40,00:57,3040,On Time,false,false,False,Operated by Volaris Mexico,05:45,00:57,0
+Y4771_2025-06-03_OAK_MEX,A320,Take Off,2025-06-03,1,Y4,00:00,OAK,2025-06-03,5,1,MEX,04:17,03:14,21:17,771,On Time,false,false,False,Operated by Volaris Mexico,03:20,21:17,0
+Y41006_2025-06-02_GDL_TIJ,A321,Take Off,2025-06-02,1,Y4,04:04,GDL,2025-06-02,B11,1,TIJ,02:49,22:08,21:19,1006,Delayed,false,false,False,Operated by Volaris Mexico,18:17,17:15,0
+Y47770_2025-06-02_MLM_MDW,A320,Landed,2025-06-02,1,Y4,00:00,MLM,2025-06-02,2,1,MDW,03:53,15:02,10:30,7770,On Time,false,false,False,Operated by Volaris Mexico,15:23,10:30,0
+Y41776_2025-06-01_GDL_OAK,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A8,1,OAK,03:56,11:28,09:39,1776,On Time,false,false,False,Operated by Volaris Mexico,11:45,09:39,0
+Y42002_2025-06-22_ORD_CUN,,,2025-06-22,,,,,2025-06-22,,,,,,,,,,,True,,,,
+Y43351_2025-06-01_QRO_TIJ,A320,Programmed,2025-06-01,1,Y4,00:00,QRO,2025-06-01,,1,TIJ,03:04,23:27,21:23,3351,On Time,false,false,False,Operated by Volaris Mexico,23:27,21:23,0
+Y41861_2025-06-02_ONT_GDL,A321,Landed,2025-06-02,1,Y4,00:00,ONT,2025-06-02,207,2,GDL,03:05,05:53,00:42,1861,On Time,false,false,False,Operated by Volaris Mexico,05:40,00:42,0
+Y4105_2025-06-01_CUN_MEX,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A8,2,MEX,02:12,23:36,22:21,105,On Time,false,false,False,Operated by Volaris Mexico,23:40,22:13,0
+Y45586_2025-06-01_MTY_CUN,A320,Landed,2025-06-01,2,Y4,00:00,MTY,2025-06-01,8,A,CUN,02:33,14:00,10:35,5586,On Time,false,false,False,Operated by Volaris Mexico,13:57,10:35,0
+Y42132_2025-07-15_ONT_LAS,,,2025-07-15,,,,,2025-07-15,,,,,,,,,,,True,,,,
+Y4480_2025-06-04_MEX_CTM,A321,Landed,2025-06-04,1,Y4,00:00,MEX,2025-06-04,,1,CTM,01:54,08:03,05:20,480,On Time,false,false,False,Operated by Volaris Mexico,08:16,05:20,0
+Y42896_2025-07-30_PHX_SNA,,,2025-07-30,,,,,2025-07-30,,,,,,,,,,,True,,,,
+Y41250_2025-06-01_GDL_VER,A321,Programmed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C36,1,VER,01:25,08:40,07:15,1250,On Time,false,false,False,Operated by Volaris Mexico,08:43,07:15,0
+Y43591_2025-06-02_SLP_CUN,A320,Programmed,2025-06-02,2,Y4,00:00,SLP,2025-06-02,2,1,CUN,02:12,10:21,07:09,3591,On Time,false,false,False,Operated by Volaris Mexico,10:22,07:09,0
+Y4180_2025-06-03_MEX_TIJ,A321,Landed,2025-06-03,1,Y4,00:00,MEX,2025-06-03,17,1,TIJ,03:48,07:08,05:30,180,On Time,false,false,False,Operated by Volaris Mexico,07:15,05:30,0
+Y47781_2025-06-03_LAX_MLM,A320,Landed,2025-06-03,1,Y4,01:09,LAX,2025-06-03,209A,B,MLM,03:26,06:03,00:50,7781,Delayed,false,false,False,Operated by Volaris Mexico,05:00,23:41,0
+Y47773_2025-06-01_MDW_MLM,A320,Take Off,2025-06-01,1,Y4,00:00,MDW,2025-06-01,A1,1,MLM,04:05,21:05,16:49,7773,On Time,false,false,False,Operated by Volaris Mexico,21:05,16:49,0
+Y45542_2025-06-01_MTY_CJS,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,3,A,CJS,01:38,21:42,19:51,5542,On Time,false,false,False,Operated by Volaris Mexico,21:30,19:51,0
+Y43263_2025-06-05_CLQ_TIJ,A320,Take Off,2025-06-05,1,Y4,00:00,CLQ,2025-06-05,DOS,1,TIJ,02:59,12:37,11:46,3263,On Time,false,false,False,Operated by Volaris Mexico,12:50,11:46,0
+Y45567_2025-06-01_OAX_MTY,A320,Landed,2025-06-01,A,Y4,00:00,OAX,2025-06-01,1-2,1,MTY,01:57,16:14,14:21,5567,On Time,false,false,False,Operated by Volaris Mexico,16:13,14:21,0
+Y42838_2025-07-03_DFW_DEN,,,2025-07-03,,,,,2025-07-03,,,,,,,,,,,True,,,,
+Y41742_2025-06-02_GDL_LAS,A320,Landed,2025-06-02,3,Y4,00:00,GDL,2025-06-02,C36,1,LAS,03:21,10:44,09:35,1742,On Time,false,false,False,Operated by Volaris Mexico,11:00,09:35,0
+Y45615_2025-06-03_PVR_MTY,A320,Landed,2025-06-03,A,Y4,1:01,PVR,2025-06-03,5,1,MTY,01:46,20:32,18:46,5615,Delayed,false,false,False,Operated by Volaris Mexico,19:20,17:45,0
+Y47849_2025-06-02_LAX_OAX,A320,Landed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201A,B,OAX,04:06,19:05,13:23,7849,On Time,false,false,False,Operated by Volaris Mexico,18:32,13:23,0
+Y4710_2025-06-01_MEX_LAX,A321,Landed,2025-06-01,B,Y4,00:00,MEX,2025-06-01,27,1,LAX,04:21,22:31,20:09,710,On Time,false,false,False,Operated by Volaris Mexico,22:00,19:55,0
+Y43263_2025-06-01_CLQ_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,CLQ,2025-06-01,UNO,1,TIJ,02:56,15:51,13:50,3263,On Time,false,false,False,Operated by Volaris Mexico,15:43,13:50,0
+Y45607_2025-06-01_TLC_MTY,A320,Landed,2025-06-01,A,Y4,00:00,TLC,2025-06-01,14,,MTY,01:27,10:30,09:11,5607,On Time,false,false,False,Operated by Volaris Mexico,10:49,09:11,0
+Y45954_2025-06-01_TIJ_CLQ,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,4,1,CLQ,02:44,20:46,16:00,5954,On Time,false,false,False,Operated by Volaris Mexico,20:55,16:00,0
+Y4550_2025-06-02_TLC_SJD,A320,Landed,2025-06-02,1,Y4,00:00,TLC,2025-06-02,14,,SJD,02:18,15:47,14:36,550,On Time,false,false,False,Operated by Volaris Mexico,15:40,14:36,0
+Y4109_2025-06-01_CUN_MEX,A320,Take Off,2025-06-01,1,Y4,03:57,CUN,2025-06-01,B15,2,MEX,02:27,16:19,14:47,109,delayed,false,false,False,Operated by Volaris Mexico,12:10,10:50,0
+Y43534_2025-06-02_CUN_NLU,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,B11,2,NLU,02:09,22:43,21:35,3534,On Time,false,false,False,Operated by Volaris Mexico,22:48,21:35,0
+Y43047_2025-06-01_BJX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,4,1,TIJ,02:57,22:18,20:25,3047,On Time,false,false,False,Operated by Volaris Mexico,22:26,20:25,0
+Y41861_2025-06-01_ONT_GDL,A321,Landed,2025-06-01,1,Y4,00:34,ONT,2025-06-01,,2,GDL,03:15,06:32,01:16,1861,DELAYED,false,false,False,Operated by Volaris Mexico,05:40,00:42,0
+Y41730_2025-06-01_GDL_IAH,A320,Landed,2025-06-01,D,Y4,00:00,GDL,2025-06-01,A5,1,IAH,02:20,10:21,07:03,1730,On Time,false,false,False,Operated by Volaris Mexico,10:25,07:03,0
+Y47810_2025-06-01_MLM_FAT,A320,Programmed,2025-06-01,1,Y4,00:00,MLM,2025-06-01,,1,FAT,04:05,01:00,22:55,7810,On Time,false,false,False,Operated by Volaris Mexico,01:00,22:55,0
+Y4184_2025-06-01_MEX_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,8,1,TIJ,03:15,00:25,22:20,184,On Time,false,false,False,Operated by Volaris Mexico,00:53,22:20,0
+Y43009_2025-06-03_CUL_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,CUL,2025-06-03,2,1,TIJ,02:02,19:19,18:15,3009,On Time,false,false,False,Operated by Volaris Mexico,19:26,18:15,0
+Y41052_2025-06-04_GDL_CUN,A320,Landed,2025-06-04,2,Y4,00:00,GDL,2025-06-04,A2,1,CUN,02:31,09:51,06:08,1052,On Time,false,false,False,Operated by Volaris Mexico,09:48,06:08,0
+Y41145_2025-06-04_SJD_GDL,A320,Landed,2025-06-04,1,Y4,00:00,SJD,2025-06-04,7,1,GDL,01:24,14:39,12:11,1145,On Time,false,false,False,Operated by Volaris Mexico,14:42,12:11,0
+Y41088_2025-06-01_GDL_MTY,A320,Programmed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,C35,1,MTY,01:28,14:14,12:46,1088,On Time,false,false,False,Operated by Volaris Mexico,14:14,12:46,0
+Y43317_2025-06-03_CEN_TIJ,A321,Landed,2025-06-03,1,Y4,00:33,CEN,2025-06-03,3,1,TIJ,01:39,21:58,21:52,3317,Delayed,false,false,False,Operated by Volaris Mexico,21:57,21:19,0
+Y41144_2025-06-02_GDL_SJD,A321,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C31,1,SJD,01:30,11:19,10:40,1144,On Time,false,false,False,Operated by Volaris Mexico,11:11,10:40,0
+Y45578_2025-06-01_MTY_MLM,A320,Programmed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,,A,MLM,01:16,18:10,16:54,5578,On Time,false,false,False,Operated by Volaris Mexico,18:10,16:54,0
+Y4150_2025-06-01_MEX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,15,1,GDL,01:21,21:12,19:45,150,On Time,true,false,False,Operated by Volaris Mexico,21:03,19:45,0
+Y43042_2025-06-03_TIJ_BJX,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,3,1,BJX,03:08,16:54,12:55,3042,On Time,false,false,False,Operated by Volaris Mexico,16:43,12:55,0
+Y43918_2025-06-02_MEX_LIM,A320,Landed,2025-06-02,2,Y4,00:00,MEX,2025-06-02,17,1,LIM,06:02,05:13,22:05,3918,On Time,false,false,False,Operated by Volaris Mexico,05:06,22:05,0
+Y4712_2025-06-02_MEX_LAX,A320,Take Off,2025-06-02,B,Y4,00:00,MEX,2025-06-02,23,1,LAX,03:44,07:39,06:00,712,On Time,false,false,False,Operated by Volaris Mexico,08:05,06:00,0
+Y43124_2025-06-01_TIJ_PVR,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,PVR,02:37,17:37,14:00,3124,On Time,false,false,False,Operated by Volaris Mexico,17:42,14:00,0
+Y47841_2025-06-02_LAX_ZCL,A320,Landed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,209A,B,ZCL,02:46,04:35,23:59,7841,On Time,false,false,False,Operated by Volaris Mexico,04:51,23:59,0
+Y47304_2025-06-01_BJX_PVR,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,1,1,PVR,00:58,13:06,12:18,7304,On Time,false,false,False,Operated by Volaris Mexico,13:21,12:18,0
+Y4441_2025-06-02_OAX_MEX,A321,Landed,2025-06-02,1,Y4,00:00,OAX,2025-06-02,1-2,1,MEX,00:58,10:11,09:19,441,On Time,false,false,False,Operated by Volaris Mexico,10:30,09:19,0
+Y47730_2025-06-01_BJX_ORD,A320,Programmed,2025-06-01,5,Y4,00:00,BJX,2025-06-01,,1,ORD,04:02,04:51,23:49,7730,On Time,false,false,False,Operated by Volaris Mexico,04:51,23:49,0
+Y41312_2025-06-01_GDL_PVR,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A6,1,PVR,00:53,13:49,13:10,1312,On Time,false,false,False,Operated by Volaris Mexico,14:00,13:10,0
+Y41341_2025-06-01_TAP_GDL,A320,Programmed,2025-06-01,1,Y4,00:00,TAP,2025-06-01,,1,GDL,02:12,19:02,16:50,1341,On Time,false,false,False,Operated by Volaris Mexico,19:02,16:50,0
+Y42875_2025-08-13_DEN_MSY,,,2025-08-13,,,,,2025-08-13,,,,,,,,,,,True,,,,
+Y4430_2025-06-01_MEX_TAP,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,5,1,TAP,02:01,21:12,19:10,430,On Time,false,false,False,Operated by Volaris Mexico,20:40,18:55,0
+Y4361_2025-06-03_PXM_MEX,A321,Landed,2025-06-03,1,Y4,00:00,PXM,2025-06-03,,1,MEX,01:12,17:54,16:35,361,On Time,false,false,False,Operated by Volaris Mexico,18:00,16:35,0
+Y47920_2025-06-01_MLM_IAH,A320,Landed,2025-06-01,D,Y4,00:00,MLM,2025-06-01,4,1,IAH,02:14,10:22,07:57,7920,On Time,false,false,False,Operated by Volaris Mexico,10:11,07:57,0
+Y42006_2025-07-04_DEN_CUN,,,2025-07-04,,,,,2025-07-04,,,,,,,,,,,True,,,,
+Y41753_2025-06-01_SAT_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SAT,2025-06-01,A6,A,GDL,01:58,22:03,21:26,1753,On Time,false,false,False,Operated by Volaris Mexico,22:23,21:26,0
+Y4240_2025-06-01_MEX_MTY,A321,Landed,2025-06-01,A,Y4,00:00,MEX,2025-06-01,13,1,MTY,01:36,08:32,07:00,240,On Time,false,false,False,Operated by Volaris Mexico,08:35,07:00,0
+Y43323_2025-06-02_TLC_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,TLC,2025-06-02,14,,TIJ,03:19,23:16,21:02,3323,On Time,false,false,False,Operated by Volaris Mexico,23:19,21:02,0
+Y41771_2025-06-01_OAK_GDL,A320,Take Off,2025-06-01,1,Y4,00:00,OAK,2025-06-01,3,1,GDL,04:04,00:31,19:19,1771,On Time,false,false,False,Operated by Volaris Mexico,00:13,19:19,0
+Y4561_2025-06-03_PVR_TLC,A320,Landed,2025-06-03,,Y4,00:00,PVR,2025-06-03,4,1,TLC,01:20,15:37,14:38,561,On Time,false,false,False,Operated by Volaris Mexico,15:59,14:38,0
+Y43045_2025-06-02_BJX_TIJ,A320,Programmed,2025-06-02,1,Y4,00:00,BJX,2025-06-02,,1,TIJ,03:10,08:10,07:00,3045,On Time,false,false,False,Operated by Volaris Mexico,08:10,07:00,0
+Y45597_2025-06-01_BJX_MTY,A320,Landed,2025-06-01,A,Y4,00:00,BJX,2025-06-01,6,1,MTY,01:15,20:01,18:59,5597,On Time,false,false,False,Operated by Volaris Mexico,20:22,18:59,0
+Y43100_2025-06-02_TIJ_SJD,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,,1,SJD,02:01,12:22,09:07,3100,On Time,false,false,False,Operated by Volaris Mexico,12:14,09:07,0
+Y45587_2025-06-02_CUN_MTY,A320,Landed,2025-06-02,A,Y4,00:00,CUN,2025-06-02,A9,2,MTY,02:14,16:43,15:15,5587,On Time,false,false,False,Operated by Volaris Mexico,16:16,14:50,0
+Y43180_2025-06-02_TIJ_HMO,,Programmed,2025-06-02,1,Y4,,TIJ,2025-06-02,7,1,HMO,01:22,08:55,06:33,3180,Canceled,false,false,False,Operated by Volaris Mexico,08:55,06:33,0
+Y4140_2025-06-02_MEX_GDL,A321,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,27,1,GDL,01:38,07:47,06:00,140,On Time,false,false,False,Operated by Volaris Mexico,07:20,06:00,0
+Y41750_2025-06-01_GDL_SAT,A320,Landed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,C35,1,SAT,01:55,09:50,07:01,1750,On Time,false,false,False,Operated by Volaris Mexico,10:00,07:01,0
+Y43194_2025-06-03_TIJ_MZT,A321,Programmed,2025-06-03,1,Y4,03:43,TIJ,2025-06-03,9,1,MZT,02:13,20:55,17:42,3194,Delayed,false,false,False,Operated by Volaris Mexico,17:15,13:59,0
+Y45605_2025-06-01_TLC_MTY,A320,Landed,2025-06-01,A,Y4,00:00,TLC,2025-06-01,16,,MTY,01:34,22:05,20:40,5605,On Time,false,false,False,Operated by Volaris Mexico,22:18,20:40,0
+Y43503_2025-06-01_BJX_CUN,A320,Take Off,2025-06-01,2,Y4,00:00,BJX,2025-06-01,4,1,CUN,02:20,13:46,10:31,3503,On Time,false,false,False,Operated by Volaris Mexico,14:00,10:31,0
+Y41871_2025-06-01_PDX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,PDX,2025-06-01,D10,,GDL,04:40,04:46,23:22,1871,On Time,false,false,False,Operated by Volaris Mexico,05:00,23:22,0
+Y43281_2025-06-01_CJS_TIJ,A320,Landed,2025-06-01,1,Y4,02:42,CJS,2025-06-01,7,1,TIJ,01:41,11:46,11:05,3281,Delayed,false,false,False,Operated by Volaris Mexico,09:22,08:23,0
+Y47508_2025-06-01_QRO_PVR,A320,Landed,2025-06-01,1,Y4,02:12,QRO,2025-06-01,B-1,1,PVR,01:13,20:25,19:12,7508,Delayed,false,false,False,Operated by Volaris Mexico,18:15,17:00,0
+Y4751_2025-06-02_SAT_MEX,A320,Landed,2025-06-02,1,Y4,00:00,SAT,2025-06-02,A6,A,MEX,01:58,13:24,12:36,751,On Time,false,false,False,Operated by Volaris Mexico,13:40,12:36,0
+Y47855_2025-06-01_LAX_AGU,A320,Programmed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,,B,AGU,03:10,18:13,14:03,7855,On Time,false,false,False,Operated by Volaris Mexico,18:13,14:03,0
+Y41833_2025-06-02_FAT_GDL,A321,Landed,2025-06-02,1,Y4,00:00,FAT,2025-06-02,15,1,GDL,03:24,06:18,00:50,1833,On Time,false,false,False,Operated by Volaris Mexico,06:14,00:50,0
+Y43223_2025-06-04_PBC_TIJ,A320,Programmed,2025-06-04,1,Y4,00:00,PBC,2025-06-04,3,1,TIJ,03:42,20:16,18:34,3223,On Time,false,false,False,Operated by Volaris Mexico,20:16,18:34,0
+Y41717_2025-06-01_LAX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,201A,B,GDL,02:55,23:45,18:52,1717,On Time,false,false,False,Operated by Volaris Mexico,23:59,18:52,0
+Y4490_2025-06-01_MEX_LMM,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,4,1,LMM,02:15,07:02,06:00,490,On Time,false,false,False,Operated by Volaris Mexico,07:17,06:00,0
+Y41088_2025-06-02_GDL_MTY,A320,Landed,2025-06-02,A,Y4,00:00,GDL,2025-06-02,C35,1,MTY,01:24,14:15,12:46,1088,On Time,false,false,False,Operated by Volaris Mexico,14:14,12:46,0
+Y4480_2025-06-01_MEX_CTM,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,13,1,CTM,01:53,08:10,05:30,480,On Time,false,false,False,Operated by Volaris Mexico,08:27,05:30,0
+Y45553_2025-06-02_QRO_MTY,A320,Landed,2025-06-02,A,Y4,00:00,QRO,2025-06-02,A4,1,MTY,01:25,11:30,10:05,5553,On Time,false,false,False,Operated by Volaris Mexico,11:27,10:05,0
+Y41292_2025-06-01_GDL_NLU,A320,Landed,2025-06-01,1,Y4,02:19,GDL,2025-06-01,B11,1,NLU,01:17,22:50,21:34,1292,Delayed,false,false,False,Operated by Volaris Mexico,20:28,19:15,0
+Y41301_2025-06-01_VSA_GDL,A320,Landed,2025-06-01,1,Y4,00:00,VSA,2025-06-01,5,1,GDL,02:01,18:51,17:03,1301,On Time,false,false,False,Operated by Volaris Mexico,19:04,17:03,0
+Y4111_2025-06-01_CUN_MEX,A321,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B5,2,MEX,02:17,05:32,04:18,111,On Time,false,false,False,Operated by Volaris Mexico,05:45,04:18,0
+Y42516_2025-06-21_IAD_MCO,,,2025-06-21,,,,,2025-06-21,,,,,,,,,,,True,,,,
+Y4149_2025-06-01_GDL_MEX,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C37,1,MEX,01:21,20:15,18:47,149,On Time,false,false,False,Operated by Volaris Mexico,20:10,18:47,0
+Y45605_2025-06-03_TLC_MTY,A320,Landed,2025-06-03,A,Y4,00:00,TLC,2025-06-03,16,,MTY,01:31,21:54,20:33,5605,On Time,false,false,False,Operated by Volaris Mexico,22:18,20:33,0
+Y47121_2025-06-03_SJD_NLU,A320,Programmed,2025-06-03,1,Y4,00:00,SJD,2025-06-03,,1,NLU,01:58,16:45,13:47,7121,On Time,false,false,False,Operated by Volaris Mexico,16:54,13:47,0
+Y4741_2025-06-01_LAS_MEX,A320,Landed,2025-06-01,1,Y4,00:00,LAS,2025-06-01,E6,3,MEX,04:02,21:23,16:21,741,On Time,false,false,False,Operated by Volaris Mexico,21:10,16:25,0
+Y41882_2025-06-03_GDL_PHX,A321,Take Off,2025-06-03,4,Y4,00:00,GDL,2025-06-03,A2,1,PHX,02:46,08:06,06:10,1882,On Time,false,false,False,Operated by Volaris Mexico,08:03,06:10,0
+Y41013_2025-06-02_TIJ_GDL,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,3,1,GDL,02:51,11:01,06:09,1013,On Time,false,false,False,Operated by Volaris Mexico,10:50,06:00,0
+Y41053_2025-06-03_CUN_GDL,A321,Landed,2025-06-03,1,Y4,00:00,CUN,2025-06-03,A6,2,GDL,02:29,22:55,21:39,1053,On Time,false,false,False,Operated by Volaris Mexico,23:22,21:39,0
+Y41703_2025-06-02_ORD_GDL,A320,Landed,2025-06-02,1,Y4,00:00,ORD,2025-06-02,M16,5,GDL,04:07,05:06,01:57,1703,On Time,false,false,False,Operated by Volaris Mexico,05:09,01:55,0
+Y4480_2025-06-02_MEX_CTM,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,26,1,CTM,01:59,08:34,05:30,480,On Time,false,false,False,Operated by Volaris Mexico,08:27,05:30,0
+Y4431_2025-06-01_TAP_MEX,A320,Landed,2025-06-01,,Y4,00:00,TAP,2025-06-01,A3,,MEX,01:44,01:10,23:28,431,On Time,false,false,False,Operated by Volaris Mexico,01:10,23:28,0
+Y43930_2025-06-02_CUN_GUA,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,B5,2,GUA,01:29,11:42,11:22,3930,On Time,false,false,False,Operated by Volaris Mexico,12:01,11:22,0
+Y45542_2025-06-02_MTY_CJS,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,5,A,CJS,01:49,20:53,19:55,5542,On Time,false,false,False,Operated by Volaris Mexico,20:43,19:55,0
+Y43297_2025-06-04_NLU_TIJ,A321,Programmed,2025-06-04,1,Y4,00:00,NLU,2025-06-04,108B,1,TIJ,03:32,00:51,23:19,3297,On Time,false,false,False,Operated by Volaris Mexico,00:51,23:19,0
+Y47305_2025-06-04_PVR_BJX,A320,Landed,2025-06-04,1,Y4,02:15,PVR,2025-06-04,15,1,BJX,00:58,18:38,17:31,7305,Delayed,false,false,False,Operated by Volaris Mexico,16:18,15:16,0
+Y45541_2025-06-01_GDL_MTY,A320,Landed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,C34,1,MTY,01:27,09:36,08:15,5541,On Time,false,false,False,Operated by Volaris Mexico,09:47,08:15,0
+Y42190_2025-06-16_PHX_RNO,,,2025-06-16,,,,,2025-06-16,,,,,,,,,,,True,,,,
+Y43324_2025-06-03_TIJ_TLC,A320,Take Off,2025-06-03,,Y4,00:00,TIJ,2025-06-03,11,1,TLC,03:09,00:23,19:01,3324,On Time,false,false,False,Operated by Volaris Mexico,23:58,18:55,0
+Y43140_2025-06-02_TIJ_OAX,A320,Programmed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,1,1,OAX,03:36,15:40,10:04,3140,On Time,false,false,False,Operated by Volaris Mexico,15:44,10:04,0
+Y41903_2025-06-01_EWR_GDL,A320,Take Off,2025-06-01,1,Y4,00:00,EWR,2025-06-01,B61,B,GDL,06:32,11:55,06:30,1903,On Time,false,false,False,Operated by Volaris Mexico,11:44,06:30,0
+Y45593_2025-06-01_MID_MTY,A320,Landed,2025-06-01,A,Y4,00:00,MID,2025-06-01,C3,1,MTY,02:13,21:29,19:35,5593,On Time,false,false,False,Operated by Volaris Mexico,21:38,19:35,0
+Y43297_2025-06-02_NLU_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,NLU,2025-06-02,,1,TIJ,03:07,04:08,01:45,3297,On Time,false,false,False,Operated by Volaris Mexico,04:01,01:45,0
+Y43591_2025-06-01_SLP_CUN,A320,Programmed,2025-06-01,2,Y4,00:00,SLP,2025-06-01,2,1,CUN,02:13,10:22,07:09,3591,On Time,false,false,False,Operated by Volaris Mexico,10:22,07:09,0
+Y4242_2025-06-01_MEX_MTY,A321,Landed,2025-06-01,A,Y4,00:00,MEX,2025-06-01,21,1,MTY,01:31,16:13,14:45,242,On Time,false,false,False,Operated by Volaris Mexico,16:20,14:45,0
+Y42533_2025-07-08_ORD_IAH,,,2025-07-08,,,,,2025-07-08,,,,,,,,,,,True,,,,
+Y4245_2025-06-01_MTY_MEX,A321,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,4,A,MEX,01:31,23:00,21:10,245,On Time,false,false,False,Operated by Volaris Mexico,22:45,21:10,0
+Y41882_2025-06-01_GDL_PHX,A320,Landed,2025-06-01,4,Y4,00:00,GDL,2025-06-01,C34,1,PHX,02:33,07:37,06:17,1882,On Time,false,false,False,Operated by Volaris Mexico,08:01,06:17,0
+Y45608_2025-06-01_MTY_TIJ,A320,Programmed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,,A,TIJ,02:41,11:36,09:55,5608,On Time,false,false,False,Operated by Volaris Mexico,11:36,09:55,0
+Y41183_2025-06-01_HMO_GDL,A320,Landed,2025-06-01,1,Y4,00:38,HMO,2025-06-01,1,1,GDL,02:04,00:06,21:05,1183,Delayed,false,false,False,Operated by Volaris Mexico,23:33,20:27,0
+Y41005_2025-06-02_TIJ_GDL,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,18,1,GDL,02:58,18:43,13:30,1005,On Time,false,false,False,Operated by Volaris Mexico,18:20,13:30,0
+Y4181_2025-06-02_TIJ_MEX,A321,Take Off,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,11,1,MEX,03:22,14:22,08:30,181,On Time,false,false,False,Operated by Volaris Mexico,13:45,08:30,0
+Y4470_2025-06-03_MEX_ZIH,A320,Programmed,2025-06-03,1,Y4,00:00,MEX,2025-06-03,28,1,ZIH,01:03,10:13,09:10,470,On Time,false,false,False,Operated by Volaris Mexico,10:13,09:10,0
+Y43240_2025-06-02_TIJ_TPQ,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,9,1,TPQ,02:33,19:32,15:59,3240,On Time,false,false,False,Operated by Volaris Mexico,19:32,15:59,0
+Y45614_2025-06-02_MTY_PVR,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,3,A,PVR,01:39,17:06,15:35,5614,On Time,false,false,False,Operated by Volaris Mexico,17:07,15:35,0
+Y43552_2025-06-04_CUN_PBC,A320,Programmed,2025-06-04,1,Y4,00:00,CUN,2025-06-04,,2,PBC,02:16,13:22,12:06,3552,On Time,false,false,False,Operated by Volaris Mexico,13:22,12:06,0
+Y41086_2025-06-03_GDL_MTY,A320,Landed,2025-06-03,A,Y4,01:20,GDL,2025-06-03,C35,1,MTY,01:25,17:30,16:10,1086,delayed,false,false,False,Operated by Volaris Mexico,16:18,14:50,0
+Y42701_2025-08-10_DFW_MCO,,,2025-08-10,,,,,2025-08-10,,,,,,,,,,,True,,,,
+Y4461_2025-06-04_VSA_MEX,A321,Landed,2025-06-04,1,Y4,00:00,VSA,2025-06-04,2,1,MEX,01:39,09:51,08:12,461,On Time,false,false,False,Operated by Volaris Mexico,09:45,08:12,0
+Y4701_2025-06-01_ORD_MEX,A320,Landed,2025-06-01,1,Y4,00:00,ORD,2025-06-01,M14,5,MEX,04:05,04:55,01:40,701,On Time,false,false,False,Operated by Volaris Mexico,04:50,01:40,0
+Y43365_2025-06-03_ZIH_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,ZIH,2025-06-03,2,1,TIJ,03:17,16:48,14:29,3365,On Time,false,false,False,Operated by Volaris Mexico,16:42,14:29,0
+Y41834_2025-06-02_GDL_FAT,A321,Take Off,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C36,1,FAT,03:41,20:49,19:11,1834,On Time,false,false,False,Operated by Volaris Mexico,21:00,19:11,0
+Y4180_2025-06-01_MEX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,9,1,TIJ,03:27,15:38,13:05,180,On Time,false,false,False,Operated by Volaris Mexico,15:38,13:05,0
+Y47781_2025-06-02_LAX_MLM,A320,Programmed,2025-06-02,1,Y4,00:49,LAX,2025-06-02,205,B,MLM,02:40,05:11,00:30,7781,Delayed,false,false,False,Operated by Volaris Mexico,05:00,23:41,0
+Y4244_2025-06-01_MEX_MTY,A321,Landed,2025-06-01,A,Y4,00:00,MEX,2025-06-01,11,1,MTY,02:14,21:11,18:55,244,On Time,false,false,False,Operated by Volaris Mexico,20:29,18:55,0
+Y43009_2025-06-02_CUL_TIJ,A320,Landed,2025-06-02,1,Y4,02:36,CUL,2025-06-02,2,1,TIJ,01:56,21:54,20:51,3009,Delayed,false,false,False,Operated by Volaris Mexico,19:26,18:15,0
+Y47110_2025-06-04_NLU_MID,A320,Programmed,2025-06-04,1,Y4,00:00,NLU,2025-06-04,109B,1,MID,01:38,19:21,17:43,7110,On Time,false,false,False,Operated by Volaris Mexico,19:24,17:43,0
+Y45773_2025-06-01_DGO_TIJ,A321,Take Off,2025-06-01,1,Y4,03:00,DGO,2025-06-01,2,1,TIJ,02:33,01:45,01:52,5773,Delayed,false,false,False,Operated by Volaris Mexico,23:23,22:52,0
+Y4490_2025-06-02_MEX_LMM,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,4,1,LMM,02:12,07:05,06:00,490,On Time,false,false,False,Operated by Volaris Mexico,07:20,06:00,0
+Y42502_2025-07-07_ONT_DFW,,,2025-07-07,,,,,2025-07-07,,,,,,,,,,,True,,,,
+Y43212_2025-06-01_TIJ_ZCL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,2,1,ZCL,02:44,11:33,06:55,3212,On Time,false,false,False,Operated by Volaris Mexico,11:29,06:55,0
+Y41251_2025-06-02_VER_GDL,A321,Landed,2025-06-02,1,Y4,00:00,VER,2025-06-02,B7,1,GDL,01:36,10:31,08:55,1251,On Time,false,false,False,Operated by Volaris Mexico,10:30,08:57,0
+Y41213_2025-06-04_TLC_GDL,A320,Landed,2025-06-04,1,Y4,00:00,TLC,2025-06-04,14,,GDL,01:00,20:47,19:57,1213,On Time,false,false,False,Operated by Volaris Mexico,21:04,19:57,0
+Y41230_2025-06-03_GDL_MID,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,B13,1,MID,02:12,20:22,18:08,1230,On Time,false,false,False,Operated by Volaris Mexico,20:31,18:08,0
+Y41055_2025-06-01_CUN_GDL,A321,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A3,2,GDL,02:52,14:50,13:02,1055,On Time,false,false,False,Operated by Volaris Mexico,14:55,13:02,0
+Y47908_2025-06-01_MLM_DFW,A320,Landed,2025-06-01,D,Y4,00:00,MLM,2025-06-01,1,1,DFW,02:28,09:23,07:00,7908,On Time,false,false,False,Operated by Volaris Mexico,09:31,07:00,0
+Y45615_2025-06-01_PVR_MTY,A320,Landed,2025-06-01,A,Y4,00:00,PVR,2025-06-01,14,1,MTY,01:30,19:46,18:05,5615,On Time,false,false,False,Operated by Volaris Mexico,19:20,17:50,0
+Y41261_2025-06-01_CEN_GDL,A321,Landed,2025-06-01,1,Y4,00:00,CEN,2025-06-01,3,1,GDL,01:54,09:55,07:11,1261,On Time,false,false,False,Operated by Volaris Mexico,09:57,07:11,0
+Y41741_2025-06-02_LAS_GDL,A321,Take Off,2025-06-02,1,Y4,03:27,LAS,2025-06-02,D22,3,GDL,03:25,23:33,19:24,1741,delayed,false,false,False,Operated by Volaris Mexico,20:15,15:57,0
+Y41290_2025-06-03_GDL_NLU,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,A7,1,NLU,01:06,09:31,08:30,1290,On Time,false,false,False,Operated by Volaris Mexico,09:43,08:30,0
+Y4109_2025-06-02_CUN_MEX,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,A1,2,MEX,02:16,12:09,10:50,109,On Time,false,false,False,Operated by Volaris Mexico,12:10,10:50,0
+Y45592_2025-06-01_MTY_MID,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,3,A,MID,02:04,19:08,17:00,5592,On Time,false,false,False,Operated by Volaris Mexico,19:00,17:00,0
+Y4280_2025-06-01_MEX_PVR,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,17,1,PVR,01:23,11:23,10:00,280,On Time,false,false,False,Operated by Volaris Mexico,11:30,10:00,0
+Y43141_2025-06-01_OAX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,OAX,2025-06-01,1-2,1,TIJ,03:37,14:38,12:07,3141,On Time,false,false,False,Operated by Volaris Mexico,14:52,12:07,0
+Y45611_2025-06-03_TIJ_MTY,A320,Take Off,2025-06-03,A,Y4,00:00,TIJ,2025-06-03,19,1,MTY,02:37,21:13,16:34,5611,On Time,false,false,False,Operated by Volaris Mexico,21:14,16:34,0
+Y4790_2025-06-02_MEX_MIA,A321,Landed,2025-06-02,G,Y4,00:51,MEX,2025-06-02,27,1,MIA,02:46,14:57,10:56,790,Delayed,false,false,False,Operated by Volaris Mexico,14:10,10:05,0
+Y41883_2025-06-02_PHX_GDL,A320,Landed,2025-06-02,1,Y4,00:00,PHX,2025-06-02,B26,4,GDL,02:50,13:16,09:34,1883,On Time,false,false,False,Operated by Volaris Mexico,13:17,09:34,0
+Y43359_2025-06-02_TAP_TIJ,A320,Programmed,2025-06-02,1,Y4,00:00,TAP,2025-06-02,,1,TIJ,04:36,09:36,07:00,3359,On Time,false,false,False,Operated by Volaris Mexico,09:36,07:00,0
+Y4461_2025-06-05_VSA_MEX,A321,Landed,2025-06-05,1,Y4,00:00,VSA,2025-06-05,5,1,MEX,01:24,09:24,08:12,461,On Time,false,false,False,Operated by Volaris Mexico,09:45,08:12,0
+Y43000_2025-06-01_TIJ_CUL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,9,1,CUL,02:00,08:20,06:28,3000,On Time,false,false,False,Operated by Volaris Mexico,08:33,06:28,0
+Y43352_2025-06-01_QRO_TIJ,A320,Landed,2025-06-01,1,Y4,01:45,QRO,2025-06-01,B-2,1,TIJ,03:16,09:32,08:03,3352,Delayed,false,false,False,Operated by Volaris Mexico,07:40,06:18,0
+Y43141_2025-06-02_OAX_TIJ,A321,Landed,2025-06-02,1,Y4,01:44,OAX,2025-06-02,1-2,1,TIJ,03:57,16:51,13:51,3141,Delayed,false,false,False,Operated by Volaris Mexico,14:57,12:07,0
+Y47750_2025-06-02_BJX_SMF,A321,Take Off,2025-06-02,B,Y4,00:00,BJX,2025-06-02,4,1,SMF,04:24,20:51,18:30,7750,On Time,false,false,False,Operated by Volaris Mexico,20:50,18:30,0
+Y4324_2025-06-01_MEX_MXL,A320,Take Off,2025-06-01,1,Y4,00:00,MEX,2025-06-01,13,1,MXL,03:27,23:14,21:45,324,On Time,false,false,False,Operated by Volaris Mexico,23:14,21:45,0
+Y41811_2025-06-01_SMF_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SMF,2025-06-01,B10,B,GDL,03:49,03:36,22:55,1811,On Time,false,false,False,Operated by Volaris Mexico,03:43,22:55,0
+Y41003_2025-06-03_TIJ_GDL,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,5,1,GDL,02:50,02:36,21:16,1003,On Time,false,false,False,Operated by Volaris Mexico,02:06,21:16,0
+Y4360_2025-06-01_MEX_PXM,A320,Landed,2025-06-01,1,Y4,01:05,MEX,2025-06-01,2,1,PXM,01:04,13:24,12:20,360,Delayed,false,false,False,Operated by Volaris Mexico,12:31,11:15,0
+Y41005_2025-06-01_TIJ_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,GDL,02:54,18:21,13:30,1005,On Time,false,false,False,Operated by Volaris Mexico,18:20,13:30,0
+Y45607_2025-06-02_TLC_MTY,A320,Landed,2025-06-02,A,Y4,00:00,TLC,2025-06-02,16,,MTY,01:36,07:56,06:30,5607,On Time,false,false,False,Operated by Volaris Mexico,08:15,06:30,0
+Y4361_2025-06-04_PXM_MEX,A320,Landed,2025-06-04,1,Y4,00:00,PXM,2025-06-04,P-1,1,MEX,01:12,18:20,16:35,361,On Time,false,false,False,Operated by Volaris Mexico,18:00,16:35,0
+Y43316_2025-06-02_TIJ_CEN,A320,Take Off,2025-06-02,1,Y4,04:27,TIJ,2025-06-02,4,1,CEN,01:37,00:25,22:59,3316,Delayed,false,false,False,Operated by Volaris Mexico,20:11,18:32,0
+Y41203_2025-06-03_LAP_GDL,A321,Landed,2025-06-03,1,Y4,00:00,LAP,2025-06-03,3,1,GDL,01:26,17:39,15:23,1203,On Time,false,false,False,Operated by Volaris Mexico,18:02,15:23,0
+Y4741_2025-06-03_LAS_MEX,A321,Landed,2025-06-03,1,Y4,00:00,LAS,2025-06-03,E6,3,MEX,03:33,20:54,15:31,741,On Time,false,false,False,Operated by Volaris Mexico,21:10,15:31,0
+Y45596_2025-06-02_MTY_BJX,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,4,A,BJX,01:05,18:11,17:13,5596,On Time,false,false,False,Operated by Volaris Mexico,18:29,17:13,0
+Y45549_2025-06-02_CUL_MTY,A320,Landed,2025-06-02,A,Y4,00:00,CUL,2025-06-02,1,1,MTY,01:18,09:37,07:28,5549,On Time,false,false,False,Operated by Volaris Mexico,09:53,07:28,0
+Y4760_2025-06-02_MEX_DEN,A320,Landed,2025-06-02,1,Y4,02:05,MEX,2025-06-02,22,1,DEN,03:43,12:34,10:15,760,Delayed,false,false,False,Operated by Volaris Mexico,10:58,08:10,0
+Y43123_2025-06-01_PVR_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,4,1,TIJ,02:39,17:52,16:00,3123,On Time,false,false,False,Operated by Volaris Mexico,17:35,16:00,0
+Y4471_2025-06-01_ZIH_MEX,A321,Landed,2025-06-01,1,Y4,00:00,ZIH,2025-06-01,2,1,MEX,01:05,17:24,16:38,471,On Time,false,false,False,Operated by Volaris Mexico,17:45,16:38,0
+Y4801_2025-06-01_DFW_MEX,A321,Landed,2025-06-01,1,Y4,00:00,DFW,2025-06-01,D12,D,MEX,02:56,23:10,21:10,801,On Time,false,false,False,Operated by Volaris Mexico,22:55,21:10,0
+Y43292_2025-06-03_TIJ_CUU,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,14,1,CUU,01:49,18:52,15:50,3292,On Time,false,false,False,Operated by Volaris Mexico,18:45,15:50,0
+Y41871_2025-06-02_PDX_GDL,A320,Landed,2025-06-02,1,Y4,00:00,PDX,2025-06-02,D10,,GDL,04:42,05:43,23:18,1871,On Time,false,false,False,Operated by Volaris Mexico,05:51,23:18,0
+Y41012_2025-06-02_GDL_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A4,1,TIJ,03:01,12:31,11:31,1012,On Time,false,false,False,Operated by Volaris Mexico,12:33,11:31,0
+Y43203_2025-06-02_AGU_TIJ,A320,Programmed,2025-06-02,1,Y4,05:18,AGU,2025-06-02,,1,TIJ,03:02,01:13,00:11,3203,Delayed,false,false,False,Operated by Volaris Mexico,19:51,18:53,0
+Y4743_2025-06-01_LAS_MEX,A321,Landed,2025-06-01,1,Y4,00:00,LAS,2025-06-01,E7,3,MEX,03:41,23:41,19:10,743,On Time,false,false,False,Operated by Volaris Mexico,23:55,19:10,0
+Y41775_2025-06-02_OAK_GDL,A320,Take Off,2025-06-02,1,Y4,00:00,OAK,2025-06-02,1,1,GDL,04:08,19:36,13:25,1775,On Time,false,false,False,Operated by Volaris Mexico,19:08,13:25,0
+Y47121_2025-06-02_SJD_NLU,A320,Landed,2025-06-02,1,Y4,00:00,SJD,2025-06-02,2,1,NLU,01:57,17:15,13:51,7121,On Time,false,false,False,Operated by Volaris Mexico,16:54,13:51,0
+Y41081_2025-06-01_MTY_GDL,A320,Programmed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,8,A,GDL,01:32,09:47,08:15,1081,On Time,false,false,False,Operated by Volaris Mexico,09:45,08:15,0
+Y4153_2025-06-01_GDL_MEX,A321,Landed,2025-06-01,1,Y4,02:51,GDL,2025-06-01,C34,1,MEX,01:31,14:12,12:38,153,Delayed,false,false,False,Operated by Volaris Mexico,11:10,09:47,0
+Y43253_2025-06-01_DGO_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,DGO,2025-06-01,2,1,TIJ,02:28,22:42,21:18,3253,On Time,false,false,False,Operated by Volaris Mexico,22:50,21:18,0
+Y41770_2025-06-02_GDL_OAK,A320,Programmed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A4,1,OAK,03:55,17:35,14:40,1770,On Time,false,false,False,Operated by Volaris Mexico,17:36,14:40,0
+Y43591_2025-06-03_SLP_CUN,A320,Take Off,2025-06-03,2,Y4,00:00,SLP,2025-06-03,2,1,CUN,02:19,10:17,07:09,3591,On Time,false,false,False,Operated by Volaris Mexico,10:22,07:09,0
+Y43120_2025-06-02_TIJ_PVR,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,5,1,PVR,02:41,10:34,07:00,3120,On Time,false,false,False,Operated by Volaris Mexico,10:42,07:00,0
+Y47921_2025-06-01_IAH_MLM,A320,Landed,2025-06-01,1,Y4,00:00,IAH,2025-06-01,D10,D,MLM,02:04,20:21,18:55,7921,On Time,false,false,False,Operated by Volaris Mexico,20:07,18:55,0
+Y45554_2025-06-03_MTY_QRO,A320,Programmed,2025-06-03,1,Y4,00:00,MTY,2025-06-03,2,A,QRO,01:14,20:59,19:45,5554,On Time,false,false,False,Operated by Volaris Mexico,21:05,19:45,0
+Y43102_2025-06-01_TIJ_SJD,A321,Programmed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,5,1,SJD,02:05,16:08,14:03,3102,On Time,false,false,False,Operated by Volaris Mexico,16:10,14:03,0
+Y41053_2025-06-01_CUN_GDL,A321,Landed,2025-06-01,1,Y4,01:02,CUN,2025-06-01,A1,2,GDL,03:08,01:26,22:41,1053,Delayed,false,false,False,Operated by Volaris Mexico,23:30,21:39,0
+Y41714_2025-06-03_GDL_LAX,A320,Take Off,2025-06-03,B,Y4,00:00,GDL,2025-06-03,A7,1,LAX,03:08,12:26,11:29,1714,On Time,false,false,False,Operated by Volaris Mexico,12:56,11:29,0
+Y47771_2025-06-02_MDW_MLM,A320,Landed,2025-06-02,1,Y4,00:00,MDW,2025-06-02,A3,1,MLM,03:57,18:20,14:32,7771,On Time,false,false,False,Operated by Volaris Mexico,18:48,14:32,0
+Y4113_2025-06-01_CUN_MEX,A321,Programmed,2025-06-01,1,Y4,00:00,CUN,06/01/2025,B5,2,MEX,02:17,15:40,14:23,113,On Time,false,false,False,Operated by Volaris Mexico,15:40,14:13,0
+Y42061_2025-08-12_LAS_DFW,,,2025-08-12,,,,,2025-08-12,,,,,,,,,,,True,,,,
+Y43555_2025-06-01_PBC_CUN,A321,Landed,2025-06-01,2,Y4,00:00,PBC,2025-06-01,3,1,CUN,02:06,15:48,12:29,3555,On Time,false,false,False,Operated by Volaris Mexico,15:45,12:29,0
+Y4302_2025-06-02_MEX_SJD,A321,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,12,1,SJD,02:08,09:58,09:00,302,On Time,false,false,False,Operated by Volaris Mexico,10:09,09:00,0
+Y43383_2025-06-02_VER_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,VER,2025-06-02,B6,1,TIJ,03:41,21:46,19:15,3383,On Time,false,false,False,Operated by Volaris Mexico,22:13,19:15,0
+Y45801_2025-06-01_TIJ_TLC,A320,Landed,2025-06-01,,Y4,00:00,TIJ,2025-06-01,1,1,TLC,03:09,05:13,23:59,5801,On Time,false,false,False,Operated by Volaris Mexico,05:02,23:59,0
+Y41731_2025-06-02_IAH_GDL,A320,Take Off,2025-06-02,1,Y4,00:00,IAH,2025-06-02,D17,D,GDL,02:26,13:05,10:48,1731,On Time,false,false,False,Operated by Volaris Mexico,13:21,10:48,0
+Y41105_2025-06-02_MXL_GDL,A320,Landed,2025-06-02,1,Y4,00:00,MXL,2025-06-02,1,1,GDL,02:39,21:59,18:24,1105,On Time,false,false,False,Operated by Volaris Mexico,22:08,18:24,0
+Y45596_2025-06-01_MTY_BJX,A320,Programmed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,,A,BJX,01:11,18:11,17:00,5596,On Time,false,false,False,Operated by Volaris Mexico,18:11,17:00,0
+Y41400_2025-06-02_GDL_TQO,A320,Landed,2025-06-02,,Y4,00:00,GDL,2025-06-02,C35,1,TQO,02:26,15:21,11:57,1400,On Time,false,false,False,Operated by Volaris Mexico,15:10,11:42,0
+Y43211_2025-06-01_ZCL_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,ZCL,2025-06-01,2,1,TIJ,02:57,08:34,06:37,3211,On Time,false,false,False,Operated by Volaris Mexico,08:08,06:30,0
+Y43045_2025-06-01_BJX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,4,1,TIJ,02:53,11:36,09:31,3045,On Time,false,false,False,Operated by Volaris Mexico,11:32,09:31,0
+Y4410_2025-06-01_MEX_CUU,A321,Landed,2025-06-01,,Y4,00:00,MEX,2025-06-01,16,,CUU,02:05,22:40,20:30,410,On Time,false,false,False,Operated by Volaris Mexico,22:45,20:30,0
+Y47793_2025-06-01_OAK_MLM,A320,Landed,2025-06-01,1,Y4,00:00,OAK,2025-06-01,1,1,MLM,04:05,19:52,14:59,7793,On Time,false,false,False,Operated by Volaris Mexico,20:01,14:59,0
+Y4241_2025-06-01_MTY_MEX,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,9,A,MEX,01:41,10:40,09:22,241,On Time,false,false,False,Operated by Volaris Mexico,10:55,09:22,0
+Y41089_2025-06-01_MTY_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,2,A,GDL,01:17,16:08,14:55,1089,On Time,false,false,False,Operated by Volaris Mexico,16:25,14:55,0
+Y41223_2025-06-02_CUU_GDL,A320,Landed,2025-06-02,1,Y4,00:00,CUU,2025-06-02,5,1,GDL,01:54,22:18,20:24,1223,On Time,false,false,False,Operated by Volaris Mexico,22:00,20:13,0
+Y41715_2025-06-01_LAX_GDL,A321,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,201B,B,GDL,03:15,19:55,15:41,1715,On Time,false,false,False,Operated by Volaris Mexico,19:52,15:41,0
+Y43083_2025-06-01_CUN_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B1,2,TIJ,04:36,23:16,20:41,3083,On Time,false,false,False,Operated by Volaris Mexico,23:17,20:41,0
+Y47879_2025-06-01_LAX_UPN,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,210A,B,UPN,03:37,06:15,00:43,7879,On Time,false,false,False,Operated by Volaris Mexico,06:00,00:43,0
+Y42756_2025-07-29_ATL_IAH,,,2025-07-29,,,,,2025-07-29,,,,,,,,,,,True,,,,
+Y41291_2025-06-01_NLU_GDL,A320,Landed,2025-06-01,1,Y4,00:00,NLU,2025-06-01,109A,1,GDL,01:06,15:54,14:47,1291,On Time,false,false,False,Operated by Volaris Mexico,16:03,14:47,0
+Y43145_2025-06-01_OAX_TIJ,A320,Programmed,2025-06-01,1,Y4,00:00,OAX,2025-06-01,1-4,1,TIJ,04:01,23:25,21:24,3145,On Time,false,false,False,Operated by Volaris Mexico,23:25,21:24,0
+Y41352_2025-06-01_GDL_PXM,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C36,1,PXM,01:36,15:18,13:37,1352,On Time,false,false,False,Operated by Volaris Mexico,15:16,13:37,0
+Y41203_2025-06-01_LAP_GDL,A320,Landed,2025-06-01,1,Y4,00:00,LAP,2025-06-01,3,1,GDL,01:31,17:50,15:23,1203,On Time,false,false,False,Operated by Volaris Mexico,18:02,15:23,0
+Y47884_2025-06-01_CUL_PHX,A320,Landed,2025-06-01,4,Y4,00:00,CUL,2025-06-01,5,1,PHX,01:53,10:28,08:25,7884,On Time,false,false,False,Operated by Volaris Mexico,10:23,08:25,0
+Y4282_2025-06-02_MEX_PVR,A321,Programmed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,,1,PVR,01:30,19:35,18:05,282,On Time,false,false,False,Operated by Volaris Mexico,19:35,18:05,0
+Y42053_2025-06-28_DEN_LAS,,,2025-06-28,,,,,2025-06-28,,,,,,,,,,,True,,,,
+Y43180_2025-06-04_TIJ_HMO,A321,Landed,2025-06-04,1,Y4,01:36,TIJ,2025-06-04,5,1,HMO,01:27,10:35,08:09,3180,Delayed,false,false,False,Operated by Volaris Mexico,08:55,06:33,0
+Y4282_2025-06-03_MEX_PVR,A320,Landed,2025-06-03,1,Y4,00:00,MEX,2025-06-03,5,1,PVR,01:36,19:35,18:05,282,On Time,false,false,False,Operated by Volaris Mexico,19:35,18:05,0
+Y4361_2025-06-01_PXM_MEX,A320,Landed,2025-06-01,1,Y4,00:00,PXM,2025-06-01,B-3,1,MEX,01:21,14:35,13:24,361,On Time,false,false,False,Operated by Volaris Mexico,14:45,13:24,0
+Y4781_2025-06-01_MCO_MEX,A321,Landed,2025-06-01,1,Y4,00:00,MCO,2025-06-01,*82*,B,MEX,03:44,19:45,17:07,781,On Time,false,false,False,Operated by Volaris Mexico,19:45,17:07,0
+Y41721_2025-06-01_LAX_GDL,A321,Programmed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,207,B,GDL,03:17,05:52,00:35,1721,On Time,false,false,False,Operated by Volaris Mexico,05:42,00:35,0
+Y41049_2025-06-03_CUN_GDL,A320,Landed,2025-06-03,1,Y4,00:00,CUN,2025-06-03,A4,2,GDL,02:41,12:12,10:39,1049,On Time,false,false,False,Operated by Volaris Mexico,12:32,10:39,0
+Y42230_2025-07-26_BUF_MCO,,,2025-07-26,,,,,2025-07-26,,,,,,,,,,,True,,,,
+Y43040_2025-06-02_TIJ_BJX,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,12,1,BJX,02:47,05:39,00:57,3040,On Time,false,false,False,Operated by Volaris Mexico,05:45,00:57,0
+Y43628_2025-06-01_CUN_MLM,A320,Take Off,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A5,2,MLM,02:23,15:48,14:32,3628,On Time,false,false,False,Operated by Volaris Mexico,16:03,14:32,0
+Y47111_2025-06-02_MID_NLU,A320,Landed,2025-06-02,1,Y4,00:00,MID,2025-06-02,C6,1,NLU,01:51,11:10,09:30,7111,On Time,false,false,False,Operated by Volaris Mexico,11:21,09:30,0
+Y4481_2025-06-02_CTM_MEX,A321,Programmed,2025-06-02,1,Y4,00:00,CTM,2025-06-02,1,1,MEX,02:08,10:05,08:57,481,On Time,false,false,False,Operated by Volaris Mexico,10:05,08:57,0
+Y47780_2025-06-03_MLM_LAX,A320,Landed,2025-06-03,B,Y4,00:00,MLM,2025-06-03,4,1,LAX,03:45,21:40,20:19,7780,On Time,false,false,False,Operated by Volaris Mexico,22:07,20:19,0
+Y43383_2025-06-05_VER_TIJ,A321,Landed,2025-06-05,1,Y4,00:00,VER,2025-06-05,,1,TIJ,03:56,23:02,21:12,3383,On Time,false,false,False,Operated by Volaris Mexico,23:05,21:12,0
+Y4760_2025-06-01_MEX_DEN,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,15,1,DEN,03:47,11:27,08:10,760,On Time,false,false,False,Operated by Volaris Mexico,11:49,08:10,0
+Y4790_2025-06-04_MEX_MIA,A320,Landed,2025-06-04,G,Y4,00:00,MEX,2025-06-04,11,1,MIA,02:54,13:51,10:05,790,On Time,false,false,False,Operated by Volaris Mexico,14:10,10:05,0
+Y43919_2025-06-04_LIM_MEX,A320,Landed,2025-06-04,1,Y4,00:00,LIM,2025-06-04,D5,2,MEX,06:02,11:09,06:14,3919,On Time,false,false,False,Operated by Volaris Mexico,11:20,06:14,0
+Y43554_2025-06-01_CUN_PBC,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A9,2,PBC,02:12,17:34,16:16,3554,On Time,false,false,False,Operated by Volaris Mexico,17:32,16:16,0
+Y42580_2025-06-04_DEN_MCO,,,2025-06-04,,,,,2025-06-04,,,,,,,,,,,True,,,,
+Y4241_2025-06-02_MTY_MEX,A321,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,8,A,MEX,01:31,10:43,09:15,241,On Time,false,false,False,Operated by Volaris Mexico,10:50,09:15,0
+Y47831_2025-06-02_MDW_ZCL,A320,Landed,2025-06-02,1,Y4,00:00,MDW,2025-06-02,A1,1,ZCL,04:15,16:51,12:42,7831,On Time,false,false,False,Operated by Volaris Mexico,16:46,12:42,0
+Y41233_2025-06-01_MID_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MID,2025-06-01,C6,1,GDL,02:33,11:59,09:29,1233,On Time,false,true,False,Operated by Volaris Mexico,11:59,09:29,0
+Y43262_2025-06-03_TIJ_CLQ,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,14,1,CLQ,03:08,11:14,06:15,3262,On Time,false,false,False,Operated by Volaris Mexico,11:10,06:15,0
+Y43293_2025-06-02_CUU_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,CUU,2025-06-02,2,1,TIJ,01:52,21:04,19:25,3293,On Time,false,false,False,Operated by Volaris Mexico,20:24,19:25,0
+Y4790_2025-06-01_MEX_MIA,A320,Landed,2025-06-01,G,Y4,00:00,MEX,2025-06-01,24,1,MIA,03:07,14:58,09:55,790,On Time,false,false,False,Operated by Volaris Mexico,15:06,09:55,0
+Y47780_2025-06-02_MLM_LAX,A320,Landed,2025-06-02,B,Y4,00:00,MLM,2025-06-02,4,1,LAX,03:33,21:40,20:19,7780,On Time,false,false,False,Operated by Volaris Mexico,22:07,20:19,0
+Y42158_2025-07-21_SLC_PHX,,,2025-07-21,,,,,2025-07-21,,,,,,,,,,,True,,,,
+Y47711_2025-06-02_OAK_BJX,A320,Landed,2025-06-02,1,Y4,00:00,OAK,2025-06-02,9,1,BJX,03:51,05:16,23:30,7711,On Time,false,false,False,Operated by Volaris Mexico,05:11,23:30,0
+Y4560_2025-06-01_TLC_PVR,A320,Landed,2025-06-01,1,Y4,00:00,TLC,2025-06-01,16,,PVR,01:30,14:11,12:42,560,On Time,false,false,False,Operated by Volaris Mexico,14:03,12:42,0
+Y41083_2025-06-02_MTY_GDL,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,9,A,GDL,01:24,13:54,12:38,1083,On Time,false,false,False,Operated by Volaris Mexico,14:08,12:38,0
+Y41883_2025-06-01_PHX_GDL,A321,Landed,2025-06-01,1,Y4,00:00,PHX,2025-06-01,B28,4,GDL,02:45,12:53,09:32,1883,On Time,false,false,False,Operated by Volaris Mexico,13:13,09:32,0
+Y43382_2025-06-01_TIJ_VER,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,VER,03:36,18:22,13:56,3382,On Time,false,false,False,Operated by Volaris Mexico,18:37,13:56,0
+Y47874_2025-06-01_ZCL_OAK,A320,Landed,2025-06-01,1,Y4,00:00,ZCL,2025-06-01,3,1,OAK,03:32,11:20,09:01,7874,On Time,false,false,False,Operated by Volaris Mexico,11:45,09:01,0
+Y43292_2025-06-01_TIJ_CUU,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,CUU,02:02,18:51,15:50,3292,On Time,false,false,False,Operated by Volaris Mexico,18:48,15:50,0
+Y4711_2025-06-03_LAX_MEX,A321,Programmed,2025-06-03,1,Y4,00:00,LAX,2025-06-03,205,B,MEX,03:45,05:36,23:51,711,On Time,false,false,False,Operated by Volaris Mexico,05:25,23:51,0
+Y43103_2025-06-02_SJD_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,SJD,2025-06-02,2,1,TIJ,02:00,18:45,16:50,3103,On Time,false,false,False,Operated by Volaris Mexico,18:53,16:50,0
+Y41000_2025-06-01_GDL_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A4,1,TIJ,02:40,09:11,07:24,1000,On Time,false,false,False,Operated by Volaris Mexico,09:15,07:24,0
+Y41202_2025-06-02_GDL_LAP,A320,Programmed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,D41,1,LAP,01:42,14:48,14:06,1202,On Time,false,false,False,Operated by Volaris Mexico,14:48,14:06,0
+Y43045_2025-06-04_BJX_TIJ,A320,Take Off,2025-06-04,1,Y4,00:00,BJX,2025-06-04,4,1,TIJ,03:06,08:55,07:00,3045,On Time,false,false,False,Operated by Volaris Mexico,09:08,07:00,0
+Y47910_2025-06-01_OAK_SJD,A320,Landed,2025-06-01,2,Y4,00:00,OAK,2025-06-01,1,1,SJD,02:59,15:15,12:30,7910,On Time,false,false,False,Operated by Volaris Mexico,15:35,12:30,0
+Y45746_2025-06-01_TIJ_LMM,A320,Programmed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,,1,LMM,01:47,10:18,07:31,5746,On Time,false,false,False,Operated by Volaris Mexico,10:18,07:31,0
+Y45794_2025-06-01_MXL_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MXL,2025-06-01,1,1,GDL,02:37,05:11,00:30,5794,On Time,false,false,False,Operated by Volaris Mexico,05:10,00:30,0
+Y41212_2025-06-01_GDL_TLC,A320,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,D45,1,TLC,01:12,19:42,18:10,1212,On Time,false,false,False,Operated by Volaris Mexico,19:17,18:10,0
+Y43263_2025-06-04_CLQ_TIJ,A320,Landed,2025-06-04,1,Y4,00:00,CLQ,2025-06-04,DOS,1,TIJ,02:53,15:48,13:50,3263,On Time,false,false,False,Operated by Volaris Mexico,15:43,13:50,0
+Y41823_2025-06-01_SJC_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SJC,2025-06-01,16,A,GDL,03:47,19:37,15:00,1823,On Time,false,false,False,Operated by Volaris Mexico,19:45,15:00,0
+Y47925_2025-06-01_SLP_IAH,A320,Landed,2025-06-01,D,Y4,00:00,SLP,2025-06-01,5,1,IAH,01:46,16:15,14:47,7925,On Time,false,false,False,Operated by Volaris Mexico,16:40,14:47,0
+Y41891_2025-06-01_RNO_GDL,A320,Landed,2025-06-01,1,Y4,00:00,RNO,2025-06-01,C8,1,GDL,03:39,17:28,11:49,1891,On Time,false,false,False,Operated by Volaris Mexico,17:36,11:49,0
+Y41851_2025-06-02_SEA_GDL,A320,Landed,2025-06-02,1,Y4,00:00,SEA,2025-06-02,S3,1,GDL,05:19,04:25,22:00,1851,On Time,false,false,False,Operated by Volaris Mexico,04:00,22:00,0
+Y4451_2025-06-01_CZM_MEX,A321,Landed,2025-06-01,1,Y4,00:00,CZM,2025-06-01,4,1,MEX,02:17,18:51,17:42,451,On Time,false,false,False,Operated by Volaris Mexico,19:00,17:42,0
+Y45566_2025-06-02_MTY_OAX,A320,Landed,2025-06-02,1,Y4,00:40,MTY,2025-06-02,2,A,OAX,01:56,14:36,12:40,5566,Delayed,false,false,False,Operated by Volaris Mexico,13:46,12:00,0
+Y45590_2025-06-01_MTY_MID,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,4,A,MID,02:09,12:25,10:25,5590,On Time,false,false,False,Operated by Volaris Mexico,12:25,10:25,0
+Y47909_2025-06-01_DFW_MLM,A320,Landed,2025-06-01,1,Y4,00:00,DFW,2025-06-01,D5,D,MLM,02:37,20:18,17:53,7909,On Time,false,false,False,Operated by Volaris Mexico,20:22,17:53,0
+Y4240_2025-06-03_MEX_MTY,A320,Landed,2025-06-03,A,Y4,00:00,MEX,2025-06-03,24,1,MTY,01:16,08:25,07:00,240,On Time,false,false,False,Operated by Volaris Mexico,08:34,07:00,0
+Y41220_2025-06-01_GDL_CUU,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,D43,1,CUU,01:45,08:44,06:35,1220,On Time,false,false,False,Operated by Volaris Mexico,08:26,06:35,0
+Y41105_2025-06-01_MXL_GDL,A320,Landed,2025-06-01,1,Y4,01:10,MXL,2025-06-01,4,1,GDL,02:41,23:14,19:34,1105,Delayed,false,false,False,Operated by Volaris Mexico,22:08,18:24,0
+Y43006_2025-06-01_TIJ_CUL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,14,1,CUL,01:59,19:48,18:01,3006,On Time,false,false,False,Operated by Volaris Mexico,20:02,18:01,0
+Y43251_2025-06-01_DGO_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,DGO,2025-06-01,2,1,TIJ,02:15,10:08,08:41,3251,On Time,false,false,False,Operated by Volaris Mexico,10:05,08:41,0
+Y45613_2025-06-03_PVR_MTY,A320,Landed,2025-06-03,A,Y4,00:00,PVR,2025-06-03,4,1,PVR,01:35,15:05,13:35,5613,On Time,false,false,False,Operated by Volaris Mexico,15:05,13:35,0
+Y43622_2025-06-01_CUN_AGU,A320,Take Off,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B11,2,AGU,02:39,17:59,16:31,3622,On Time,false,false,False,Operated by Volaris Mexico,18:08,16:31,0
+Y42329_2025-07-06_LAX_PHX,,,2025-07-06,,,,,2025-07-06,,,,,,,,,,,True,,,,
+Y41046_2025-06-01_GDL_CUN,A321,Landed,2025-06-01,2,Y4,00:00,GDL,2025-06-01,D41,1,CUN,02:52,21:37,18:01,1046,On Time,false,false,False,Operated by Volaris Mexico,21:49,18:01,0
+Y41890_2025-06-01_GDL_RNO,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A3,1,RNO,04:03,10:26,07:29,1890,On Time,false,false,False,Operated by Volaris Mexico,10:28,07:29,0
+Y43256_2025-06-01_TIJ_LMM,A320,Programmed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,,1,LMM,01:47,14:27,11:40,3256,On Time,false,false,False,Operated by Volaris Mexico,14:27,11:40,0
+Y47761_2025-06-01_SJC_BJX,A320,Landed,2025-06-01,1,Y4,00:00,SJC,2025-06-01,14,A,BJX,03:56,17:15,12:35,7761,On Time,false,false,False,Operated by Volaris Mexico,17:17,12:35,0
+Y41086_2025-06-01_GDL_MTY,A320,Landed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,C34,1,MTY,01:42,16:43,15:00,1086,On Time,false,false,False,Operated by Volaris Mexico,16:14,14:46,0
+Y43234_2025-06-03_TIJ_LAP,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,16,1,LAP,02:10,17:43,15:36,3234,On Time,false,false,False,Operated by Volaris Mexico,17:33,15:36,0
+Y41212_2025-06-02_GDL_TLC,A320,Landed,2025-06-02,,Y4,00:00,GDL,2025-06-02,C33,1,TLC,01:09,19:44,18:35,1212,On Time,false,false,False,Operated by Volaris Mexico,19:17,18:10,0
+Y42094_2025-08-03_PHL_MIA,,,2025-08-03,,,,,2025-08-03,,,,,,,,,,,True,,,,
+Y41087_2025-06-05_MTY_GDL,A320,Landed,2025-06-05,1,Y4,00:00,MTY,2025-06-05,3,A,GDL,01:31,18:30,17:00,1087,On Time,false,false,False,Operated by Volaris Mexico,18:30,17:00,0
+Y41010_2025-06-02_GDL_TIJ,A321,Landed,2025-06-02,1,Y4,00:54,GDL,2025-06-02,A3,1,TIJ,03:00,01:39,00:40,1010,DELAYED,false,false,False,Operated by Volaris Mexico,00:48,23:46,0
+Y41351_2025-06-01_PXM_GDL,A321,Landed,2025-06-01,1,Y4,00:00,PXM,2025-06-01,,1,GDL,01:28,13:44,12:20,1351,On Time,false,false,False,Operated by Volaris Mexico,13:57,12:20,0
+Y4146_2025-06-02_MEX_GDL,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,4,1,GDL,01:13,21:55,20:35,146,On Time,false,false,False,Operated by Volaris Mexico,21:55,20:35,0
+Y45937_2025-06-01_ZIH_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,ZIH,2025-06-01,2,1,TIJ,03:21,15:11,13:49,5937,On Time,false,false,False,Operated by Volaris Mexico,15:18,13:49,0
+Y41770_2025-06-03_GDL_OAK,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,A3,1,OAK,03:58,18:13,15:47,1770,On Time,false,false,False,Operated by Volaris Mexico,17:53,15:47,0
+Y4183_2025-06-02_TIJ_MEX,A321,Take Off,2025-06-02,1,Y4,03:35,TIJ,2025-06-02,7,1,MEX,03:47,01:07,19:20,183,Delayed,false,false,False,Operated by Volaris Mexico,21:00,15:45,0
+Y41350_2025-06-03_GDL_PXM,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,C37,1,PXM,01:38,12:27,11:03,1350,On Time,false,false,False,Operated by Volaris Mexico,12:39,11:03,0
+Y42600_2025-07-14_PHX_DFW,,,2025-07-14,,,,,2025-07-14,,,,,,,,,,,True,,,,
+Y41163_2025-06-01_CJS_GDL,A320,Landed,2025-06-01,1,Y4,00:00,CJS,2025-06-01,7,1,GDL,02:02,10:59,08:54,1163,On Time,false,false,False,Operated by Volaris Mexico,11:04,08:54,0
+Y4700_2025-06-01_MEX_ORD,A320,Programmed,2025-06-01,5,Y4,00:00,MEX,2025-06-01,,1,ORD,04:02,05:42,00:40,700,On Time,false,false,False,Operated by Volaris Mexico,05:42,00:40,0
+Y45617_2025-06-01_MEX_MTY,A320,Landed,2025-06-01,A,Y4,00:00,MEX,2025-06-01,12,1,MTY,01:30,07:25,06:00,5617,On Time,false,false,False,Operated by Volaris Mexico,07:35,06:00,0
+Y41901_2025-06-01_JFK_GDL,A320,Landed,2025-06-01,1,Y4,00:00,JFK,2025-06-01,9,1,GDL,04:52,05:11,02:30,1901,On Time,false,false,False,Operated by Volaris Mexico,05:50,02:30,0
+Y45761_2025-06-01_ORD_MLM,A320,Programmed,2025-06-01,1,Y4,00:00,ORD,2025-06-01,M19,5,MLM,04:21,10:21,06:00,5761,On Time,false,false,False,Operated by Volaris Mexico,10:13,06:00,0
+Y4391_2025-06-01_CUL_MEX,A321,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,4,1,MEX,02:04,10:01,07:00,391,On Time,false,false,False,Operated by Volaris Mexico,09:55,07:00,0
+Y43482_2025-06-02_CUN_TLC,A320,Landed,2025-06-02,,Y4,00:00,CUN,2025-06-02,B11,2,TLC,02:11,18:07,16:57,3482,On Time,false,false,False,Operated by Volaris Mexico,17:51,16:36,0
+Y43121_2025-06-01_PVR_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,1,1,TIJ,02:46,14:51,14:01,3121,On Time,false,false,False,Operated by Volaris Mexico,14:51,14:01,0
+Y43554_2025-06-02_CUN_PBC,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,B5,2,PBC,02:08,17:20,16:16,3554,On Time,false,false,False,Operated by Volaris Mexico,17:32,16:16,0
+Y43274_2025-06-01_TIJ_UPN,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,UPN,03:08,13:01,09:02,3274,On Time,false,false,False,Operated by Volaris Mexico,13:02,09:02,0
+Y47721_2025-06-02_LAX_BJX,A320,Programmed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,,B,BJX,03:14,23:58,19:44,7721,On Time,false,false,False,Operated by Volaris Mexico,23:58,19:44,0
+Y41851_2025-06-03_SEA_GDL,A320,Landed,2025-06-03,1,Y4,00:00,SEA,2025-06-03,S1,1,GDL,05:19,05:13,22:00,1851,On Time,false,false,False,Operated by Volaris Mexico,04:50,22:00,0
+Y41781_2025-06-02_MCO_GDL,A320,Landed,2025-06-02,1,Y4,00:00,MCO,2025-06-02,*82*,B,GDL,03:53,17:19,15:19,1781,On Time,false,false,False,Operated by Volaris Mexico,17:03,15:19,0
+Y4240_2025-06-02_MEX_MTY,A320,Landed,2025-06-02,A,Y4,00:00,MEX,2025-06-02,17,1,MTY,01:23,08:16,07:00,240,On Time,false,false,False,Operated by Volaris Mexico,08:34,07:00,0
+Y41822_2025-06-01_GDL_SJC,A320,Landed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,B13,1,SJC,03:43,13:18,10:45,1822,On Time,false,false,False,Operated by Volaris Mexico,13:30,10:45,0
+Y43553_2025-06-03_PBC_CUN,A320,Landed,2025-06-03,2,Y4,00:50,PBC,2025-06-03,3,1,CUN,01:55,11:49,08:52,3553,Delayed,false,false,False,Operated by Volaris Mexico,11:13,08:02,0
+Y43220_2025-06-03_TIJ_PBC,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,20,1,PBC,03:29,07:15,02:00,3220,On Time,false,false,False,Operated by Volaris Mexico,07:22,02:00,0
+Y45540_2025-06-01_MTY_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,15,A,GDL,01:30,07:39,06:10,5540,On Time,false,false,False,Operated by Volaris Mexico,07:40,06:10,0
+Y41720_2025-06-01_GDL_LAX,A320,Landed,2025-06-01,B,Y4,00:00,GDL,2025-06-01,A2,1,LAX,03:03,23:03,21:01,1720,On Time,false,false,False,Operated by Volaris Mexico,23:20,21:01,0
+Y41006_2025-06-01_GDL_TIJ,A321,Landed,2025-06-01,1,Y4,01:52,GDL,2025-06-01,C33,1,TIJ,02:53,20:27,18:37,1006,Delayed,false,false,False,Operated by Volaris Mexico,18:41,16:45,0
+Y43102_2025-06-04_TIJ_SJD,A321,Landed,2025-06-04,1,Y4,00:00,TIJ,2025-06-04,12,1,SJD,02:01,15:57,14:03,3102,On Time,false,false,False,Operated by Volaris Mexico,16:10,14:03,0
+Y41145_2025-06-02_SJD_GDL,A321,Landed,2025-06-02,1,Y4,00:00,SJD,2025-06-02,3,1,GDL,01:29,14:27,11:53,1145,On Time,false,false,False,Operated by Volaris Mexico,14:24,11:53,0
+Y47911_2025-06-01_SJD_OAK,A320,Landed,2025-06-01,1,Y4,00:00,SJD,2025-06-01,16,2,OAK,03:03,19:23,17:36,7911,On Time,false,false,False,Operated by Volaris Mexico,19:57,17:36,0
+Y43283_2025-06-03_CJS_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,CJS,2025-06-03,7,1,TIJ,01:48,00:02,23:19,3283,On Time,false,false,False,Operated by Volaris Mexico,00:10,23:19,0
+Y41280_2025-06-01_GDL_TRC,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C35,1,TRC,01:11,07:23,06:20,1280,On Time,false,false,False,Operated by Volaris Mexico,07:37,06:20,0
+Y47428_2025-06-01_MXL_HMO,A320,Landed,2025-06-01,1,Y4,00:00,MXL,2025-06-01,,1,HMO,01:09,19:29,18:26,7428,On Time,false,false,False,Operated by Volaris Mexico,19:36,18:26,0
+Y41013_2025-06-01_TIJ_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,12,1,GDL,02:47,10:09,06:25,1013,On Time,false,false,False,Operated by Volaris Mexico,10:23,06:25,0
+Y41121_2025-06-02_CUL_GDL,A321,Landed,2025-06-02,1,Y4,00:00,CUL,2025-06-02,2,1,GDL,01:16,10:25,08:06,1121,On Time,false,true,False,Operated by Volaris Mexico,10:29,08:06,0
+Y41753_2025-06-02_SAT_GDL,A320,Landed,2025-06-02,1,Y4,00:00,SAT,2025-06-02,A6,A,GDL,02:10,15:05,13:06,1753,On Time,false,false,False,Operated by Volaris Mexico,15:11,13:06,0
+Y41292_2025-06-02_GDL_NLU,A320,Take Off,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A5,1,NLU,01:06,20:19,19:15,1292,On Time,false,false,False,Operated by Volaris Mexico,20:28,19:15,0
+Y43122_2025-06-01_TIJ_PVR,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,PVR,02:59,15:56,11:20,3122,On Time,false,false,False,Operated by Volaris Mexico,15:56,11:20,0
+Y45590_2025-06-02_MTY_MID,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,2,A,MID,02:01,12:27,10:28,5590,On Time,false,false,False,Operated by Volaris Mexico,12:24,10:28,0
+Y42246_2025-06-10_DEN_PHX,,,2025-06-10,,,,,2025-06-10,,,,,,,,,,,True,,,,
+Y47944_2025-06-03_MLM_SMF,A320,Landed,2025-06-03,B,Y4,00:00,MLM,2025-06-03,,1,SMF,04:12,21:47,19:48,7944,On Time,false,false,False,Operated by Volaris Mexico,22:30,19:48,0
+Y41210_2025-06-03_GDL_TLC,A320,Landed,2025-06-03,,Y4,00:00,GDL,2025-06-03,A5,1,TLC,01:06,07:29,06:30,1210,On Time,false,false,False,Operated by Volaris Mexico,07:37,06:30,0
+Y45594_2025-06-01_MTY_BJX,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,4,A,BJX,01:07,06:55,06:00,5594,On Time,false,false,False,Operated by Volaris Mexico,07:16,06:00,0
+Y41142_2025-06-01_GDL_SJD,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A8,1,SJD,01:31,14:17,13:55,1142,On Time,false,false,False,Operated by Volaris Mexico,14:26,13:55,0
+Y4142_2025-06-02_MEX_GDL,A321,Landed,2025-06-02,,Y4,01:15,MEX,2025-06-02,27,,GDL,01:25,15:03,13:35,142,Delayed,false,false,False,Operated by Volaris Mexico,13:40,12:20,0
+Y41009_2025-06-02_TIJ_GDL,A321,Programmed,2025-06-02,1,Y4,01:05,TIJ,2025-06-02,18,1,GDL,03:02,21:22,16:20,1009,Delayed,false,false,False,Operated by Volaris Mexico,20:05,15:15,0
+Y4361_2025-06-02_PXM_MEX,A321,Landed,2025-06-02,1,Y4,00:00,PXM,2025-06-02,,1,MEX,01:27,14:46,13:24,361,On Time,false,false,False,Operated by Volaris Mexico,14:45,13:24,0
+Y47821_2025-06-02_ORD_MLM,A320,Landed,2025-06-02,1,Y4,00:00,ORD,2025-06-02,M14,5,MLM,03:57,08:49,05:58,7821,On Time,false,false,False,Operated by Volaris Mexico,09:01,05:58,0
+Y4101_2025-06-02_CUN_MEX,A320,Programmed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,,2,MEX,02:27,12:10,10:43,101,On Time,false,false,False,Operated by Volaris Mexico,12:10,10:43,0
+Y43001_2025-06-01_CUL_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,1,1,TIJ,02:04,10:36,09:41,3001,On Time,false,false,False,Operated by Volaris Mexico,10:52,09:41,0
+Y41772_2025-06-04_GDL_OAK,A320,Programmed,2025-06-04,1,Y4,00:00,GDL,2025-06-04,B13,1,OAK,04:06,21:30,19:24,1772,On Time,false,false,False,Operated by Volaris Mexico,21:30,19:24,0
+Y41223_2025-06-01_CUU_GDL,A320,Landed,2025-06-01,1,Y4,00:00,CUU,2025-06-01,5,1,GDL,01:48,21:47,20:13,1223,On Time,false,false,False,Operated by Volaris Mexico,22:00,20:13,0
+Y41401_2025-06-02_TQO_GDL,A320,Landed,2025-06-02,1,Y4,00:00,TQO,2025-06-02,D2B,,GDL,02:34,17:23,15:50,1401,On Time,false,false,False,Operated by Volaris Mexico,17:31,15:50,0
+Y41320_2025-06-01_GDL_LMM,A320,Landed,2025-06-01,1,Y4,00:45,GDL,2025-06-01,C35,1,LMM,01:33,21:14,20:44,1320,Delayed,false,false,False,Operated by Volaris Mexico,20:32,19:59,0
+Y41761_2025-06-01_DEN_GDL,A320,Landed,2025-06-01,1,Y4,00:00,DEN,2025-06-01,A45,1,GDL,03:22,15:27,11:40,1761,On Time,false,false,False,Operated by Volaris Mexico,15:02,11:40,0
+Y47310_2025-06-01_BJX_SJD,A320,Programmed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,5,1,SJD,01:45,15:14,14:29,7310,On Time,false,false,False,Operated by Volaris Mexico,15:16,14:29,0
+Y41180_2025-06-03_GDL_HMO,A321,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,B10,1,HMO,02:01,07:30,06:35,1180,On Time,false,false,False,Operated by Volaris Mexico,07:45,06:35,0
+Y41000_2025-06-02_GDL_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C35,1,TIJ,02:38,09:00,07:24,1000,On Time,false,false,False,Operated by Volaris Mexico,09:15,07:24,0
+Y41831_2025-06-01_FAT_GDL,A320,Landed,2025-06-01,1,Y4,00:00,FAT,2025-06-01,11,1,GDL,03:16,07:06,01:50,1831,On Time,false,false,False,Operated by Volaris Mexico,07:14,01:50,0
+Y42368_2025-06-24_ONT_LAS,,,2025-06-24,,,,,2025-06-24,,,,,,,,,,,True,,,,
+Y43223_2025-06-02_PBC_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,PBC,2025-06-02,3,1,TIJ,03:15,13:31,11:17,3223,On Time,false,false,False,Operated by Volaris Mexico,13:44,11:17,0
+Y42894_2025-08-14_DEN_SLC,,,2025-08-14,,,,,2025-08-14,,,,,,,,,,,True,,,,
+Y42637_2025-07-05_DEN_DFW,,,2025-07-05,,,,,2025-07-05,,,,,,,,,,,True,,,,
+Y4441_2025-06-04_OAX_MEX,A321,Landed,2025-06-04,1,Y4,00:00,OAX,2025-06-04,1-4,1,MEX,01:05,09:47,08:56,441,On Time,false,false,False,Operated by Volaris Mexico,10:10,08:56,0
+Y43371_2025-06-01_TRC_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,TRC,2025-06-01,5,1,TIJ,02:29,12:02,10:40,3371,On Time,false,false,False,Operated by Volaris Mexico,12:05,10:40,0
+Y45608_2025-06-02_MTY_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,6C,A,TIJ,02:47,10:33,09:55,5608,On Time,false,false,False,Operated by Volaris Mexico,10:57,09:55,0
+Y4380_2025-06-02_MEX_HMO,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,5,1,HMO,02:42,19:24,17:45,380,On Time,false,false,False,Operated by Volaris Mexico,19:33,17:45,0
+Y43085_2025-06-01_CUN_TIJ,A320,Take Off,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A9,2,TIJ,04:49,19:56,18:15,3085,On Time,false,false,False,Operated by Volaris Mexico,20:11,18:15,0
+Y43323_2025-06-04_TLC_TIJ,A320,Programmed,2025-06-04,1,Y4,00:00,TLC,2025-06-04,14,,TIJ,03:14,17:49,16:35,3323,On Time,false,false,False,Operated by Volaris Mexico,18:05,16:35,0
+Y42476_2025-07-31_STL_MCO,,,2025-07-31,,,,,2025-07-31,,,,,,,,,,,True,,,,
+Y41293_2025-06-02_NLU_GDL,A320,Landed,2025-06-02,1,Y4,00:00,NLU,2025-06-02,109A,1,GDL,01:15,22:19,21:09,1293,On Time,false,false,False,Operated by Volaris Mexico,22:25,21:09,0
+Y4146_2025-06-01_MEX_GDL,A320,Take Off,2025-06-01,1,Y4,00:00,MEX,2025-06-01,4,1,GDL,01:26,21:20,20:00,146,On Time,false,false,False,Operated by Volaris Mexico,21:20,20:00,0
+Y47771_2025-06-03_MDW_MLM,A320,Landed,2025-06-03,1,Y4,00:00,MDW,2025-06-03,A3,1,MLM,04:40,19:01,14:32,7771,On Time,false,false,False,Operated by Volaris Mexico,18:48,14:32,0
+Y45587_2025-06-01_CUN_MTY,A320,Landed,2025-06-01,A,Y4,00:00,CUN,2025-06-01,A9,2,MTY,02:37,16:18,14:50,5587,On Time,false,false,False,Operated by Volaris Mexico,16:16,14:50,0
+Y41313_2025-06-03_PVR_GDL,A320,Landed,2025-06-03,1,Y4,00:00,PVR,2025-06-03,14,1,GDL,00:45,13:25,12:25,1313,On Time,false,false,False,Operated by Volaris Mexico,13:22,12:25,0
+Y47111_2025-06-01_MID_NLU,A320,Landed,2025-06-01,1,Y4,00:00,MID,2025-06-01,C2,1,NLU,02:00,11:03,09:17,7111,On Time,false,false,False,Operated by Volaris Mexico,11:11,09:17,0
+Y4711_2025-06-01_LAX_MEX,A321,Programmed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,,B,MEX,03:43,05:20,00:37,711,On Time,false,false,False,Operated by Volaris Mexico,05:20,00:37,0
+Y42574_2025-06-26_SEA_ONT,,,2025-06-26,,,,,2025-06-26,,,,,,,,,,,True,,,,
+Y41840_2025-06-01_GDL_MDW,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A5,1,MDW,03:34,18:55,14:09,1840,On Time,false,false,False,Operated by Volaris Mexico,19:04,14:09,0
+Y47110_2025-06-03_NLU_MID,A320,Take Off,2025-06-03,1,Y4,00:00,NLU,2025-06-03,109B,1,MID,01:39,07:38,06:09,7110,On Time,false,false,False,Operated by Volaris Mexico,07:50,06:09,0
+Y47781_2025-06-01_LAX_MLM,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,201A,B,MLM,03:23,04:33,00:21,7781,On Time,false,false,False,Operated by Volaris Mexico,04:43,00:21,0
+Y41741_2025-06-01_LAS_GDL,A321,Landed,2025-06-01,1,Y4,00:00,LAS,2025-06-01,E5,3,GDL,03:11,20:00,15:59,1741,On Time,false,false,False,Operated by Volaris Mexico,20:20,15:59,0
+Y45605_2025-06-02_TLC_MTY,A320,Landed,2025-06-02,A,Y4,00:00,TLC,2025-06-02,16,,MTY,01:31,22:43,21:08,5605,On Time,false,false,False,Operated by Volaris Mexico,22:18,20:40,0
+Y47849_2025-06-03_LAX_OAX,A320,Landed,2025-06-03,1,Y4,00:00,LAX,2025-06-03,205,B,OAX,04:12,18:28,13:23,7849,On Time,false,false,False,Operated by Volaris Mexico,18:32,13:23,0
+Y45611_2025-06-01_TIJ_MTY,A320,Landed,2025-06-01,A,Y4,00:00,TIJ,2025-06-01,12,1,MTY,02:51,22:15,18:17,5611,On Time,false,false,False,Operated by Volaris Mexico,22:08,18:17,0
+Y45778_2025-06-01_QRO_TIJ,A320,Take Off,2025-06-01,1,Y4,00:58,QRO,2025-06-01,,1,TIJ,03:19,00:28,22:38,5778,Delayed,false,false,False,Operated by Volaris Mexico,23:02,21:40,0
+Y4430_2025-06-03_MEX_TAP,A321,Landed,2025-06-03,1,Y4,01:50,MEX,2025-06-03,30,1,TAP,01:46,22:26,20:45,430,Delayed,true,false,False,Operated by Volaris Mexico,20:40,18:55,0
+Y43555_2025-06-03_PBC_CUN,A320,Landed,2025-06-03,2,Y4,1:47,PBC,2025-06-03,3,1,CUN,01:59,16:58,14:02,3555,Delayed,false,false,False,Operated by Volaris Mexico,15:26,12:15,0
+Y43483_2025-06-01_TLC_CUN,A320,Landed,2025-06-01,2,Y4,00:00,TLC,2025-06-01,14,,CUN,02:11,22:03,18:45,3483,On Time,false,false,False,Operated by Volaris Mexico,22:02,18:45,0
+Y41082_2025-06-01_GDL_MTY,A320,Landed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,D44,1,MTY,01:34,11:53,10:17,1082,On Time,false,false,False,Operated by Volaris Mexico,11:57,10:25,0
+Y47120_2025-06-01_NLU_SJD,A320,Landed,2025-06-01,1,Y4,00:00,NLU,2025-06-01,109A,1,SJD,02:07,13:02,12:06,7120,On Time,false,false,False,Operated by Volaris Mexico,13:11,12:06,0
+Y43316_2025-06-01_TIJ_CEN,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,CEN,01:32,20:15,18:43,3316,On Time,false,false,False,Operated by Volaris Mexico,20:19,18:43,0
+Y43234_2025-06-02_TIJ_LAP,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,9,1,LAP,01:57,19:19,17:30,3234,On Time,false,false,False,Operated by Volaris Mexico,19:27,17:30,0
+Y43290_2025-06-01_TIJ_CUU,A321,Programmed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,6,1,CUU,01:54,10:12,06:18,3290,On Time,false,false,False,Operated by Volaris Mexico,10:08,06:18,0
+Y41213_2025-06-01_TLC_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TLC,2025-06-01,14,,GDL,01:12,10:02,08:50,1213,On Time,false,false,False,Operated by Volaris Mexico,10:00,08:53,0
+Y45548_2025-06-02_MTY_CUL,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,4,A,CUL,01:33,06:51,06:27,5548,On Time,false,false,False,Operated by Volaris Mexico,06:59,06:27,0
+Y45605_2025-06-05_TLC_MTY,A320,Programmed,2025-06-05,A,Y4,00:00,TLC,2025-06-05,14,,MTY,01:45,22:18,20:33,5605,On Time,false,false,False,Operated by Volaris Mexico,22:18,20:33,0
+Y41751_2025-06-03_SAT_GDL,A320,Landed,2025-06-03,1,Y4,00:00,SAT,2025-06-03,A7,A,GDL,01:50,12:00,11:17,1751,On Time,false,false,False,Operated by Volaris Mexico,12:14,11:17,0
+Y45589_2025-06-03_CUN_MTY,A320,Programmed,2025-06-03,A,Y4,00:00,CUN,2025-06-03,,2,MTY,02:36,21:16,19:40,5589,On Time,false,false,False,Operated by Volaris Mexico,21:16,19:40,0
+Y41231_2025-06-01_MID_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MID,2025-06-01,C5,1,GDL,02:21,23:18,21:09,1231,On Time,false,false,False,Operated by Volaris Mexico,23:32,21:09,0
+Y43183_2025-06-01_HMO_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,HMO,2025-06-01,7,1,TIJ,01:18,13:07,11:53,3183,On Time,false,false,False,Operated by Volaris Mexico,13:16,11:53,0
+Y4561_2025-06-02_PVR_TLC,A320,Take Off,2025-06-02,,Y4,00:00,PVR,2025-06-02,3,1,TLC,01:33,16:27,14:40,561,On Time,false,false,False,Operated by Volaris Mexico,15:59,14:38,0
+Y43009_2025-06-01_CUL_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,1,1,TIJ,01:55,18:42,16:40,3009,On Time,false,false,False,Operated by Volaris Mexico,18:39,16:40,0
+Y45803_2025-06-01_EWR_GDL,A320,Take Off,2025-06-01,1,Y4,00:00,EWR,2025-06-01,B60,B,GDL,05:46,11:30,06:59,5803,On Time,false,false,False,Operated by Volaris Mexico,12:13,06:59,0
+Y45613_2025-06-01_PVR_MTY,A320,Landed,2025-06-01,A,Y4,00:00,PVR,2025-06-01,1,1,MTY,01:31,14:57,13:35,5613,On Time,false,false,False,Operated by Volaris Mexico,15:05,13:35,0
+Y42903_2025-06-25_SEA_LAS,,,2025-06-25,,,,,2025-06-25,,,,,,,,,,,True,,,,
+Y47937_2025-06-01_PVR_MLM,A320,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,12,1,MLM,01:07,12:58,11:55,7937,On Time,false,false,False,Operated by Volaris Mexico,12:54,11:55,0
+Y43202_2025-06-02_TIJ_AGU,A320,Programmed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,1,1,AGU,02:42,22:27,17:45,3202,On Time,false,false,False,Operated by Volaris Mexico,22:27,17:45,0
+Y41230_2025-06-01_GDL_MID,A320,Landed,2025-06-01,1,Y4,02:39,GDL,2025-06-01,D42,1,MID,02:12,23:13,20:59,1230,DELAYED,false,false,False,Operated by Volaris Mexico,20:43,18:20,0
+Y4151_2025-06-02_GDL_MEX,A321,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A8,1,MEX,01:11,07:32,06:24,151,On Time,false,false,False,Operated by Volaris Mexico,07:45,06:24,0
+Y41291_2025-06-02_NLU_GDL,A320,Landed,2025-06-02,1,Y4,00:00,NLU,2025-06-02,109A,1,GDL,01:10,07:28,06:30,1291,On Time,false,false,False,Operated by Volaris Mexico,07:44,06:30,0
+Y45614_2025-06-03_MTY_PVR,A320,Landed,2025-06-03,1,Y4,00:00,MTY,2025-06-03,8,A,PVR,01:26,17:07,15:35,5614,On Time,false,false,False,Operated by Volaris Mexico,17:07,15:35,0
+Y43283_2025-06-04_CJS_TIJ,A320,Landed,2025-06-04,1,Y4,00:00,CJS,2025-06-04,4,1,TIJ,02:00,23:03,21:58,3283,On Time,false,false,False,Operated by Volaris Mexico,22:33,21:34,0
+Y41121_2025-06-01_CUL_GDL,A320,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,2,1,GDL,01:24,10:30,08:06,1121,On Time,false,false,False,Operated by Volaris Mexico,10:29,08:06,0
+Y43202_2025-06-01_TIJ_AGU,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,4,1,AGU,02:36,22:34,17:45,3202,On Time,false,false,False,Operated by Volaris Mexico,22:27,17:45,0
+Y47839_2025-06-01_LAX_ZCL,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,209B,B,ZCL,03:27,19:23,15:03,7839,On Time,false,false,False,Operated by Volaris Mexico,18:59,15:03,0
+Y43376_2025-06-01_TIJ_SLP,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,2,1,SLP,02:56,22:42,18:51,3376,On Time,false,false,False,Operated by Volaris Mexico,22:47,18:51,0
+Y42643_2025-08-07_MIA_CLT,,,2025-08-07,,,,,2025-08-07,,,,,,,,,,,True,,,,
+Y43121_2025-06-02_PVR_TIJ,A321,Landed,2025-06-02,1,Y4,01:30,PVR,2025-06-02,1,1,TIJ,03:10,16:41,15:31,3121,Delayed,false,false,False,Operated by Volaris Mexico,14:51,14:01,0
+Y45612_2025-06-02_MTY_PVR,A320,Programmed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,3,A,PVR,01:33,12:58,11:25,5612,On Time,false,false,False,Operated by Volaris Mexico,13:00,11:25,0
+Y43042_2025-06-02_TIJ_BJX,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,1,1,BJX,03:26,17:06,12:55,3042,On Time,false,false,False,Operated by Volaris Mexico,16:43,12:55,0
+Y43282_2025-06-02_TIJ_CJS,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,14,1,CJS,01:37,20:41,18:05,3282,On Time,false,false,False,Operated by Volaris Mexico,20:49,18:05,0
+Y41350_2025-06-02_GDL_PXM,A321,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C37,1,PXM,01:35,11:29,10:01,1350,On Time,false,false,False,Operated by Volaris Mexico,11:40,10:01,0
+Y41834_2025-06-01_GDL_FAT,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B11,1,FAT,03:33,21:00,18:25,1834,On Time,false,false,False,Operated by Volaris Mexico,21:00,18:25,0
+Y43230_2025-06-01_TIJ_LAP,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,LAP,01:51,08:13,06:33,3230,On Time,false,false,False,Operated by Volaris Mexico,08:30,06:33,0
+Y41716_2025-06-02_GDL_LAX,A320,Landed,2025-06-02,B,Y4,00:00,GDL,2025-06-02,C34,1,LAX,03:23,17:01,15:44,1716,On Time,false,false,False,Operated by Volaris Mexico,17:11,15:44,0
+Y43256_2025-06-02_TIJ_LMM,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,10,1,LMM,01:50,14:23,11:40,3256,On Time,false,false,False,Operated by Volaris Mexico,14:27,11:40,0
+Y45578_2025-06-03_MTY_MLM,A320,Landed,2025-06-03,1,Y4,00:00,MTY,2025-06-03,3,A,MLM,01:24,18:13,17:03,5578,On Time,false,false,False,Operated by Volaris Mexico,18:31,17:03,0
+Y41182_2025-06-02_GDL_HMO,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,D44,1,HMO,01:58,19:58,18:45,1182,On Time,false,false,False,Operated by Volaris Mexico,19:55,18:45,0
+Y47459_2025-06-01_MXL_MLM,A320,Landed,2025-06-01,1,Y4,00:00,MXL,2025-06-01,1,1,MLM,02:54,04:12,00:31,7459,On Time,false,false,False,Operated by Volaris Mexico,04:25,00:31,0
+Y42204_2025-06-09_MCO_SAT,,,2025-06-09,,,,,2025-06-09,,,,,,,,,,,True,,,,
+Y47944_2025-06-01_MLM_SMF,A320,Landed,2025-06-01,B,Y4,00:00,MLM,2025-06-01,4,1,SMF,04:17,22:15,19:13,7944,On Time,false,false,False,Operated by Volaris Mexico,22:30,19:13,0
+Y41770_2025-06-04_GDL_OAK,A320,Landed,2025-06-04,1,Y4,00:00,GDL,2025-06-04,D42,1,OAK,04:09,18:16,15:47,1770,On Time,false,false,False,Operated by Volaris Mexico,17:53,15:47,0
+Y41160_2025-06-03_GDL_CJS,A321,Landed,2025-06-03,1,Y4,01:03,GDL,2025-06-03,C35,1,CJS,02:00,21:01,19:59,1160,Delayed,false,false,False,Operated by Volaris Mexico,20:10,18:56,0
+Y4108_2025-06-02_MEX_CUN,A321,Landed,2025-06-02,2,Y4,00:00,MEX,2025-06-02,21,1,CUN,02:27,10:08,06:45,108,On Time,false,false,False,Operated by Volaris Mexico,10:03,06:45,0
+Y41714_2025-06-02_GDL_LAX,A321,Landed,2025-06-02,B,Y4,00:00,GDL,2025-06-02,B13,1,LAX,03:27,12:52,11:29,1714,On Time,false,false,False,Operated by Volaris Mexico,12:56,11:29,0
+Y43939_2025-06-01_SJO_CUN,A320,Landed,2025-06-01,2,Y4,00:00,SJO,2025-06-01,9,1,CUN,02:15,15:24,12:23,3939,On Time,false,false,False,Operated by Volaris Mexico,15:39,12:23,0
+Y43105_2025-06-01_SJD_TIJ,A321,Landed,2025-06-01,1,Y4,02:41,SJD,2025-06-01,,1,TIJ,02:10,00:39,22:28,3105,Delayed,false,false,False,Operated by Volaris Mexico,21:50,19:47,0
+Y43364_2025-06-01_TIJ_ZIH,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,ZIH,03:10,13:14,09:10,3364,On Time,false,false,False,Operated by Volaris Mexico,13:19,09:10,0
+Y4471_2025-06-03_ZIH_MEX,A320,Programmed,2025-06-03,1,Y4,00:00,ZIH,2025-06-03,,1,MEX,01:08,13:10,12:02,471,On Time,false,false,False,Operated by Volaris Mexico,13:10,12:02,0
+Y43100_2025-06-01_TIJ_SJD,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,SJD,02:06,12:06,10:07,3100,On Time,false,false,False,Operated by Volaris Mexico,12:14,10:07,0
+Y4101_2025-06-01_CUN_MEX,A320,Take Off,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A2,2,MEX,02:17,12:10,10:43,101,On Time,false,false,False,Operated by Volaris Mexico,12:10,10:43,0
+Y41273_2025-06-01_TGZ_GDL,A321,Landed,2025-06-01,1,Y4,00:00,TGZ,2025-06-01,A--6,1,GDL,02:35,17:56,15:30,1273,On Time,false,false,False,Operated by Volaris Mexico,17:32,15:30,0
+Y4180_2025-06-02_MEX_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,21,1,TIJ,03:24,15:30,13:05,180,On Time,false,false,False,Operated by Volaris Mexico,15:38,13:05,0
+Y41400_2025-06-01_GDL_TQO,A320,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,C30,1,TQO,02:55,15:15,11:42,1400,On Time,false,false,False,Operated by Volaris Mexico,15:10,11:42,0
+Y42655_2025-06-14_LAS_DFW,,,2025-06-14,,,,,2025-06-14,,,,,,,,,,,True,,,,
+Y42681_2025-07-09_PHX_DFW,,,2025-07-09,,,,,2025-07-09,,,,,,,,,,,True,,,,
+Y41313_2025-06-02_PVR_GDL,A320,Landed,2025-06-02,1,Y4,00:00,PVR,2025-06-02,4,1,GDL,00:46,14:07,13:05,1313,On Time,false,false,False,Operated by Volaris Mexico,14:02,13:05,0
+Y41862_2025-06-02_GDL_ONT,A320,Landed,2025-06-02,,Y4,00:00,GDL,2025-06-02,C31,1,ONT,03:12,19:10,17:12,1862,On Time,false,false,False,Operated by Volaris Mexico,19:21,17:12,0
+Y41813_2025-06-01_SMF_GDL,A321,Take Off,2025-06-01,1,Y4,00:00,SMF,2025-06-01,B6,B,GDL,04:02,07:08,00:40,1813,On Time,false,false,False,Operated by Volaris Mexico,06:24,00:40,0
+Y43220_2025-06-01_TIJ_PBC,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,PBC,03:34,07:31,03:08,3220,On Time,false,false,False,Operated by Volaris Mexico,07:25,03:08,0
+Y43009_2025-06-04_CUL_TIJ,A321,Landed,2025-06-04,1,Y4,00:00,CUL,2025-06-04,2,1,TIJ,02:11,19:16,18:15,3009,On Time,false,false,False,Operated by Volaris Mexico,19:26,18:15,0
+Y4181_2025-06-03_TIJ_MEX,A321,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,13,1,MEX,03:24,13:46,08:30,181,On Time,false,false,False,Operated by Volaris Mexico,13:45,08:30,0
+Y47110_2025-06-02_NLU_MID,A320,Landed,2025-06-02,1,Y4,00:00,NLU,2025-06-02,109B,1,MID,01:42,07:45,06:09,7110,On Time,false,false,False,Operated by Volaris Mexico,07:50,06:09,0
+Y45548_2025-06-01_MTY_CUL,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,2,A,CUL,01:29,06:43,06:27,5548,On Time,false,false,False,Operated by Volaris Mexico,06:59,06:27,0
+Y42861_2025-07-10_JFK_MCO,,,2025-07-10,,,,,2025-07-10,,,,,,,,,,,True,,,,
+Y43005_2025-06-02_CUL_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,CUL,2025-06-02,1,1,TIJ,01:56,19:31,17:48,3005,On Time,false,false,False,Operated by Volaris Mexico,19:51,17:48,0
+Y45741_2025-06-01_MLM_TIJ,A320,Programmed,2025-06-01,1,Y4,06:28,MLM,2025-06-01,,1,TIJ,03:10,06:08,04:58,5741,Delayed,false,false,False,Operated by Volaris Mexico,23:49,22:30,0
+Y41772_2025-06-03_GDL_OAK,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,D42,1,OAK,04:00,21:25,18:24,1772,On Time,false,false,False,Operated by Volaris Mexico,21:20,18:24,0
+Y47801_2025-06-01_SJC_MLM,A320,Landed,2025-06-01,1,Y4,00:00,SJC,06/01/2025,16,A,MLM,03:56,15:20,10:30,7801,On Time,false,false,False,Operated by Volaris Mexico,15:21,10:30,0
+Y47910_2025-06-02_OAK_SJD,A320,Landed,2025-06-02,2,Y4,00:00,OAK,2025-06-02,5,1,SJD,02:56,15:22,12:30,7910,On Time,false,false,False,Operated by Volaris Mexico,15:35,12:30,0
+Y43187_2025-06-01_HMO_TIJ,A320,Landed,2025-06-01,1,Y4,02:23,HMO,2025-06-01,3,1,TIJ,01:18,22:38,20:53,3187,delayed,false,false,False,Operated by Volaris Mexico,19:50,18:30,0
+Y43263_2025-06-03_CLQ_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,CLQ,2025-06-03,UNO,1,TIJ,02:59,15:57,13:50,3263,On Time,false,false,False,Operated by Volaris Mexico,15:43,13:50,0
+Y4800_2025-06-01_MEX_DFW,A321,Take Off,2025-06-01,D,Y4,00:00,MEX,2025-06-01,32,1,DFW,02:37,09:54,07:00,800,On Time,false,false,False,Operated by Volaris Mexico,09:44,07:00,0
+Y47924_2025-06-01_IAH_SLP,A320,Landed,2025-06-01,1,Y4,00:00,IAH,2025-06-01,D14,D,SLP,01:56,13:39,11:51,7924,On Time,false,false,False,Operated by Volaris Mexico,13:57,11:51,0
+Y4102_2025-06-06_MEX_CUN,A320,Landed,2025-06-06,2,Y4,00:00,MEX,2025-06-06,18,1,CUN,02:28,14:50,11:45,102,On Time,false,false,False,Operated by Volaris Mexico,15:01,11:45,0
+Y43351_2025-06-02_QRO_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,QRO,2025-06-02,B-1,1,TIJ,03:03,23:19,21:23,3351,On Time,false,false,False,Operated by Volaris Mexico,23:31,21:23,0
+Y41780_2025-06-02_GDL_MCO,A321,Landed,2025-06-02,B,Y4,00:00,GDL,2025-06-02,B12,1,MCO,03:20,13:17,09:00,1780,On Time,false,false,False,Operated by Volaris Mexico,13:27,09:00,0
+Y43262_2025-06-01_TIJ_CLQ,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,18,1,CLQ,02:59,13:05,09:14,3262,On Time,false,false,False,Operated by Volaris Mexico,13:10,09:14,0
+Y47791_2025-06-02_OAK_MLM,A320,Landed,2025-06-02,1,Y4,00:00,OAK,2025-06-02,1,1,MLM,04:00,05:56,23:59,7791,On Time,false,false,False,Operated by Volaris Mexico,05:48,23:59,0
+Y41016_2025-06-01_GDL_TIJ,A321,Take Off,2025-06-01,1,Y4,03:58,GDL,2025-06-01,A5,1,TIJ,02:56,01:51,00:55,1016,Delayed,false,false,False,Operated by Volaris Mexico,21:59,20:57,0
+Y4411_2025-06-01_CUU_MEX,A321,Landed,2025-06-01,1,Y4,00:00,CUU,2025-06-01,,1,MEX,02:17,23:13,20:55,411,On Time,false,false,False,Operated by Volaris Mexico,23:05,20:55,0
+Y41183_2025-06-03_HMO_GDL,A321,Landed,2025-06-03,1,Y4,00:34,HMO,2025-06-03,4,1,GDL,01:55,00:02,21:11,1183,Delayed,false,false,False,Operated by Volaris Mexico,23:40,20:37,0
+Y41713_2025-06-02_LAX_GDL,A320,Programmed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201B,B,GDL,03:22,16:32,11:10,1713,On Time,false,false,False,Operated by Volaris Mexico,16:17,11:10,0
+Y41831_2025-06-03_FAT_GDL,A320,Landed,2025-06-03,1,Y4,00:00,FAT,2025-06-03,17,1,GDL,03:30,07:21,01:50,1831,On Time,false,false,False,Operated by Volaris Mexico,07:14,01:50,0
+Y4441_2025-06-03_OAX_MEX,A321,Landed,2025-06-03,1,Y4,00:00,OAX,2025-06-03,1-2,1,MEX,01:02,10:17,09:19,441,On Time,false,false,False,Operated by Volaris Mexico,10:30,09:19,0
+Y45731_2025-06-01_IAH_GDL,A321,Programmed,2025-06-01,1,Y4,00:51,IAH,2025-06-01,D14,D,GDL,02:33,00:22,21:49,5731,Delayed,false,false,False,Operated by Volaris Mexico,23:31,20:58,0
+Y42893_2025-08-02_SAN_DEN,,,2025-08-02,,,,,2025-08-02,,,,,,,,,,,True,,,,
+Y4730_2025-06-01_MEX_IAH,A320,Landed,2025-06-01,D,Y4,01:00,MEX,2025-06-01,09,1,IAH,01:52,20:02,17:10,730,Delayed,false,false,False,Operated by Volaris Mexico,19:25,16:10,0
+Y43268_2025-06-02_TIJ_ACA,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,3,1,ACA,03:32,18:49,14:10,3268,On Time,false,false,False,Operated by Volaris Mexico,18:41,14:10,0
+Y41821_2025-06-01_SJC_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SJC,2025-06-01,16,A,GDL,03:40,16:00,11:30,1821,On Time,false,false,False,Operated by Volaris Mexico,16:15,11:30,0
+Y4770_2025-06-01_MEX_OAK,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,11,1,OAK,04:32,18:35,16:10,770,On Time,false,false,False,Operated by Volaris Mexico,18:56,16:10,0
+Y4391_2025-06-02_CUL_MEX,A320,Landed,2025-06-02,1,Y4,00:00,CUL,2025-06-02,1,1,CUL,01:51,22:29,19:55,391,On Time,false,false,False,Operated by Volaris Mexico,22:45,19:55,0
+Y45586_2025-06-03_MTY_CUN,A320,Take Off,2025-06-03,2,Y4,00:00,MTY,2025-06-03,3,A,CUN,02:12,13:41,10:35,5586,On Time,false,false,False,Operated by Volaris Mexico,13:53,10:35,0
+Y41049_2025-06-04_CUN_GDL,A320,Landed,2025-06-04,1,Y4,00:00,CUN,2025-06-04,B11,2,GDL,02:48,12:18,10:39,1049,On Time,false,false,False,Operated by Volaris Mexico,12:32,10:39,0
+Y41160_2025-06-01_GDL_CJS,A320,Landed,2025-06-01,1,Y4,00:34,GDL,2025-06-01,D45,1,CJS,02:03,21:19,19:12,1160,Delayed,false,false,False,Operated by Volaris Mexico,20:52,18:38,0
+Y45549_2025-06-03_CUL_MTY,A320,Programmed,2025-06-03,A,Y4,00:00,CUL,2025-06-03,4,1,MTY,01:28,09:56,07:28,5549,On Time,false,false,False,Operated by Volaris Mexico,09:53,07:28,0
+Y41087_2025-06-03_MTY_GDL,A320,Landed,2025-06-03,1,Y4,00:00,MTY,2025-06-03,4,A,GDL,01:50,19:47,17:57,1087,On Time,false,false,False,Operated by Volaris Mexico,19:31,18:01,0
+Y45617_2025-06-02_MEX_MTY,A320,Programmed,2025-06-02,A,Y4,00:00,MEX,2025-06-02,2,1,MTY,01:32,07:32,06:00,5617,On Time,false,false,False,Operated by Volaris Mexico,07:34,06:00,0
+Y42870_2025-08-04_MCO_SJU,,,2025-08-04,,,,,2025-08-04,,,,,,,,,,,True,,,,
+Y41350_2025-06-01_GDL_PXM,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A7,1,PXM,01:36,11:32,10:01,1350,On Time,false,false,False,Operated by Volaris Mexico,11:40,10:01,0
+Y4411_2025-06-03_CUU_MEX,A321,Landed,2025-06-03,1,Y4,00:00,CUU,2025-06-03,5,1,MEX,01:55,01:53,23:33,411,On Time,false,false,False,Operated by Volaris Mexico,01:30,23:23,0
+Y43040_2025-06-03_TIJ_BJX,A320,Programmed,2025-06-03,1,Y4,01:12,TIJ,2025-06-03,,1,BJX,02:48,06:57,02:09,3040,Delayed,false,false,False,Operated by Volaris Mexico,05:45,00:57,0
+Y47896_2025-06-01_QRO_LAX,A320,Landed,2025-06-01,B,Y4,00:00,QRO,2025-06-01,B-2,1,LAX,03:44,22:24,19:47,7896,On Time,false,false,False,Operated by Volaris Mexico,22:19,19:47,0
+Y45542_2025-06-03_MTY_CJS,A320,Landed,2025-06-03,1,Y4,00:30,MTY,2025-06-03,3,A,CJS,01:39,21:05,20:25,5542,DELAYED,false,false,False,Operated by Volaris Mexico,20:43,19:55,0
+Y41232_2025-06-02_GDL_MID,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,D41,1,MID,02:13,08:39,06:30,1232,On Time,false,false,False,Operated by Volaris Mexico,08:45,06:30,0
+Y41251_2025-06-01_VER_GDL,A321,Landed,2025-06-01,1,Y4,00:00,VER,2025-06-01,B7,1,GDL,01:27,10:10,08:57,1251,On Time,false,false,False,Operated by Volaris Mexico,10:30,08:57,0
+Y43182_2025-06-02_TIJ_HMO,,Programmed,2025-06-02,1,Y4,,TIJ,2025-06-02,,1,HMO,01:22,11:12,09:50,3182,Canceled,false,false,False,Operated by Volaris Mexico,11:12,09:50,0
+Y4731_2025-06-01_IAH_MEX,A320,Landed,2025-06-01,1,Y4,00:00,IAH,2025-06-01,D11,D,MEX,02:26,21:45,19:36,731,On Time,false,false,False,Operated by Volaris Mexico,22:00,19:36,0
+Y47875_2025-06-01_OAK_ZCL,A320,Landed,2025-06-01,1,Y4,01:08,OAK,2025-06-01,1,1,ZCL,03:19,18:24,14:23,7875,Delayed,false,false,False,Operated by Volaris Mexico,17:46,13:15,0
+Y47458_2025-06-01_MLM_MXL,A320,Landed,2025-06-01,1,Y4,00:00,MLM,2025-06-01,1,1,MXL,02:57,23:45,21:50,7458,On Time,false,false,False,Operated by Volaris Mexico,23:53,21:50,0
+Y47471_2025-06-01_OAX_MID,A320,Landed,2025-06-01,1,Y4,00:00,OAX,2025-06-01,,1,MID,01:30,12:06,10:42,7471,On Time,false,false,False,Operated by Volaris Mexico,12:16,10:42,0
+Y45610_2025-06-01_MTY_TIJ,A320,Programmed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,,A,TIJ,02:41,00:26,22:45,5610,On Time,false,false,False,Operated by Volaris Mexico,00:26,22:45,0
+Y4141_2025-06-01_GDL_MEX,A321,Programmed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C30,1,MEX,01:17,09:21,08:04,141,On Time,false,false,False,Operated by Volaris Mexico,09:25,08:04,0
+Y43120_2025-06-01_TIJ_PVR,A321,Take Off,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,3,1,PVR,02:34,10:32,07:00,3120,On Time,false,false,False,Operated by Volaris Mexico,10:42,07:00,0
+Y45587_2025-06-04_CUN_MTY,A320,Landed,2025-06-04,A,Y4,00:00,CUN,2025-06-04,B11,2,MTY,02:33,16:44,15:05,5587,On Time,false,false,False,Operated by Volaris Mexico,16:16,14:50,0
+Y41086_2025-06-04_GDL_MTY,A320,Landed,2025-06-04,A,Y4,00:00,GDL,2025-06-04,C37,1,MTY,01:24,16:18,14:50,1086,On Time,false,false,False,Operated by Volaris Mexico,16:18,14:50,0
+Y45589_2025-06-02_CUN_MTY,A320,Landed,2025-06-02,A,Y4,00:00,CUN,2025-06-02,B11,2,MTY,02:26,21:03,19:40,5589,On Time,false,false,False,Operated by Volaris Mexico,21:16,19:40,0
+Y42444_2025-07-19_MCO_DEN,,,2025-07-19,,,,,2025-07-19,,,,,,,,,,,True,,,,
+Y4102_2025-06-05_MEX_CUN,A320,Programmed,2025-06-05,2,Y4,00:00,MEX,2025-06-05,3,1,CUN,02:16,15:01,11:45,102,On Time,false,false,False,Operated by Volaris Mexico,15:01,11:45,0
+Y41870_2025-06-01_GDL_PDX,A320,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,A4,1,PDX,04:56,21:00,17:03,1870,On Time,false,false,False,Operated by Volaris Mexico,21:00,17:03,0
+Y47910_2025-06-03_OAK_SJD,A320,Landed,2025-06-03,2,Y4,00:00,OAK,2025-06-03,3,1,SJD,02:56,16:22,12:30,7910,On Time,false,false,False,Operated by Volaris Mexico,16:30,12:30,0
+Y41160_2025-06-02_GDL_CJS,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C37,1,CJS,02:06,20:43,18:38,1160,On Time,false,false,False,Operated by Volaris Mexico,20:52,18:38,0
+Y43383_2025-06-03_VER_TIJ,A321,Landed,2025-06-03,1,Y4,00:00,VER,2025-06-03,B7,1,TIJ,03:38,21:56,19:15,3383,On Time,false,false,False,Operated by Volaris Mexico,21:54,19:15,0
+Y43353_2025-06-01_TIJ_QRO,A320,Take Off,2025-06-01,1,Y4,03:42,TIJ,2025-06-01,18,1,QRO,02:52,17:29,12:08,3353,Delayed,false,false,False,Operated by Volaris Mexico,13:24,08:26,0
+Y42275_2025-07-22_ORD_PHX,,,2025-07-22,,,,,2025-07-22,,,,,,,,,,,True,,,,
+Y43210_2025-06-01_TIJ_ZCL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,16,1,ZCL,02:42,05:51,02:16,3210,On Time,false,false,False,Operated by Volaris Mexico,05:59,02:16,0
+Y41162_2025-06-01_GDL_CJS,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B13,1,CJS,02:20,08:22,06:02,1162,On Time,false,false,False,Operated by Volaris Mexico,08:16,06:02,0
+Y41713_2025-06-01_LAX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,209A,B,GDL,03:08,15:38,11:30,1713,On Time,false,false,False,Operated by Volaris Mexico,15:45,11:30,0
+Y43101_2025-06-01_SJD_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,SJD,2025-06-01,6,1,TIJ,02:05,15:24,12:54,3101,On Time,false,false,False,Operated by Volaris Mexico,14:57,12:54,0
+Y43124_2025-06-03_TIJ_PVR,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,12,1,PVR,02:46,11:40,07:00,3124,On Time,false,false,False,Operated by Volaris Mexico,11:36,07:00,0
+Y41053_2025-06-02_CUN_GDL,A321,Programmed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,,2,GDL,02:43,23:22,21:39,1053,On Time,false,false,False,Operated by Volaris Mexico,23:22,21:39,0
+Y42439_2025-08-05_DFW_ATL,,,2025-08-05,,,,,2025-08-05,,,,,,,,,,,True,,,,
+Y41104_2025-06-02_GDL_MXL,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,,1,MXL,02:34,07:01,06:00,1104,On Time,false,false,False,Operated by Volaris Mexico,06:51,06:00,0
+Y43535_2025-06-01_NLU_CUN,A320,Landed,2025-06-01,2,Y4,00:00,NLU,2025-06-01,109A,1,CUN,02:14,20:48,17:41,3535,On Time,false,false,False,Operated by Volaris Mexico,20:55,17:41,0
+Y43930_2025-06-01_CUN_GUA,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B1,2,GUA,01:27,08:57,08:38,3930,On Time,false,false,False,Operated by Volaris Mexico,09:10,08:38,0
+Y45104_2025-06-01_GDL_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B11,1,TIJ,02:53,04:41,02:45,5104,On Time,false,false,False,Operated by Volaris Mexico,04:36,02:45,0
+Y4790_2025-06-03_MEX_MIA,A321,Landed,2025-06-03,G,Y4,00:00,MEX,2025-06-03,27,1,MIA,02:58,13:49,10:05,790,On Time,false,false,False,Operated by Volaris Mexico,14:10,10:05,0
+Y41293_2025-06-01_NLU_GDL,A320,Landed,2025-06-01,1,Y4,00:00,NLU,2025-06-01,109A,1,GDL,01:06,22:11,21:09,1293,On Time,false,false,False,Operated by Volaris Mexico,22:25,21:09,0
+Y4713_2025-06-01_LAX_MEX,A320,Take Off,2025-06-01,1,Y4,02:32,LAX,2025-06-01,201B,B,MEX,03:42,03:03,21:03,713,Delayed,false,false,False,Operated by Volaris Mexico,00:05,18:31,0
+Y43552_2025-06-03_CUN_PBC,A321,Landed,2025-06-03,1,Y4,00:00,CUN,2025-06-03,A9,2,PBC,02:10,13:21,12:06,3552,On Time,false,false,False,Operated by Volaris Mexico,13:22,12:06,0
+Y43589_2025-06-01_SLP_CUN,A320,Landed,2025-06-01,2,Y4,03:01,SLP,2025-06-01,2,1,CUN,02:16,22:43,19:28,3589,Delayed,false,false,False,Operated by Volaris Mexico,19:49,16:27,0
+Y4108_2025-06-03_MEX_CUN,A321,Landed,2025-06-03,2,Y4,00:00,MEX,2025-06-03,7,1,CUN,02:23,10:30,07:07,108,On Time,false,false,False,Operated by Volaris Mexico,10:03,06:45,0
+Y43125_2025-06-01_PVR_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,13,1,TIJ,02:33,19:46,18:24,3125,On Time,false,false,False,Operated by Volaris Mexico,19:59,18:24,0
+Y45553_2025-06-04_QRO_MTY,A320,Landed,2025-06-04,A,Y4,00:00,QRO,2025-06-04,B-2,1,MTY,01:19,10:38,09:25,5553,On Time,false,false,False,Operated by Volaris Mexico,10:47,09:25,0
+Y43918_2025-06-03_MEX_LIM,A320,Programmed,2025-06-03,2,Y4,00:00,MEX,2025-06-03,,1,LIM,05:55,04:50,21:55,3918,On Time,false,false,False,Operated by Volaris Mexico,04:50,21:55,0
+Y47800_2025-06-01_MLM_SJC,A320,Take Off,2025-06-01,A,Y4,00:00,MLM,2025-06-01,2,1,SJC,04:02,11:14,09:13,7800,On Time,false,false,False,Operated by Volaris Mexico,11:32,09:13,0
+Y47961_2025-06-01_SLP_SAT,A320,Landed,2025-06-01,A,Y4,00:00,SLP,2025-06-01,5,1,SAT,01:33,17:46,15:25,7961,On Time,false,false,False,Operated by Volaris Mexico,17:53,15:25,0
+Y41761_2025-06-03_DEN_GDL,A320,Programmed,2025-06-03,1,Y4,00:00,DEN,2025-06-03,A41,1,GDL,03:39,16:39,12:00,1761,On Time,false,false,False,Operated by Volaris Mexico,16:25,12:00,0
+Y4260_2025-06-01_MEX_TGZ,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,12,1,TGZ,01:19,23:00,21:45,260,On Time,false,false,False,Operated by Volaris Mexico,23:16,21:45,0
+Y4450_2025-06-03_MEX_CZM,A320,Landed,2025-06-03,1,Y4,00:00,MEX,2025-06-03,2,1,CZM,01:51,17:06,14:10,450,On Time,false,false,False,Operated by Volaris Mexico,17:16,14:10,0
+Y42107_2025-06-08_DEN_MIA,,,2025-06-08,,,,,2025-06-08,,,,,,,,,,,True,,,,
+Y43193_2025-06-01_MZT_TIJ,A320,Programmed,2025-06-01,1,Y4,00:00,MZT,2025-06-01,,1,TIJ,02:15,12:15,10:00,3193,On Time,false,false,False,Operated by Volaris Mexico,12:15,10:00,0
+Y41017_2025-06-01_TIJ_GDL,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,2,1,GDL,02:43,04:32,23:47,1017,On Time,false,false,False,Operated by Volaris Mexico,04:37,23:47,0
+Y43205_2025-06-01_AGU_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,AGU,2025-06-01,4,1,TIJ,02:51,16:55,16:10,3205,On Time,false,false,False,Operated by Volaris Mexico,17:08,16:10,0
+Y47702_2025-06-02_BJX_MDW,A320,Programmed,2025-06-02,1,Y4,00:00,BJX,2025-06-02,,1,MDW,03:54,20:44,15:50,7702,On Time,false,false,False,Operated by Volaris Mexico,20:44,15:50,0
+Y47956_2025-06-01_ONT_SJD,A320,Landed,2025-06-01,2,Y4,00:00,ONT,2025-06-01,207,2,SJD,02:14,14:45,12:40,7956,On Time,false,false,False,Operated by Volaris Mexico,15:04,12:40,0
+Y4470_2025-06-01_MEX_ZIH,A320,Programmed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,,1,ZIH,01:02,14:57,13:55,470,On Time,false,false,False,Operated by Volaris Mexico,14:57,13:55,0
+Y41086_2025-06-02_GDL_MTY,A320,Landed,2025-06-02,A,Y4,00:00,GDL,2025-06-02,B11,1,MTY,01:31,16:26,15:01,1086,On Time,false,false,False,Operated by Volaris Mexico,16:18,14:46,0
+Y4450_2025-06-01_MEX_CZM,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,16,1,CZM,02:02,16:35,13:45,450,On Time,false,false,False,Operated by Volaris Mexico,16:52,13:45,0
+Y43041_2025-06-01_BJX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,4,1,TIJ,02:53,23:03,21:26,3041,On Time,false,false,False,Operated by Volaris Mexico,23:22,21:26,0
+Y41761_2025-06-02_DEN_GDL,A320,Landed,2025-06-02,1,Y4,00:00,DEN,2025-06-02,A43,1,GDL,03:25,15:00,11:40,1761,On Time,false,false,False,Operated by Volaris Mexico,15:05,11:40,0
+Y41002_2025-06-01_GDL_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C36,1,TIJ,02:49,10:36,08:49,1002,On Time,false,false,False,Operated by Volaris Mexico,10:40,08:49,0
+Y47885_2025-06-01_PHX_CUL,A320,Landed,2025-06-01,1,Y4,00:00,PHX,2025-06-01,B26,4,CUL,02:01,13:24,11:28,7885,On Time,false,false,False,Operated by Volaris Mexico,13:16,11:28,0
+Y43200_2025-06-01_TIJ_AGU,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,13,1,AGU,02:47,06:24,01:38,3200,On Time,false,false,False,Operated by Volaris Mexico,06:20,01:38,0
+Y41049_2025-06-01_CUN_GDL,A321,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A9,2,GDL,02:46,09:43,08:00,1049,On Time,false,false,False,Operated by Volaris Mexico,09:43,08:00,0
+Y41731_2025-06-01_IAH_GDL,A320,Take Off,2025-06-01,1,Y4,03:07,IAH,2025-06-01,D12,D,GDL,02:19,16:27,13:55,1731,Delayed,false,false,False,Operated by Volaris Mexico,13:21,10:48,0
+Y43515_2025-06-01_QRO_CUN,A320,Programmed,2025-06-01,2,Y4,00:00,QRO,2025-06-01,A-3,1,CUN,02:16,11:17,08:01,3515,On Time,false,false,False,Operated by Volaris Mexico,11:15,08:01,0
+Y41121_2025-06-03_CUL_GDL,A321,Landed,2025-06-03,1,Y4,00:00,CUL,2025-06-03,2,1,GDL,01:21,10:29,08:06,1121,On Time,false,false,False,Operated by Volaris Mexico,10:29,08:06,0
+Y4243_2025-06-01_MTY_MEX,A321,Programmed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,5,A,MEX,01:35,19:00,17:25,243,On Time,false,false,False,Operated by Volaris Mexico,19:00,17:25,0
+Y4451_2025-06-02_CZM_MEX,A320,Programmed,2025-06-02,1,Y4,00:00,CZM,2025-06-02,5,1,MEX,02:24,19:45,18:21,451,On Time,false,false,False,Operated by Volaris Mexico,19:45,18:21,0
+Y43212_2025-06-02_TIJ_ZCL,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,8,1,ZCL,02:30,11:25,06:55,3212,On Time,false,false,False,Operated by Volaris Mexico,11:29,06:55,0
+Y41129_2025-06-01_CUL_GDL,A320,Take Off,2025-06-01,1,Y4,00:00,CUL,2025-06-01,2,1,GDL,01:26,11:49,09:30,1129,On Time,false,false,False,Operated by Volaris Mexico,11:53,09:30,0
+Y41271_2025-06-02_TGZ_GDL,A321,Landed,2025-06-02,1,Y4,00:00,TGZ,2025-06-02,A-6,1,GDL,01:59,19:43,17:20,1271,On Time,false,false,False,Operated by Volaris Mexico,19:18,17:20,0
+Y4184_2025-06-04_MEX_TIJ,A321,Take Off,2025-06-04,1,Y4,00:00,MEX,2025-06-04,27,1,TIJ,03:54,20:48,19:00,184,On Time,false,false,False,Operated by Volaris Mexico,20:45,19:00,0
+Y43316_2025-06-03_TIJ_CEN,A320,Landed,2025-06-03,1,Y4,03:12,TIJ,2025-06-03,11,1,CEN,01:43,10:17,08:34,3316,Delayed,false,false,False,Operated by Volaris Mexico,07:01,05:22,0
+Y41232_2025-06-01_GDL_MID,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A7,1,MID,02:21,08:38,06:30,1232,On Time,false,false,False,Operated by Volaris Mexico,08:45,06:30,0
+Y4371_2025-06-03_ACA_MEX,A321,Programmed,2025-06-03,1,Y4,01:05,ACA,2025-06-03,2,1,MEX,00:58,20:40,19:42,371,Delayed,false,false,False,Operated by Volaris Mexico,19:45,18:37,0
+Y41180_2025-06-01_GDL_HMO,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,D46,1,HMO,02:05,07:03,06:04,1180,On Time,false,false,False,Operated by Volaris Mexico,07:10,06:04,0
+Y45584_2025-06-05_MTY_CUN,A320,Landed,2025-06-05,2,Y4,00:00,MTY,2025-06-05,3,A,CUN,02:21,09:25,06:10,5584,On Time,false,false,False,Operated by Volaris Mexico,09:28,06:10,0
+Y41210_2025-06-01_GDL_TLC,A320,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,A4,1,TLC,01:02,15:35,14:38,1210,On Time,false,false,False,Operated by Volaris Mexico,15:45,14:38,0
+Y43383_2025-06-01_VER_TIJ,A320,Landed,2025-06-01,1,Y4,00:41,VER,2025-06-01,B6,1,TIJ,03:32,22:28,19:56,3383,Delayed,false,false,False,Operated by Volaris Mexico,22:13,19:15,0
+Y41126_2025-06-02_GDL_CUL,A321,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A3,1,CUL,01:25,19:18,18:57,1126,On Time,false,false,False,Operated by Volaris Mexico,19:21,18:57,0
+Y41212_2025-06-03_GDL_TLC,A320,Programmed,2025-06-03,,Y4,00:00,GDL,2025-06-03,D45,1,TLC,01:07,19:17,18:10,1212,On Time,false,false,False,Operated by Volaris Mexico,19:17,18:10,0
+Y47506_2025-06-01_QRO_PVR,A320,Landed,2025-06-01,1,Y4,00:00,QRO,2025-06-01,B-1,1,PVR,01:23,14:12,13:11,7506,On Time,false,false,False,Operated by Volaris Mexico,14:26,13:11,0
+Y4103_2025-06-01_CUN_MEX,A321,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B5,2,MEX,02:21,17:07,15:48,103,On Time,false,false,False,Operated by Volaris Mexico,17:15,15:48,0
+Y42838_2025-06-17_DFW_DEN,,,2025-06-17,,,,,2025-06-17,,,,,,,,,,,True,,,,
+Y47305_2025-06-01_PVR_BJX,A320,Landed,2025-06-01,1,Y4,00:00,PVR,2025-06-01,5,1,BJX,00:57,14:38,13:55,7305,On Time,false,false,False,Operated by Volaris Mexico,14:57,13:55,0
+Y43002_2025-06-01_TIJ_CUL,A321,Landed,2025-06-01,1,Y4,00:18,TIJ,2025-06-01,10,1,CUL,02:23,11:52,09:36,3002,Delayed,false,false,False,Operated by Volaris Mexico,11:23,09:18,0
+Y45525_2025-06-01_DEN_MTY,A320,Landed,2025-06-01,A,Y4,00:00,DEN,2025-06-01,A45,1,MTY,02:34,15:58,13:33,5525,On Time,false,false,False,Operated by Volaris Mexico,16:23,13:33,0
+Y43141_2025-06-04_OAX_TIJ,A320,Programmed,2025-06-04,1,Y4,00:33,OAX,2025-06-04,1-2,1,TIJ,04:07,09:40,07:33,3141,Delayed,false,false,False,Operated by Volaris Mexico,09:01,07:00,0
+Y41763_2025-06-02_DEN_GDL,A320,Take Off,2025-06-02,1,Y4,00:00,DEN,2025-06-02,A42,1,GDL,03:12,20:37,16:15,1763,On Time,false,false,False,Operated by Volaris Mexico,20:40,16:15,0
+Y45584_2025-06-01_MTY_CUN,A320,Landed,2025-06-01,2,Y4,00:00,MTY,2025-06-01,9,A,CUN,02:10,09:10,06:06,5584,On Time,false,false,False,Operated by Volaris Mexico,09:28,06:06,0
+Y4731_2025-06-02_IAH_MEX,A320,Landed,2025-06-02,1,Y4,00:00,IAH,2025-06-02,D10,D,MEX,02:10,21:36,19:36,731,On Time,false,false,False,Operated by Volaris Mexico,22:00,19:36,0
+Y41202_2025-06-01_GDL_LAP,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B11,1,LAP,01:38,14:43,14:06,1202,On Time,false,false,False,Operated by Volaris Mexico,14:48,14:06,0
+Y42570_2025-07-28_DEN_IAH,,,2025-07-28,,,,,2025-07-28,,,,,,,,,,,True,,,,
+Y41012_2025-06-01_GDL_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C36,1,TIJ,02:52,13:13,11:20,1012,On Time,false,false,False,Operated by Volaris Mexico,12:56,11:05,0
+Y42375_2025-07-18_LAS_LAX,,,2025-07-18,,,,,2025-07-18,,,,,,,,,,,True,,,,
+Y47965_2025-06-01_LAX_TPQ,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,203,B,TPQ,03:01,19:43,16:33,7965,On Time,false,false,False,Operated by Volaris Mexico,19:23,16:33,0
+Y4351_2025-06-01_CJS_MEX,A321,Landed,2025-06-01,1,Y4,00:00,CJS,2025-06-01,4,1,MEX,02:42,14:47,11:17,351,On Time,false,false,False,Operated by Volaris Mexico,14:45,11:17,0
+Y43060_2025-06-01_TIJ_MLM,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,20,1,MLM,03:01,21:38,17:18,3060,On Time,false,false,False,Operated by Volaris Mexico,21:28,17:18,0
+Y41231_2025-06-02_MID_GDL,A320,Landed,2025-06-02,1,Y4,00:00,MID,2025-06-02,C8,1,GDL,02:29,22:20,20:17,1231,On Time,false,false,False,Operated by Volaris Mexico,22:47,20:17,0
+Y45543_2025-06-01_CJS_MTY,A320,Programmed,2025-06-01,A,Y4,00:00,CJS,2025-06-01,7,1,MTY,01:45,23:55,22:10,5543,On Time,false,false,False,Operated by Volaris Mexico,23:55,22:10,0
+Y45611_2025-06-02_TIJ_MTY,A320,Programmed,2025-06-02,A,Y4,00:00,TIJ,2025-06-02,4,1,MTY,02:40,21:14,16:34,5611,On Time,false,false,False,Operated by Volaris Mexico,21:14,16:34,0
+Y41720_2025-06-02_GDL_LAX,A320,Landed,2025-06-02,B,Y4,00:00,GDL,2025-06-02,A2,1,LAX,03:06,23:00,21:01,1720,On Time,false,false,False,Operated by Volaris Mexico,23:20,21:01,0
+Y45606_2025-06-01_MTY_TLC,A320,Landed,2025-06-01,,Y4,00:00,MTY,2025-06-01,15,A,TLC,01:16,08:05,07:00,5606,On Time,false,false,False,Operated by Volaris Mexico,08:29,07:00,0
+Y47890_2025-06-02_QRO_ORD,A320,Landed,2025-06-02,5,Y4,00:00,QRO,2025-06-02,A-3,1,ORD,03:42,04:18,00:39,7890,On Time,false,false,False,Operated by Volaris Mexico,04:30,00:39,0
+Y4100_2025-06-01_MEX_CUN,A320,Take Off,2025-06-01,2,Y4,00:00,MEX,2025-06-01,2,1,CUN,02:23,09:58,06:40,100,On Time,false,false,False,Operated by Volaris Mexico,09:56,06:40,0
+Y41007_2025-06-01_TIJ_GDL,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,06/01/2025,18,1,GDL,02:58,15:49,11:56,1007,On Time,false,false,False,Operated by Volaris Mexico,15:51,11:56,0
+Y41180_2025-06-02_GDL_HMO,A321,Landed,2025-06-02,1,Y4,00:59,GDL,2025-06-02,D41,1,HMO,02:09,08:43,07:34,1180,Delayed,false,false,False,Operated by Volaris Mexico,07:45,06:35,0
+Y41822_2025-06-02_GDL_SJC,A320,Landed,2025-06-02,A,Y4,00:46,GDL,2025-06-02,C34,1,SJC,03:36,14:09,11:34,1822,Delayed,false,false,False,Operated by Volaris Mexico,13:40,10:48,0
+Y4280_2025-06-02_MEX_PVR,A321,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,12,1,PVR,01:27,12:39,11:10,280,On Time,false,false,False,Operated by Volaris Mexico,12:41,11:10,0
+Y41001_2025-06-01_TIJ_GDL,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,18,1,GDL,02:42,06:25,01:50,1001,On Time,false,false,False,Operated by Volaris Mexico,06:40,01:50,0
+Y42516_2025-06-07_ONT_IAH,,,2025-06-07,,,,,2025-06-07,,,,,,,,,,,True,,,,
+Y41882_2025-06-02_GDL_PHX,A320,Landed,2025-06-02,4,Y4,00:00,GDL,2025-06-02,D46,1,PHX,02:48,07:50,06:10,1882,On Time,false,false,False,Operated by Volaris Mexico,08:03,06:10,0
+Y47121_2025-06-01_SJD_NLU,A320,Landed,2025-06-01,1,Y4,00:00,SJD,2025-06-01,2,1,NLU,02:04,16:43,13:57,7121,On Time,false,false,False,Operated by Volaris Mexico,16:54,13:57,0
+Y41310_2025-06-01_GDL_PVR,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A2,1,PVR,00:44,09:21,08:49,1310,On Time,false,false,False,Operated by Volaris Mexico,09:36,08:38,0
+Y4221_2025-06-01_MID_MEX,A321,Landed,2025-06-01,1,Y4,00:00,MID,2025-06-01,C6,1,MEX,01:48,12:04,10:03,221,On Time,false,false,False,Operated by Volaris Mexico,12:00,10:03,0
+Y43517_2025-06-01_QRO_CUN,A320,Landed,2025-06-01,2,Y4,00:00,QRO,2025-06-01,B2,1,CUN,02:20,09:28,06:18,3517,On Time,false,false,False,Operated by Volaris Mexico,09:36,06:18,0
+Y4700_2025-06-02_MEX_ORD,A320,Landed,2025-06-02,5,Y4,00:00,MEX,2025-06-02,32,1,ORD,04:21,04:51,00:30,700,On Time,false,false,False,Operated by Volaris Mexico,04:36,00:40,0
+Y42203_2025-06-12_LAS_DFW,,,2025-06-12,,,,,2025-06-12,,,,,,,,,,,True,,,,
+Y41860_2025-06-01_GDL_ONT,A321,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,B11,1,ONT,03:06,23:00,20:58,1860,On Time,false,false,False,Operated by Volaris Mexico,23:13,20:58,0
+Y41403_2025-06-01_ZIH_GDL,A320,Landed,2025-06-01,1,Y4,00:00,ZIH,2025-06-01,4,1,GDL,01:14,13:54,12:46,1403,On Time,false,false,False,Operated by Volaris Mexico,13:49,12:46,0
+Y41087_2025-06-02_MTY_GDL,A320,Programmed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,,A,GDL,01:30,19:31,18:01,1087,On Time,false,false,False,Operated by Volaris Mexico,19:31,18:01,0
+Y4551_2025-06-01_SJD_TLC,A320,Programmed,2025-06-01,,Y4,00:00,SJD,2025-06-01,,1,TLC,01:50,20:04,17:14,551,On Time,false,false,False,Operated by Volaris Mexico,20:04,17:14,0
+Y45612_2025-06-03_MTY_PVR,A320,Take Off,2025-06-03,1,Y4,00:00,MTY,2025-06-03,3,A,PVR,01:39,13:00,11:25,5612,On Time,false,false,False,Operated by Volaris Mexico,13:00,11:25,0
+Y47476_2025-06-01_CUL_SJD,A320,Landed,2025-06-01,1,Y4,02:45,CUL,2025-06-01,1,1,SJD,00:46,18:17,17:26,7476,Delayed,false,false,False,Operated by Volaris Mexico,15:35,14:41,0
+Y42174_2025-06-13_JFK_DFW,,,2025-06-13,,,,,2025-06-13,,,,,,,,,,,True,,,,
+Y45822_2025-06-01_GDL_CUU,A320,Landed,2025-06-01,1,Y4,00:31,GDL,2025-06-01,D44,1,CUU,02:07,21:20,19:13,5822,Delayed,false,false,False,Operated by Volaris Mexico,20:33,18:42,0
+Y47841_2025-06-01_LAX_ZCL,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,204,B,ZCL,03:19,05:21,23:59,7841,On Time,false,false,False,Operated by Volaris Mexico,04:51,23:59,0
+Y45586_2025-06-02_MTY_CUN,A320,Landed,2025-06-02,,Y4,00:00,MTY,2025-06-02,14,,CUN,02:21,13:54,10:25,5586,On Time,false,false,False,Operated by Volaris Mexico,13:43,10:25,0
+Y45552_2025-06-01_MTY_QRO,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,4,A,QRO,01:17,08:34,07:30,5552,On Time,false,false,False,Operated by Volaris Mexico,08:50,07:30,0
+Y41313_2025-06-04_PVR_GDL,A321,Programmed,2025-06-04,1,Y4,00:00,PVR,2025-06-04,1,1,GDL,01:01,18:11,17:10,1313,On Time,false,false,False,Operated by Volaris Mexico,18:07,17:10,0
+Y43383_2025-06-04_VER_TIJ,A320,Landed,2025-06-04,1,Y4,00:00,VER,2025-06-04,B7,1,TIJ,03:42,22:49,21:12,3383,On Time,false,false,False,Operated by Volaris Mexico,23:05,21:12,0
+Y41703_2025-06-03_ORD_GDL,A320,Landed,2025-06-03,1,Y4,00:00,ORD,2025-06-03,M14,5,GDL,05:09,04:28,00:14,1703,On Time,false,false,False,Operated by Volaris Mexico,04:27,23:59,0
+Y41240_2025-06-02_GDL_OAX,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C34,1,OAX,01:29,07:33,06:07,1240,On Time,false,false,False,Operated by Volaris Mexico,07:43,06:07,0
+Y41751_2025-06-01_SAT_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SAT,2025-06-01,A6,A,GDL,02:05,12:24,11:31,1751,On Time,false,false,False,Operated by Volaris Mexico,12:36,11:31,0
+Y41821_2025-06-03_SJC_GDL,A320,Landed,2025-06-03,1,Y4,00:00,SJC,2025-06-03,16,A,GDL,03:41,17:01,11:30,1821,On Time,false,false,False,Operated by Volaris Mexico,17:08,11:30,0
+Y41704_2025-06-02_GDL_ORD,A320,Take Off,2025-06-02,5,Y4,00:00,GDL,2025-06-02,,1,ORD,04:03,11:23,07:21,1704,On Time,false,false,False,Operated by Volaris Mexico,11:19,07:21,0
+Y42183_2025-07-01_LAS_IAH,,,2025-07-01,,,,,2025-07-01,,,,,,,,,,,True,,,,
+Y4187_2025-06-02_TIJ_MEX,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,12,1,MEX,03:20,06:03,00:45,187,On Time,false,false,False,Operated by Volaris Mexico,06:00,00:45,0
+Y41271_2025-06-03_TGZ_GDL,A321,Landed,2025-06-03,1,Y4,00:00,TGZ,2025-06-03,B-8,1,GDL,01:57,18:46,16:52,1271,On Time,false,false,False,Operated by Volaris Mexico,18:50,16:52,0
+Y41340_2025-06-01_GDL_TAP,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,D42,1,TAP,02:12,14:00,11:46,1340,On Time,false,false,False,Operated by Volaris Mexico,13:59,11:46,0
+Y4184_2025-06-02_MEX_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,MEX,2025-06-02,13,1,TIJ,03:23,00:18,21:55,184,On Time,false,false,False,Operated by Volaris Mexico,00:28,21:55,0
+Y4400_2025-06-01_MEX_MZT,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,13,1,MZT,01:35,14:42,14:10,400,On Time,false,false,False,Operated by Volaris Mexico,14:50,14:10,0
+Y4227_2025-06-01_MID_MEX,A321,Landed,2025-06-01,1,Y4,00:00,MID,2025-06-01,C9,1,MEX,01:48,00:12,22:33,227,On Time,false,false,False,Operated by Volaris Mexico,00:30,22:33,0
+Y4440_2025-06-01_MEX_OAX,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,8,1,OAX,01:06,07:57,07:00,440,On Time,false,false,False,Operated by Volaris Mexico,08:08,07:00,0
+Y41050_2025-06-01_GDL_CUN,A320,Programmed,2025-06-01,2,Y4,00:00,GDL,2025-06-01,A6,1,CUN,02:40,15:28,11:48,1050,On Time,false,false,False,Operated by Volaris Mexico,15:28,11:48,0
+Y4185_2025-06-01_TIJ_MEX,A320,Landed,2025-06-01,1,Y4,00:58,TIJ,2025-06-01,19,1,MEX,03:15,07:10,02:40,185,Delayed,false,false,False,Operated by Volaris Mexico,06:05,01:42,0
+Y43598_2025-06-01_CUN_OAX,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B11,2,OAX,02:04,15:56,15:05,3598,On Time,false,false,False,Operated by Volaris Mexico,16:12,15:05,0
+Y4480_2025-06-03_MEX_CTM,A321,Landed,2025-06-03,1,Y4,,MEX,2025-06-03,18,1,CTM,02:51,09:32,05:20,480,On Time,false,false,False,Operated by Volaris Mexico,08:16,05:20,0
+Y45610_2025-06-03_MTY_TIJ,A320,Programmed,2025-06-03,1,Y4,03:26,MTY,2025-06-03,2,A,TIJ,02:50,02:12,01:22,5610,Delayed,false,false,False,Operated by Volaris Mexico,22:58,21:56,0
+Y41008_2025-06-01_GDL_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A8,1,TIJ,03:08,20:17,19:05,1008,On Time,false,false,False,Operated by Volaris Mexico,20:07,19:05,0
+Y41104_2025-06-03_GDL_MXL,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,C31,1,MXL,02:46,06:40,06:00,1104,On Time,false,false,False,Operated by Volaris Mexico,06:51,06:00,0
+Y4151_2025-06-03_GDL_MEX,A321,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,B10,1,MEX,01:15,07:42,06:24,151,On Time,false,false,False,Operated by Volaris Mexico,07:45,06:24,0
+Y4182_2025-06-01_MEX_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,13,1,TIJ,03:33,14:39,13:05,182,On Time,false,false,False,Operated by Volaris Mexico,14:50,13:05,0
+Y47842_2025-06-01_AGU_MDW,A320,Landed,2025-06-01,1,Y4,00:00,AGU,2025-06-01,3,1,MDW,03:49,16:47,12:07,7842,On Time,false,false,False,Operated by Volaris Mexico,16:54,12:07,0
+Y43297_2025-06-03_NLU_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,NLU,2025-06-03,109B,1,TIJ,03:22,04:47,02:23,3297,On Time,false,false,False,Operated by Volaris Mexico,04:45,02:23,0
+Y41810_2025-06-01_GDL_SMF,,Programmed,2025-06-01,B,Y4,,GDL,2025-06-01,B12,1,SMF,04:03,21:27,19:24,1810,Canceled,false,false,False,Operated by Volaris Mexico,21:35,19:24,0
+Y47702_2025-06-03_BJX_MDW,A320,Landed,2025-06-03,1,Y4,00:00,BJX,2025-06-03,5,1,MDW,03:50,13:31,08:54,7702,On Time,false,false,False,Operated by Volaris Mexico,13:39,08:54,0
+Y45604_2025-06-01_MTY_TLC,A320,Programmed,2025-06-01,,Y4,00:00,MTY,2025-06-01,6B,A,TLC,01:32,19:50,18:18,5604,On Time,false,false,False,Operated by Volaris Mexico,19:53,18:18,0
+Y41320_2025-06-02_GDL_LMM,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,C31,1,LMM,01:35,20:34,19:59,1320,On Time,false,false,False,Operated by Volaris Mexico,20:36,19:59,0
+Y41714_2025-06-01_GDL_LAX,A320,Landed,2025-06-01,B,Y4,00:00,GDL,2025-06-01,C32,1,LAX,03:16,13:51,11:42,1714,On Time,false,false,False,Operated by Volaris Mexico,14:01,11:42,0
+Y45553_2025-06-03_QRO_MTY,A320,Landed,2025-06-03,A,Y4,00:00,QRO,2025-06-03,A-5,1,MTY,01:20,11:30,10:05,5553,On Time,false,false,False,Operated by Volaris Mexico,11:27,10:05,0
+Y41003_2025-06-01_TIJ_GDL,A321,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,4,1,GDL,02:59,07:46,04:02,1003,On Time,false,false,False,Operated by Volaris Mexico,08:00,04:02,0
+Y43292_2025-06-02_TIJ_CUU,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,9,1,CUU,01:50,18:32,15:50,3292,On Time,false,false,False,Operated by Volaris Mexico,18:45,15:50,0
+Y47721_2025-06-04_LAX_BJX,A320,Take Off,2025-06-04,1,Y4,02:56,LAX,2025-06-04,130,B,BJX,03:11,08:19,03:05,7721,Delayed,false,false,False,Operated by Volaris Mexico,05:16,00:09,0
+Y45584_2025-06-04_MTY_CUN,A320,Landed,2025-06-04,2,Y4,00:00,MTY,2025-06-04,3,A,CUN,02:18,09:15,06:10,5584,On Time,false,false,False,Operated by Volaris Mexico,09:28,06:10,0
+Y47831_2025-06-01_MDW_ZCL,A320,Programmed,2025-06-01,1,Y4,00:00,MDW,2025-06-01,A1,1,ZCL,03:49,17:41,14:52,7831,On Time,false,false,False,Operated by Volaris Mexico,17:41,14:52,0
+Y41812_2025-06-01_GDL_SMF,A321,Landed,2025-06-01,B,Y4,00:00,GDL,2025-06-01,A5,1,SMF,04:06,23:03,21:04,1812,On Time,false,false,False,Operated by Volaris Mexico,23:15,21:04,0
+Y41852_2025-06-01_GDL_SEA,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B13,1,SEA,05:10,09:23,06:25,1852,On Time,false,false,False,Operated by Volaris Mexico,09:47,06:25,0
+Y43283_2025-06-02_CJS_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,CJS,2025-06-02,7,1,TIJ,01:46,23:56,23:19,3283,On Time,false,false,False,Operated by Volaris Mexico,00:04,23:19,0
+Y43187_2025-06-02_HMO_TIJ,A320,Landed,2025-06-02,1,Y4,00:00,HMO,2025-06-02,4,1,TIJ,01:33,21:54,21:02,3187,On Time,false,false,False,Operated by Volaris Mexico,21:28,21:02,0
+Y43555_2025-06-04_PBC_CUN,A320,Programmed,2025-06-04,2,Y4,00:00,PBC,2025-06-04,3,1,CUN,02:09,15:24,12:15,3555,On Time,false,false,False,Operated by Volaris Mexico,15:26,12:15,0
+Y4325_2025-06-01_MXL_MEX,A320,Landed,2025-06-01,1,Y4,00:00,MXL,2025-06-01,1,1,MEX,03:02,05:00,23:56,325,On Time,false,false,False,Operated by Volaris Mexico,05:00,23:56,0
+Y4371_2025-06-01_ACA_MEX,A321,Landed,2025-06-01,1,Y4,00:00,ACA,2025-06-01,4,1,MEX,00:57,08:51,08:02,371,On Time,false,false,False,Operated by Volaris Mexico,09:10,08:02,0
+Y41102_2025-06-02_GDL_MXL,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,A7,1,MXL,02:45,12:10,10:27,1102,On Time,false,false,False,Operated by Volaris Mexico,12:12,10:27,0
+Y41102_2025-06-01_GDL_MXL,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A7,1,MXL,02:33,12:04,10:27,1102,On Time,false,false,False,Operated by Volaris Mexico,12:12,10:27,0
+Y43204_2025-06-02_TIJ_AGU,A320,Programmed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,,1,AGU,02:46,10:58,07:12,3204,On Time,false,false,False,Operated by Volaris Mexico,10:58,07:12,0
+Y42069_2025-06-30_PHX_MCO,,,2025-06-30,,,,,2025-06-30,,,,,,,,,,,True,,,,
+Y45549_2025-06-01_CUL_MTY,A320,Landed,2025-06-01,A,Y4,00:00,CUL,2025-06-01,2,1,MTY,01:35,10:02,07:32,5549,On Time,false,false,False,Operated by Volaris Mexico,10:01,07:32,0
+Y4771_2025-06-01_OAK_MEX,A321,Landed,2025-06-01,1,Y4,00:00,OAK,2025-06-01,5,1,MEX,04:18,03:34,21:10,771,On Time,false,false,False,Operated by Volaris Mexico,03:20,21:17,0
+Y4780_2025-06-01_MEX_MCO,A320,Landed,2025-06-01,B,Y4,00:00,MEX,2025-06-01,19A,1,MCO,03:15,15:42,11:10,780,On Time,false,false,False,Operated by Volaris Mexico,15:18,11:10,0
+Y43283_2025-06-01_CJS_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,CJS,2025-06-01,7,1,TIJ,01:50,23:50,23:09,3283,On Time,false,false,False,Operated by Volaris Mexico,00:04,23:09,0
+Y41815_2025-06-01_SMF_GDL,A321,Landed,2025-06-01,1,Y4,00:39,SMF,2025-06-01,B10,B,GDL,03:49,05:18,00:29,1815,Delayed,false,false,False,Operated by Volaris Mexico,04:43,23:50,0
+Y43240_2025-06-01_TIJ_TPQ,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,13,1,TPQ,02:40,19:43,16:03,3240,On Time,false,false,False,Operated by Volaris Mexico,19:37,16:04,0
+Y43210_2025-06-03_TIJ_ZCL,A320,Landed,2025-06-03,1,Y4,00:00,TIJ,2025-06-03,18,1,ZCL,02:35,08:57,05:34,3210,On Time,false,false,False,Operated by Volaris Mexico,09:12,05:34,0
+Y41085_2025-06-01_MTY_GDL,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,8,A,GDL,01:28,22:22,20:53,1085,On Time,false,false,False,Operated by Volaris Mexico,22:00,20:30,0
+Y4341_2025-06-01_HUX_MEX,A321,Landed,2025-06-01,1,Y4,00:00,HUX,2025-06-01,4,1,MEX,01:11,11:55,10:43,341,On Time,false,false,False,Operated by Volaris Mexico,12:10,10:43,0
+Y41831_2025-06-02_FAT_GDL,A320,Landed,2025-06-02,1,Y4,00:00,FAT,2025-06-02,11,1,GDL,03:34,07:41,01:50,1831,On Time,false,false,False,Operated by Volaris Mexico,07:14,01:50,0
+Y4187_2025-06-01_TIJ_MEX,A320,Take Off,2025-06-01,1,Y4,1:30,TIJ,2025-06-01,17,1,MEX,03:14,07:51,02:15,187,Delayed,false,false,False,Operated by Volaris Mexico,06:00,00:45,0
+Y45614_2025-06-01_MTY_PVR,A320,Take Off,2025-06-01,1,Y4,00:00,MTY,2025-06-01,14,A,PVR,01:33,16:57,15:35,5614,On Time,false,false,False,Operated by Volaris Mexico,17:07,15:35,0
+Y41243_2025-06-01_OAX_GDL,A320,Landed,2025-06-01,1,Y4,00:00,OAX,2025-06-01,1-2,1,GDL,01:25,17:59,16:36,1243,On Time,false,false,False,Operated by Volaris Mexico,18:09,16:36,0
+Y43194_2025-06-01_TIJ_MZT,A321,Take Off,2025-06-01,1,Y4,03:58,TIJ,2025-06-01,5,1,MZT,02:29,01:58,23:34,3194,DELAYED,true,true,False,Operated by Volaris Mexico,21:47,19:36,0
+Y4190_2025-06-01_MEX_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,17,1,TIJ,03:19,07:50,05:30,190,On Time,false,false,False,Operated by Volaris Mexico,08:03,05:30,0
+Y45578_2025-06-02_MTY_MLM,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,2,A,MLM,01:41,18:38,16:54,5578,On Time,false,false,False,Operated by Volaris Mexico,18:10,16:54,0
+Y47710_2025-06-01_BJX_OAK,A320,Landed,2025-06-01,1,Y4,00:00,BJX,2025-06-01,4,1,OAK,04:17,10:50,08:42,7710,On Time,false,false,False,Operated by Volaris Mexico,11:00,08:42,0
+Y43045_2025-06-03_BJX_TIJ,A320,Landed,2025-06-03,1,Y4,00:00,BJX,2025-06-03,1,1,TIJ,03:21,08:02,07:00,3045,On Time,false,false,False,Operated by Volaris Mexico,08:10,07:00,0
+Y41833_2025-06-01_FAT_GDL,A320,Landed,2025-06-01,1,Y4,00:00,FAT,2025-06-01,15,1,GDL,03:26,05:29,00:50,1833,On Time,false,false,False,Operated by Volaris Mexico,05:16,00:50,0
+Y45594_2025-06-02_MTY_BJX,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,4,A,BJX,01:17,07:06,06:00,5594,On Time,false,false,False,Operated by Volaris Mexico,07:16,06:00,0
+Y41791_2025-06-02_MIA_GDL,A320,Landed,2025-06-02,1,Y4,00:00,MIA,2025-06-02,H10,G,GDL,04:07,16:10,14:12,1791,On Time,false,false,False,Operated by Volaris Mexico,16:02,14:12,0
+Y45567_2025-06-02_OAX_MTY,A320,Programmed,2025-06-02,A,Y4,00:00,OAX,2025-06-02,1-2,1,MTY,01:52,16:13,14:21,5567,On Time,false,false,False,Operated by Volaris Mexico,16:13,14:21,0
+Y41831_2025-06-04_FAT_GDL,A320,Landed,2025-06-04,1,Y4,00:00,FAT,2025-06-04,B2,1,GDL,03:34,07:22,01:50,1831,On Time,false,false,False,Operated by Volaris Mexico,07:14,01:50,0
+Y4281_2025-06-02_PVR_MEX,A321,Landed,2025-06-02,1,Y4,00:00,PVR,2025-06-02,11,1,MEX,01:55,14:16,12:26,281,On Time,false,false,False,Operated by Volaris Mexico,14:00,12:26,0
+Y43555_2025-06-02_PBC_CUN,A321,Landed,2025-06-02,2,Y4,00:00,PBC,2025-06-02,3,1,CUN,02:13,15:41,12:29,3555,On Time,false,false,False,Operated by Volaris Mexico,15:45,12:29,0
+Y4102_2025-06-02_MEX_CUN,A321,Landed,2025-06-02,2,Y4,00:00,MEX,2025-06-02,16,1,CUN,02:27,15:03,11:40,102,On Time,false,false,False,Operated by Volaris Mexico,14:58,11:40,0
+Y43241_2025-06-01_TPQ_TIJ,A320,Take Off,2025-06-01,1,Y4,00:00,TPQ,2025-06-01,A1,1,TIJ,02:33,22:11,20:07,3241,On Time,false,false,False,Operated by Volaris Mexico,21:53,20:07,0
+Y43317_2025-06-01_CEN_TIJ,A321,Landed,2025-06-01,1,Y4,00:00,CEN,2025-06-01,,1,TIJ,01:30,22:14,20:44,3317,On Time,false,false,False,Operated by Volaris Mexico,22:31,20:59,0
+Y41770_2025-06-01_GDL_OAK,A320,Landed,2025-06-01,,Y4,00:00,GDL,2025-06-01,A8,,OAK,04:00,17:33,14:35,1770,On Time,false,false,False,Operated by Volaris Mexico,17:44,14:35,0
+Y45602_2025-06-01_MTY_TGZ,A320,Take Off,2025-06-01,1,Y4,03:48,MTY,2025-06-01,8,A,TGZ,02:04,02:36,00:33,5602,Delayed,false,false,False,Operated by Volaris Mexico,22:48,20:45,0
+Y43518_2025-06-01_CUN_QRO,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,B5,2,QRO,02:17,18:30,17:18,3518,On Time,false,false,False,Operated by Volaris Mexico,18:41,17:18,0
+Y41046_2025-06-02_GDL_CUN,A321,Landed,2025-06-02,2,Y4,00:00,GDL,2025-06-02,A1,1,CUN,02:49,21:43,18:01,1046,On Time,false,false,False,Operated by Volaris Mexico,21:49,18:01,0
+Y4380_2025-06-01_MEX_HMO,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,15,1,HMO,03:06,22:04,19:58,380,On Time,false,false,False,Operated by Volaris Mexico,21:30,19:45,0
+Y47304_2025-06-02_BJX_PVR,A320,Landed,2025-06-02,1,Y4,00:00,BJX,2025-06-02,2,1,PVR,01:08,14:27,13:38,7304,On Time,false,false,False,Operated by Volaris Mexico,14:41,13:38,0
+Y43577_2025-06-01_TGZ_CUN,A321,Landed,2025-06-01,2,Y4,00:00,TGZ,2025-06-01,A-8,1,CUN,01:37,14:27,11:52,3577,On Time,false,false,False,Operated by Volaris Mexico,14:29,11:52,0
+Y45552_2025-06-02_MTY_QRO,A320,Take Off,2025-06-02,1,Y4,00:00,MTY,2025-06-02,3,A,QRO,01:26,08:44,07:30,5552,On Time,false,false,False,Operated by Volaris Mexico,08:50,07:30,0
+Y41242_2025-06-01_GDL_OAX,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C35,1,OAX,01:34,10:29,09:02,1242,On Time,false,false,False,Operated by Volaris Mexico,10:38,09:02,0
+Y41801_2025-06-01_DFW_GDL,A321,Landed,2025-06-01,1,Y4,00:00,DFW,2025-06-01,D15,D,GDL,02:40,14:27,11:34,1801,On Time,false,false,False,Operated by Volaris Mexico,14:18,11:34,0
+Y4791_2025-06-01_MIA_MEX,A321,Landed,2025-06-01,1,Y4,00:00,MIA,2025-06-01,J10,G,MEX,03:19,18:06,17:02,791,On Time,false,false,False,Operated by Volaris Mexico,18:35,17:02,0
+Y45587_2025-06-03_CUN_MTY,A319,Landed,2025-06-03,A,Y4,00:00,CUN,2025-06-03,A9,2,MTY,02:35,16:23,14:50,5587,On Time,false,false,False,Operated by Volaris Mexico,16:16,14:50,0
+Y4104_2025-06-02_MEX_CUN,A320,Take Off,2025-06-02,2,Y4,00:00,MEX,2025-06-02,4,1,CUN,02:12,21:26,18:10,104,On Time,false,false,False,Operated by Volaris Mexico,21:26,18:10,0
+Y47721_2025-06-01_LAX_BJX,A320,Landed,2025-06-01,1,Y4,00:00,LAX,2025-06-01,201A,B,BJX,03:17,23:53,19:49,7721,On Time,false,false,False,Operated by Volaris Mexico,23:55,19:49,0
+Y4220_2025-06-01_MEX_MID,A321,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,18,1,MID,01:52,08:06,06:00,220,On Time,false,false,False,Operated by Volaris Mexico,07:46,06:00,0
+Y47921_2025-06-03_IAH_MLM,A320,Programmed,2025-06-03,1,Y4,00:00,IAH,2025-06-03,D14,D,MLM,02:15,20:21,18:06,7921,On Time,false,false,False,Operated by Volaris Mexico,20:27,18:06,0
+Y4741_2025-06-02_LAS_MEX,A321,Landed,2025-06-02,1,Y4,00:00,LAS,2025-06-02,E6,3,MEX,03:27,20:56,15:31,741,On Time,false,false,False,Operated by Volaris Mexico,21:10,15:31,0
+Y41240_2025-06-03_GDL_OAX,A320,Programmed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,,1,OAX,01:33,08:35,07:02,1240,On Time,false,false,False,Operated by Volaris Mexico,08:35,07:02,0
+Y42607_2025-06-01_LAS_SAT,,,2025-06-01,,,,,2025-06-01,,,,,,,,,,,True,,,,
+Y42353_2025-06-23_DFW_DEN,,,2025-06-23,,,,,2025-06-23,,,,,,,,,,,True,,,,
+Y41019_2025-06-01_TIJ_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,19,1,GDL,02:56,21:22,17:26,1019,On Time,false,false,False,Operated by Volaris Mexico,21:07,17:09,0
+Y43201_2025-06-01_AGU_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,AGU,2025-06-01,,1,TIJ,02:46,08:27,06:45,3201,On Time,false,false,False,Operated by Volaris Mexico,08:30,06:45,0
+Y41143_2025-06-01_SJD_GDL,A321,Take Off,2025-06-01,1,Y4,00:00,SJD,2025-06-01,5,1,GDL,01:51,18:19,15:36,1143,On Time,false,false,False,Operated by Volaris Mexico,18:07,15:36,0
+Y41183_2025-06-02_HMO_GDL,A320,Landed,2025-06-02,1,Y4,00:33,HMO,2025-06-02,4,1,GDL,02:31,00:31,21:00,1183,Delayed,false,false,False,Operated by Volaris Mexico,23:33,20:27,0
+Y41772_2025-06-01_GDL_OAK,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,D41,1,OAK,03:51,21:14,18:28,1772,On Time,false,false,False,Operated by Volaris Mexico,21:20,18:28,0
+Y42911_2025-08-15_DEN_SNA,,,2025-08-15,,,,,2025-08-15,,,,,,,,,,,True,,,,
+Y4441_2025-06-01_OAX_MEX,A320,Landed,2025-06-01,1,Y4,00:00,OAX,2025-06-01,A1-2,1,MEX,01:00,08:48,07:59,441,On Time,false,false,False,Operated by Volaris Mexico,09:10,07:59,0
+Y4105_2025-06-03_CUN_MEX,A321,Landed,2025-06-03,1,Y4,00:00,CUN,2025-06-03,B1,2,MEX,02:29,23:41,22:13,105,On Time,false,false,False,Operated by Volaris Mexico,23:40,22:13,0
+Y43576_2025-06-01_CUN_TGZ,A321,Take Off,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A8,2,TGZ,01:36,15:58,15:24,3576,On Time,false,false,False,Operated by Volaris Mexico,16:05,15:24,0
+Y41791_2025-06-03_MIA_GDL,A320,Take Off,2025-06-03,1,Y4,00:00,MIA,2025-06-03,J11,G,GDL,03:52,16:17,13:19,1791,On Time,false,false,False,Operated by Volaris Mexico,16:28,13:19,0
+Y42788_2025-06-29_LAX_MCO,,,2025-06-29,,,,,2025-06-29,,,,,,,,,,,True,,,,
+Y4181_2025-06-01_TIJ_MEX,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,1,1,MEX,03:28,21:07,16:37,181,On Time,false,false,False,Operated by Volaris Mexico,21:00,16:37,0
+Y41281_2025-06-01_TRC_GDL,A320,Landed,2025-06-01,1,Y4,00:00,TRC,2025-06-01,5,1,GDL,01:25,22:26,21:07,1281,On Time,false,false,False,Operated by Volaris Mexico,22:21,21:02,0
+Y4186_2025-06-01_MEX_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,MEX,2025-06-01,28,1,TIJ,03:54,00:53,22:20,186,On Time,false,false,False,Operated by Volaris Mexico,01:03,22:20,0
+Y41084_2025-06-01_GDL_MTY,A320,Landed,2025-06-01,A,Y4,00:00,GDL,2025-06-01,C33,1,MTY,01:35,19:45,18:14,1084,On Time,false,false,False,Operated by Volaris Mexico,19:46,18:14,0
+Y4550_2025-06-01_TLC_SJD,A320,Landed,2025-06-01,1,Y4,00:00,TLC,2025-06-01,16,,SJD,02:02,15:35,14:36,550,On Time,false,false,False,Operated by Volaris Mexico,15:40,14:36,0
+Y41704_2025-06-01_GDL_ORD,A320,Landed,2025-06-01,5,Y4,00:00,GDL,2025-06-01,D43,1,ORD,03:57,11:10,07:21,1704,On Time,false,false,False,Operated by Volaris Mexico,11:19,07:21,0
+Y43532_2025-06-01_CUN_NLU,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A8,2,NLU,02:18,16:18,14:59,3532,On Time,false,false,False,Operated by Volaris Mexico,16:20,14:59,0
+Y4481_2025-06-01_CTM_MEX,A320,Landed,2025-06-01,1,Y4,00:00,CTM,2025-06-01,1,1,MEX,02:01,10:04,09:14,481,On Time,false,false,False,Operated by Volaris Mexico,10:20,09:14,0
+Y43124_2025-06-02_TIJ_PVR,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,12,1,PVR,02:41,17:35,14:00,3124,On Time,false,false,False,Operated by Volaris Mexico,17:42,14:00,0
+Y43061_2025-06-01_MLM_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,MLM,2025-06-01,2,1,TIJ,03:09,16:37,14:31,3061,On Time,false,false,False,Operated by Volaris Mexico,16:35,14:31,0
+Y4102_2025-06-03_MEX_CUN,A321,Landed,2025-06-03,2,Y4,00:00,MEX,2025-06-03,13,1,CUN,02:38,14:56,11:40,102,On Time,false,false,False,Operated by Volaris Mexico,14:58,11:40,0
+Y41863_2025-06-01_ONT_GDL,A321,Landed,2025-06-01,1,Y4,00:00,ONT,2025-06-01,207,2,GDL,03:04,01:07,21:11,1863,On Time,false,false,False,Operated by Volaris Mexico,01:16,21:11,0
+Y41162_2025-06-03_GDL_CJS,A320,Landed,2025-06-03,1,Y4,00:00,GDL,2025-06-03,A6,1,CJS,02:09,07:10,06:02,1162,On Time,false,false,False,Operated by Volaris Mexico,07:16,06:02,0
+Y41770_2025-06-05_GDL_OAK,A320,Take Off,2025-06-05,1,Y4,00:44,GDL,2025-06-05,C32,1,OAK,03:58,18:32,16:31,1770,Delayed,false,false,False,Operated by Volaris Mexico,17:53,15:47,0
+Y43919_2025-06-03_LIM_MEX,A320,Landed,2025-06-03,1,Y4,00:00,LIM,2025-06-03,D6,2,MEX,06:12,11:06,06:14,3919,On Time,false,false,False,Operated by Volaris Mexico,11:20,06:14,0
+Y47964_2025-06-01_TPQ_LAX,A320,Landed,2025-06-01,B,Y4,00:00,TPQ,2025-06-01,A1,1,LAX,03:00,14:41,11:46,7964,On Time,false,false,False,Operated by Volaris Mexico,14:44,11:46,0
+Y43220_2025-06-02_TIJ_PBC,A320,Programmed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,,1,PBC,03:29,07:32,03:03,3220,On Time,false,false,False,Operated by Volaris Mexico,07:32,03:03,0
+Y41230_2025-06-02_GDL_MID,A320,Landed,2025-06-02,1,Y4,00:00,GDL,2025-06-02,B13,1,MID,02:23,20:39,18:20,1230,On Time,false,false,False,Operated by Volaris Mexico,20:43,18:20,0
+Y47431_2025-06-01_HMO_MXL,A321,Programmed,2025-06-01,1,Y4,00:00,HMO,2025-06-01,6,1,MXL,01:11,11:56,11:45,7431,On Time,false,false,False,Operated by Volaris Mexico,11:56,11:45,0
+Y41203_2025-06-04_LAP_GDL,A320,Landed,2025-06-04,1,Y4,00:00,LAP,2025-06-04,3,1,GDL,01:33,18:03,15:14,1203,On Time,false,false,False,Operated by Volaris Mexico,17:49,15:14,0
+Y45977_2025-06-01_DFW_GDL,A320,Programmed,2025-06-01,1,Y4,00:00,DFW,2025-06-01,,D,GDL,02:44,16:15,13:31,5977,On Time,false,false,False,Operated by Volaris Mexico,16:15,13:31,0
+Y41203_2025-06-02_LAP_GDL,A320,Landed,2025-06-02,1,Y4,00:00,LAP,2025-06-02,1,1,GDL,01:39,18:09,15:23,1203,On Time,false,false,False,Operated by Volaris Mexico,18:02,15:23,0
+Y43123_2025-06-02_PVR_TIJ,A321,Programmed,2025-06-02,1,Y4,00:00,PVR,2025-06-02,1,1,TIJ,02:50,17:26,16:36,3123,On Time,false,false,False,Operated by Volaris Mexico,17:26,16:36,0
+Y41084_2025-06-02_GDL_MTY,A320,Landed,2025-06-02,A,Y4,00:51,GDL,2025-06-02,C31,1,MTY,01:28,20:31,19:05,1084,Delayed,false,false,False,Operated by Volaris Mexico,19:46,18:14,0
+Y43046_2025-06-01_TIJ_BJX,A320,Landed,2025-06-01,1,Y4,02:12,TIJ,2025-06-01,11,1,BJX,02:55,21:53,17:57,3046,Delayed,false,false,False,Operated by Volaris Mexico,19:41,15:45,0
+Y43350_2025-06-02_TIJ_QRO,A320,Landed,2025-06-02,1,Y4,02:03,TIJ,2025-06-02,14,1,QRO,02:55,06:53,02:58,3350,Delayed,false,false,False,Operated by Volaris Mexico,05:04,00:55,0
+Y42319_2025-07-17_DEN_LAS,,,2025-07-17,,,,,2025-07-17,,,,,,,,,,,True,,,,
+Y43931_2025-06-02_GUA_CUN,A320,Landed,2025-06-02,2,Y4,00:00,GUA,2025-06-02,5B,1,CUN,01:45,16:00,13:20,3931,On Time,false,false,False,Operated by Volaris Mexico,16:09,13:20,0
+Y4430_2025-06-02_MEX_TAP,A320,Landed,2025-06-02,1,Y4,00:56,MEX,2025-06-02,4,1,TAP,01:39,21:33,19:51,430,Delayed,false,false,False,Operated by Volaris Mexico,20:40,18:55,0
+Y45616_2025-06-01_MTY_MEX,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,2,A,MEX,01:28,23:33,22:10,5616,On Time,false,false,False,Operated by Volaris Mexico,23:45,22:10,0
+Y43082_2025-06-01_TIJ_CUN,A321,Landed,2025-06-01,2,Y4,00:00,TIJ,2025-06-01,3,1,CUN,04:29,17:25,09:56,3082,On Time,false,false,False,Operated by Volaris Mexico,17:15,09:59,0
+Y43211_2025-06-02_ZCL_TIJ,A321,Landed,2025-06-02,1,Y4,00:00,ZCL,2025-06-02,,1,TIJ,02:42,07:53,07:20,3211,On Time,false,false,False,Operated by Volaris Mexico,08:12,07:20,0
+Y43552_2025-06-02_CUN_PBC,A320,Landed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,A1,2,PBC,02:06,13:06,12:03,3552,On Time,false,false,False,Operated by Volaris Mexico,13:09,12:03,0
+Y41351_2025-06-02_PXM_GDL,A320,Programmed,2025-06-02,1,Y4,00:00,PXM,2025-06-02,,1,GDL,01:39,14:53,13:14,1351,On Time,false,false,False,Operated by Volaris Mexico,14:51,13:14,0
+Y4712_2025-06-01_MEX_LAX,A320,Landed,2025-06-01,B,Y4,00:00,MEX,2025-06-01,13,1,LAX,04:06,09:13,06:00,712,On Time,false,false,False,Operated by Volaris Mexico,09:12,06:00,0
+Y43005_2025-06-01_CUL_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,CUL,2025-06-01,1,1,TIJ,01:56,19:36,17:45,3005,On Time,false,false,False,Operated by Volaris Mexico,19:44,17:45,0
+Y47913_2025-06-01_SLP_DFW,A320,Landed,2025-06-01,D,Y4,00:00,SLP,2025-06-01,5,1,DFW,02:26,16:47,14:06,7913,On Time,false,false,False,Operated by Volaris Mexico,16:13,14:06,0
+Y41861_2025-06-03_ONT_GDL,A320,Take Off,2025-06-03,1,Y4,00:00,ONT,2025-06-03,207,2,GDL,03:05,05:46,00:42,1861,On Time,false,false,False,Operated by Volaris Mexico,05:40,00:42,0
+Y45584_2025-06-02_MTY_CUN,A320,Landed,2025-06-02,2,Y4,00:00,MTY,2025-06-02,2,A,CUN,02:26,09:33,06:07,5584,On Time,false,false,False,Operated by Volaris Mexico,09:28,06:06,0
+Y47770_2025-06-03_MLM_MDW,A320,Landed,2025-06-03,1,Y4,00:00,MLM,2025-06-03,1,1,MDW,03:47,15:08,10:30,7770,On Time,false,false,False,Operated by Volaris Mexico,15:23,10:30,0
+Y42527_2025-07-13_DFW_CLT,,,2025-07-13,,,,,2025-07-13,,,,,,,,,,,True,,,,
+Y43180_2025-06-01_TIJ_HMO,A320,Programmed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,,1,HMO,01:22,06:25,05:03,3180,On Time,false,false,False,Operated by Volaris Mexico,06:25,05:03,0
+Y41290_2025-06-01_GDL_NLU,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C34,1,NLU,01:08,07:53,06:45,1290,On Time,false,false,False,Operated by Volaris Mexico,08:00,06:45,0
+Y45612_2025-06-01_MTY_PVR,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,3,A,PVR,01:30,12:52,11:25,5612,On Time,false,false,False,Operated by Volaris Mexico,12:57,11:25,0
+Y42089_2025-06-18_LAS_LAX,,,2025-06-18,,,,,2025-06-18,,,,,,,,,,,True,,,,
+Y41776_2025-06-02_GDL_OAK,A321,Take Off,2025-06-02,1,Y4,00:00,GDL,2025-06-02,D45,1,OAK,04:12,11:56,09:39,1776,On Time,false,false,False,Operated by Volaris Mexico,11:45,09:39,0
+Y45591_2025-06-01_MID_MTY,A320,Landed,2025-06-01,A,Y4,00:00,MID,2025-06-01,C5,1,MTY,02:03,15:04,12:58,5591,On Time,false,false,False,Operated by Volaris Mexico,15:07,12:58,0
+Y47890_2025-06-01_QRO_ORD,A320,Landed,2025-06-01,5,Y4,00:00,QRO,2025-06-01,B-1,1,ORD,03:53,04:06,23:23,7890,On Time,false,false,False,Operated by Volaris Mexico,04:18,23:23,0
+Y47849_2025-06-04_LAX_OAX,A320,Landed,2025-06-04,1,Y4,00:00,LAX,2025-06-04,201B,B,OAX,03:56,18:16,13:23,7849,On Time,false,false,False,Operated by Volaris Mexico,18:27,13:23,0
+Y43123_2025-06-03_PVR_TIJ,A321,Landed,2025-06-03,1,Y4,00:00,PVR,06/03/2025,1,1,TIJ,02:47,17:22,16:36,3123,On Time,false,false,False,Operated by Volaris Mexico,17:26,16:36,0
+Y41911_2025-06-01_CLT_GDL,A321,Landed,2025-06-01,1,Y4,00:00,CLT,2025-06-01,D6,1,GDL,04:28,18:07,14:51,1911,On Time,false,false,False,Operated by Volaris Mexico,18:29,14:51,0
+Y41011_2025-06-02_TIJ_GDL,A321,Take Off,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,12,1,GDL,03:14,23:26,18:11,1011,On Time,false,false,False,Operated by Volaris Mexico,23:01,18:11,0
+Y43231_2025-06-01_LAP_TIJ,A320,Landed,2025-06-01,1,Y4,00:00,LAP,2025-06-01,5,1,TIJ,01:53,09:18,08:32,3231,On Time,false,false,False,Operated by Volaris Mexico,09:31,08:32,0
+Y42552_2025-07-12_DEN_IAH,,,2025-07-12,,,,,2025-07-12,,,,,,,,,,,True,,,,
+Y43296_2025-06-02_TIJ_NLU,A320,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,19,1,NLU,03:14,22:32,17:26,3296,On Time,false,false,False,Operated by Volaris Mexico,22:37,17:26,0
+Y43258_2025-06-01_TIJ_LMM,A320,Landed,2025-06-01,1,Y4,00:00,TIJ,2025-06-01,11,1,LMM,01:42,20:05,17:36,3258,On Time,false,false,False,Operated by Volaris Mexico,20:23,17:36,0
+Y4701_2025-06-02_ORD_MEX,A321,Landed,2025-06-02,1,Y4,00:00,ORD,2025-06-02,M-15,5,MEX,04:33,04:42,01:40,701,On Time,false,false,False,Operated by Volaris Mexico,04:50,01:40,0
+Y41774_2025-06-01_GDL_OAK,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C34,1,OAK,03:46,11:48,09:02,1774,On Time,false,false,False,Operated by Volaris Mexico,11:58,09:02,0
+Y43004_2025-06-02_TIJ_CUL,A321,Programmed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,18,1,CUL,01:59,14:42,11:43,3004,On Time,false,false,False,Operated by Volaris Mexico,14:44,11:43,0
+Y41010_2025-06-01_GDL_TIJ,A321,Take Off,2025-06-01,1,Y4,05:11,GDL,2025-06-01,C34,1,TIJ,02:50,05:53,04:11,1010,Delayed,false,false,False,Operated by Volaris Mexico,00:51,23:00,0
+Y41210_2025-06-02_GDL_TLC,A320,Take Off,2025-06-02,,Y4,00:00,GDL,2025-06-02,B10,1,TLC,01:06,07:40,06:30,1210,On Time,false,false,False,Operated by Volaris Mexico,07:37,06:30,0
+Y4700_2025-06-03_MEX_ORD,,Programmed,2025-06-03,5,Y4,,MEX,2025-06-03,,1,ORD,03:56,04:36,00:40,700,Cancelled,false,false,False,Operated by Volaris Mexico,04:36,00:40,0
+Y41084_2025-06-03_GDL_MTY,A320,Landed,2025-06-03,A,Y4,00:00,GDL,2025-06-03,B11,1,MTY,01:33,19:38,18:14,1084,On Time,false,false,False,Operated by Volaris Mexico,19:46,18:14,0
+Y43102_2025-06-02_TIJ_SJD,A321,Landed,2025-06-02,1,Y4,00:00,TIJ,2025-06-02,10,1,SJD,01:58,15:57,14:03,3102,On Time,false,false,False,Operated by Volaris Mexico,16:10,14:03,0
+Y41104_2025-06-01_GDL_MXL,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,C35,1,MXL,02:39,00:23,22:51,1104,On Time,false,false,False,Operated by Volaris Mexico,00:36,22:51,0
+Y41141_2025-06-01_SJD_GDL,A320,Landed,2025-06-01,1,Y4,00:00,SJD,2025-06-01,6,1,GDL,01:34,19:51,17:34,1141,On Time,false,false,False,Operated by Volaris Mexico,20:05,17:34,0
+Y41105_2025-06-03_MXL_GDL,A320,Landed,2025-06-03,1,Y4,00:00,MXL,2025-06-03,1,1,GDL,02:35,23:14,18:19,1105,On Time,false,false,False,Operated by Volaris Mexico,22:59,18:19,0
+Y4771_2025-06-02_OAK_MEX,A321,Take Off,2025-06-02,1,Y4,00:00,OAK,2025-06-02,9,1,MEX,04:15,03:26,21:17,771,On Time,false,false,False,Operated by Volaris Mexico,03:20,21:17,0
+Y43919_2025-06-02_LIM_MEX,A320,Landed,2025-06-02,1,Y4,00:00,LIM,2025-06-02,D7,2,MEX,05:51,11:30,06:14,3919,On Time,false,false,False,Operated by Volaris Mexico,11:20,06:14,0
+Y4261_2025-06-02_TGZ_MEX,A321,Landed,2025-06-02,1,Y4,00:00,TGZ,2025-06-02,A-6,1,MEX,01:27,01:30,23:58,261,On Time,false,false,False,Operated by Volaris Mexico,01:35,23:58,0
+Y4401_2025-06-01_MZT_MEX,A321,Landed,2025-06-01,1,Y4,00:00,MZT,2025-06-01,P8,1,MEX,01:38,18:30,16:03,401,On Time,false,false,False,Operated by Volaris Mexico,18:45,16:03,0
+Y43552_2025-06-01_CUN_PBC,A320,Landed,2025-06-01,1,Y4,00:00,CUN,2025-06-01,A9,2,PBC,02:03,13:01,12:03,3552,On Time,false,false,False,Operated by Volaris Mexico,13:09,12:03,0
+Y41240_2025-06-01_GDL_OAX,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,D44,1,OAX,01:37,07:45,06:07,1240,On Time,false,false,False,Operated by Volaris Mexico,07:43,06:07,0
+Y4261_2025-06-03_TGZ_MEX,A321,Programmed,2025-06-03,1,Y4,00:00,TGZ,2025-06-03,A-6,1,MEX,01:30,01:28,23:58,261,On Time,false,false,False,Operated by Volaris Mexico,01:35,23:58,0
+Y47920_2025-06-02_MLM_IAH,A320,Landed,2025-06-02,D,Y4,00:00,MLM,2025-06-02,2,1,IAH,02:12,09:58,07:57,7920,On Time,false,false,False,Operated by Volaris Mexico,10:11,07:57,0
+Y45615_2025-06-02_PVR_MTY,A320,Landed,2025-06-02,A,Y4,00:00,PVR,2025-06-02,4,1,MTY,01:29,19:10,17:50,5615,On Time,false,false,False,Operated by Volaris Mexico,19:20,17:50,0
+Y47780_2025-06-01_MLM_LAX,A320,Landed,2025-06-01,,Y4,00:00,MLM,2025-06-01,4,,LAX,03:38,12:20,09:47,7780,On Time,false,false,False,Operated by Volaris Mexico,12:33,09:47,0
+Y47305_2025-06-02_PVR_BJX,,Programmed,2025-06-02,1,Y4,,PVR,2025-06-02,5,1,BJX,01:01,14:56,13:55,7305,Cancelled,false,false,False,Operated by Volaris Mexico,14:57,13:55,0
+Y4151_2025-06-01_GDL_MEX,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,A4,1,MEX,01:27,23:15,21:47,151,On Time,false,false,False,Operated by Volaris Mexico,23:10,21:47,0
+Y45554_2025-06-02_MTY_QRO,A320,Landed,2025-06-02,1,Y4,00:00,MTY,2025-06-02,4,A,QRO,01:06,20:50,19:45,5554,On Time,false,false,False,Operated by Volaris Mexico,21:05,19:45,0
+Y4712_2025-06-03_MEX_LAX,A320,Landed,2025-06-03,B,Y4,00:00,MEX,2025-06-03,10,1,LAX,03:47,07:48,06:00,712,On Time,false,false,False,Operated by Volaris Mexico,08:05,06:00,0
+Y4102_2025-06-04_MEX_CUN,A320,Landed,2025-06-04,2,Y4,00:00,MEX,2025-06-04,27,1,CUN,02:18,14:57,11:45,102,On Time,false,false,False,Operated by Volaris Mexico,15:01,11:45,0
+Y41715_2025-06-02_LAX_GDL,A321,Landed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201A,B,GDL,03:02,19:53,15:41,1715,On Time,false,false,False,Operated by Volaris Mexico,19:52,15:41,0
+Y41007_2025-06-05_TIJ_GDL,A321,Landed,2025-06-05,1,Y4,00:00,TIJ,2025-06-05,3,1,GDL,02:54,16:18,11:23,1007,On Time,false,false,False,Operated by Volaris Mexico,16:24,11:34,0
+Y41126_2025-06-01_GDL_CUL,A320,Landed,2025-06-01,1,Y4,00:00,GDL,2025-06-01,B12,1,CUL,01:21,19:32,19:11,1126,On Time,false,false,False,Operated by Volaris Mexico,19:21,18:57,0
+Y41775_2025-06-01_OAK_GDL,A320,Programmed,2025-06-01,1,Y4,00:00,OAK,2025-06-01,1,1,GDL,03:54,18:15,13:21,1775,On Time,false,false,False,Operated by Volaris Mexico,18:15,13:21,0
+Y41181_2025-06-02_HMO_GDL,A321,Landed,2025-06-02,1,Y4,00:00,HMO,2025-06-02,1,1,GDL,02:08,11:32,08:26,1181,On Time,false,false,False,Operated by Volaris Mexico,11:29,08:26,0
+Y47110_2025-06-01_NLU_MID,A320,Programmed,2025-06-01,1,Y4,00:00,NLU,2025-06-01,,1,MID,01:46,08:44,06:58,7110,On Time,false,false,False,Operated by Volaris Mexico,08:44,06:58,0
+Y43553_2025-06-01_PBC_CUN,A320,Landed,2025-06-01,2,Y4,00:00,PBC,2025-06-01,3,1,CUN,02:01,11:16,08:14,3553,On Time,false,false,False,Operated by Volaris Mexico,11:18,08:02,0
+Y4111_2025-06-02_CUN_MEX,A321,Programmed,2025-06-02,1,Y4,00:00,CUN,2025-06-02,,2,MEX,02:27,05:45,04:18,111,On Time,false,false,False,Operated by Volaris Mexico,05:45,04:18,0
+Y43205_2025-06-02_AGU_TIJ,A320,Landed,2025-06-02,1,Y4,02:06,AGU,2025-06-02,4,1,TIJ,02:51,19:20,18:16,3205,Delayed,false,false,False,Operated by Volaris Mexico,17:08,16:10,0
+Y41046_2025-06-03_GDL_CUN,A321,Landed,2025-06-03,2,Y4,00:00,GDL,2025-06-03,B11,1,CUN,02:44,22:17,18:16,1046,On Time,false,false,False,Operated by Volaris Mexico,21:49,18:01,0
+Y45605_2025-06-04_TLC_MTY,A320,Programmed,2025-06-04,A,Y4,00:00,TLC,2025-06-04,16,,MTY,01:45,22:18,20:33,5605,On Time,false,false,False,Operated by Volaris Mexico,22:18,20:33,0
+Y43577_2025-06-02_TGZ_CUN,A321,Programmed,2025-06-02,2,Y4,00:00,TGZ,2025-06-02,,1,CUN,01:41,14:33,11:52,3577,On Time,false,false,False,Operated by Volaris Mexico,14:29,11:52,0
+Y4261_2025-06-01_TGZ_MEX,A321,Landed,2025-06-01,1,Y4,00:00,TGZ,2025-06-01,A-6,1,MEX,01:26,08:51,07:36,261,On Time,false,false,False,Operated by Volaris Mexico,09:10,07:36,0
+Y4751_2025-06-01_SAT_MEX,A321,Landed,2025-06-01,1,Y4,00:00,SAT,2025-06-01,A9,A,MEX,02:14,13:50,12:36,751,On Time,false,false,False,Operated by Volaris Mexico,13:40,12:36,0
+Y45524_2025-06-01_MTY_DEN,A320,Landed,2025-06-01,1,Y4,00:00,MTY,2025-06-01,9,A,DEN,02:46,11:22,09:02,5524,On Time,false,false,False,Operated by Volaris Mexico,11:53,09:02,0
+Y4371_2025-06-03_ACA_MEX,A321,Programmed,2025-06-03,1,Y4,01:05,ACA,2025-06-03,2,1,MEX,00:58,20:40,19:42,371,Delayed,false,false,False,Operated by Volaris Mexico,19:45,18:37,0
+Y4441_2025-06-01_OAX_MEX,A320,Landed,2025-06-01,1,Y4,00:00,OAX,2025-06-01,A1-2,1,MEX,01:00,08:48,07:59,441,On Time,false,false,False,Operated by Volaris Mexico,09:10,07:59,0
+Y41251_2025-06-01_VER_GDL,A321,Landed,2025-06-01,1,Y4,00:00,VER,2025-06-01,B7,1,GDL,01:27,10:10,08:57,1251,On Time,false,false,False,Operated by Volaris Mexico,10:30,08:57,0
+Y4461_2025-06-01_VSA_MEX,A321,Landed,2025-06-01,1,Y4,00:00,VSA,2025-06-01,5,1,MEX,01:30,10:29,09:12,461,On Time,false,false,False,Operated by Volaris Mexico,10:45,09:12,0
+Y43203_2025-06-02_AGU_TIJ,A320,Programmed,2025-06-02,1,Y4,05:18,AGU,2025-06-02,,1,TIJ,03:02,01:13,00:11,3203,Delayed,false,false,False,Operated by Volaris Mexico,19:51,18:53,0
+Y41715_2025-06-02_LAX_GDL,A321,Landed,2025-06-02,1,Y4,00:00,LAX,2025-06-02,201A,B,GDL,03:02,19:53,15:41,1715,On Time,false,false,False,Operated by Volaris Mexico,19:52,15:41,0
