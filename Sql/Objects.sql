@@ -1,4 +1,6 @@
 
+USE master
+GO
 ------------------------------------------------------------------------------------
 --Se crea la base de con la cual se va a trabajar
 DROP DATABASE IF EXISTS Test_DataAnalystMintData
@@ -22,12 +24,12 @@ CREATE SCHEMA GoldData --Data final (Data de produccion)
 GO
 
 ------------------------------------------------------------------------------------
---Se crean las diferentes tablas que se van a usar
+--Se crean las diferentes tablas que se van a usar para traer la RawData
 DROP TABLE IF EXISTS RawData.ak_output
 GO 
 
 CREATE TABLE RawData.ak_output (
-	flight_id                  NVARCHAR(100),    
+	flight_id                  NVARCHAR(100),   
 	ArrivalTerminal            NVARCHAR(100),    
 	baggageID                  NVARCHAR(100),    
 	boardGate                  NVARCHAR(100),    
@@ -159,3 +161,94 @@ CREATE TABLE RawData.y4_output(
 
 
 
+------------------------------------------------------------------------------------
+--Se crean las diferentes tablas que se van a usar para la limpieza y transformacion de datos
+DROP TABLE IF EXISTS Clean.ak_output
+GO 
+
+CREATE TABLE Clean.ak_output (
+	flight_id				NVARCHAR(100) PRIMARY KEY	,   
+	airline_iata			VARCHAR(5)	NOT NULL	,    
+	airline_icao			VARCHAR(3)	NOT NULL	,
+	flight_number			VARCHAR(10)	NOT NULL	,
+	departure_date			DATE					,
+	dep_airport_iata		VARCHAR(3)	NOT NULL	,
+	arr_airport_iata		VARCHAR(3)	NOT NULL	,
+	scheduled_departure		DATETIME				,
+	estimated_departure		DATETIME				,
+	actual_departure		DATETIME				,
+	scheduled_arrival		DATETIME				,
+	estimated_arrival		DATETIME				,
+	actual_arrival			DATETIME				,
+	flight_status			VARCHAR(20)	NOT NULL	,
+	dep_delay_minutes		INT						,
+	arr_delay_minutes		INT						,
+	aircraft_type			VARCHAR(10)
+)
+
+
+DROP TABLE IF EXISTS Clean.jt_output
+GO 
+
+CREATE TABLE Clean.jt_output(
+	flight_id                 VARCHAR(30),
+	aircraftAge               FLOAT,
+	aircraftType              VARCHAR(10),
+	airlineCode               VARCHAR(10),
+	airlineName               VARCHAR(30),
+	airlinePhone              VARCHAR(30),
+	arrivalAirportHelpline    VARCHAR(30),
+	arrivalDeviation          NVARCHAR(MAX),
+	boardingStatus            NVARCHAR(MAX),
+	[delay]                   NVARCHAR(MAX),
+	departureAirportHelpline  NVARCHAR(MAX),
+	departureDeviation        NVARCHAR(MAX),
+	destAirport               NVARCHAR(MAX),
+	distance                  NVARCHAR(MAX),
+	duration                  NVARCHAR(MAX),
+	durationStr               NVARCHAR(MAX),
+	flightNumber              NVARCHAR(MAX),
+	flightUniqueId            NVARCHAR(MAX),
+	isArrivalDelayed          NVARCHAR(MAX),
+	isDepartureDelayed        NVARCHAR(MAX),
+	nextDayCount              NVARCHAR(MAX),
+	onTimeAccuracy            NVARCHAR(MAX),
+	originAirport             NVARCHAR(MAX),
+	providerStatus            NVARCHAR(MAX),
+	[status]                  NVARCHAR(MAX),
+	statusMap                 NVARCHAR(MAX),
+	technicalStop             NVARCHAR(MAX),
+	terminalInfo              NVARCHAR(MAX),
+	timings                   NVARCHAR(MAX)
+)
+
+
+DROP TABLE IF EXISTS Clean.y4_output
+GO 
+
+CREATE TABLE Clean.y4_output(
+	flight_id           VARCHAR(30),
+	aircraftFamily      VARCHAR(10),
+	aircraftStatus      NVARCHAR(100),
+	arrivalDate         DATE,
+	arrivalTerminal     NVARCHAR(100),
+	carrier             NVARCHAR(100),
+	delayDuration       NVARCHAR(100),
+	departure           NVARCHAR(100),
+	departureDate       NVARCHAR(100),
+	departureGate       NVARCHAR(100),
+	departureTerminal   NVARCHAR(100),
+	destination         NVARCHAR(100),
+	duration            NVARCHAR(100),
+	estimatedArrival    NVARCHAR(100),
+	estimatedDeparture  NVARCHAR(100),
+	flightNumber        NVARCHAR(100),
+	flightStatus        NVARCHAR(100),
+	irop                NVARCHAR(100),
+	isBlacklisted       NVARCHAR(100),
+	isCodeShare         NVARCHAR(100),
+	operatedBy          NVARCHAR(100),
+	scheduledArrival    NVARCHAR(100),
+	scheduledDeparture  NVARCHAR(100),
+	thruFlights         NVARCHAR(100)
+)
