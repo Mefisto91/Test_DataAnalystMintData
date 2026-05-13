@@ -1,6 +1,6 @@
 
---USE Test_DataAnalystMintData
---GO
+USE Test_DataAnalystMintData
+GO
 
 -- Se realiza la limpieza y transformacion de datos para poderlas insertar en la tabla ak_output del esquema Clean
 INSERT INTO Test_DataAnalystMintData.Clean.ak_output (flight_id,airline_iata,airline_icao,flight_number,departure_date,dep_airport_iata,arr_airport_iata,scheduled_departure,estimated_departure,actual_departure,scheduled_arrival,estimated_arrival,

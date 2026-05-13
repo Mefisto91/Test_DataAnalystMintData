@@ -258,3 +258,5 @@ CREATE TABLE GoldData.flights_unified(
 	arr_delay_minutes		INT						,
 	aircraft_type			VARCHAR(10)
 )
+
+
